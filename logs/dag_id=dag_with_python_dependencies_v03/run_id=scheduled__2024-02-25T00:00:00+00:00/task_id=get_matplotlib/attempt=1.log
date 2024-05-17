@@ -1,0 +1,19 @@
+[2024-04-25T05:46:37.810+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-25T05:46:37.836+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_with_python_dependencies_v03.get_matplotlib scheduled__2024-02-25T00:00:00+00:00 [queued]>
+[2024-04-25T05:46:37.845+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_with_python_dependencies_v03.get_matplotlib scheduled__2024-02-25T00:00:00+00:00 [queued]>
+[2024-04-25T05:46:37.847+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-25T05:46:37.856+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): get_matplotlib> on 2024-02-25 00:00:00+00:00
+[2024-04-25T05:46:37.863+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=9916) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-04-25T05:46:37.864+0000] {standard_task_runner.py:63} INFO - Started process 9924 to run task
+[2024-04-25T05:46:37.863+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'dag_with_python_dependencies_v03', 'get_matplotlib', 'scheduled__2024-02-25T00:00:00+00:00', '--job-id', '1739', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_python_dependencies.py', '--cfg-path', '/tmp/tmp84009y1z']
+[2024-04-25T05:46:37.866+0000] {standard_task_runner.py:91} INFO - Job 1739: Subtask get_matplotlib
+[2024-04-25T05:46:37.919+0000] {task_command.py:426} INFO - Running <TaskInstance: dag_with_python_dependencies_v03.get_matplotlib scheduled__2024-02-25T00:00:00+00:00 [running]> on host a55babecb56c
+[2024-04-25T05:46:38.016+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='coder2j' AIRFLOW_CTX_DAG_ID='dag_with_python_dependencies_v03' AIRFLOW_CTX_TASK_ID='get_matplotlib' AIRFLOW_CTX_EXECUTION_DATE='2024-02-25T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-02-25T00:00:00+00:00'
+[2024-04-25T05:46:38.020+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-25T05:46:38.090+0000] {logging_mixin.py:188} INFO - matplotlib with version: 3.8.4
+[2024-04-25T05:46:38.091+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-25T05:46:38.091+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-25T05:46:38.105+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=dag_with_python_dependencies_v03, task_id=get_matplotlib, execution_date=20240225T000000, start_date=20240425T054637, end_date=20240425T054638
+[2024-04-25T05:46:38.135+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-25T05:46:38.151+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-04-25T05:46:38.152+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,41 @@
+[2024-05-10T08:24:16.131+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-10T08:24:16.147+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: xcom_push_and_pull_example_dag.targeted_push manual__2024-05-10T08:24:14.992536+00:00 [queued]>
+[2024-05-10T08:24:16.152+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: xcom_push_and_pull_example_dag.targeted_push manual__2024-05-10T08:24:14.992536+00:00 [queued]>
+[2024-05-10T08:24:16.152+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-05-10T08:24:16.159+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): targeted_push> on 2024-05-10 08:24:14.992536+00:00
+[2024-05-10T08:24:16.163+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'xcom_push_and_pull_example_dag', 'targeted_push', 'manual__2024-05-10T08:24:14.992536+00:00', '--job-id', '5757', '--raw', '--subdir', 'DAGS_FOLDER/io_dag.py', '--cfg-path', '/tmp/tmp0ix6j3yn']
+[2024-05-10T08:24:16.165+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=2666) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-05-10T08:24:16.165+0000] {standard_task_runner.py:91} INFO - Job 5757: Subtask targeted_push
+[2024-05-10T08:24:16.165+0000] {standard_task_runner.py:63} INFO - Started process 2669 to run task
+[2024-05-10T08:24:16.194+0000] {task_command.py:426} INFO - Running <TaskInstance: xcom_push_and_pull_example_dag.targeted_push manual__2024-05-10T08:24:14.992536+00:00 [running]> on host 92f239b8dd4a
+[2024-05-10T08:24:16.242+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='xcom_push_and_pull_example_dag' AIRFLOW_CTX_TASK_ID='targeted_push' AIRFLOW_CTX_EXECUTION_DATE='2024-05-10T08:24:14.992536+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-10T08:24:14.992536+00:00'
+[2024-05-10T08:24:16.244+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-10T08:24:16.252+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-10T08:24:16.252+0000] {taskinstance.py:2890} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/io_dag.py", line 14, in targeted_push
+    task_instance.xcom_push(key='my_key', value='Targeted', task_ids = ['pull_from_one', 'pull_from_multiple'])
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: TaskInstance.xcom_push() got an unexpected keyword argument 'task_ids'
+[2024-05-10T08:24:16.262+0000] {taskinstance.py:1205} INFO - Marking task as FAILED. dag_id=xcom_push_and_pull_example_dag, task_id=targeted_push, execution_date=20240510T082414, start_date=20240510T082416, end_date=20240510T082416
+[2024-05-10T08:24:16.269+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 5757 for task targeted_push (TaskInstance.xcom_push() got an unexpected keyword argument 'task_ids'; 2669)
+[2024-05-10T08:24:16.304+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-05-10T08:24:16.317+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-10T08:24:16.320+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

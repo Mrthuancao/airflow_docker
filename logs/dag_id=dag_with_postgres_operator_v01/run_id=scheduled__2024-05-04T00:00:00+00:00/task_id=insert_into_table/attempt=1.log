@@ -1,0 +1,27 @@
+[2024-05-10T07:04:12.829+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-10T07:04:12.866+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_with_postgres_operator_v01.insert_into_table scheduled__2024-05-04T00:00:00+00:00 [queued]>
+[2024-05-10T07:04:12.876+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_with_postgres_operator_v01.insert_into_table scheduled__2024-05-04T00:00:00+00:00 [queued]>
+[2024-05-10T07:04:12.883+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 6
+[2024-05-10T07:04:12.920+0000] {taskinstance.py:2327} INFO - Executing <Task(PostgresOperator): insert_into_table> on 2024-05-04 00:00:00+00:00
+[2024-05-10T07:04:12.933+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'dag_with_postgres_operator_v01', 'insert_into_table', 'scheduled__2024-05-04T00:00:00+00:00', '--job-id', '5585', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_postgres_operator.py', '--cfg-path', '/tmp/tmph11wmi5r']
+[2024-05-10T07:04:12.940+0000] {standard_task_runner.py:91} INFO - Job 5585: Subtask insert_into_table
+[2024-05-10T07:04:12.935+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=484) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-05-10T07:04:12.953+0000] {standard_task_runner.py:63} INFO - Started process 494 to run task
+[2024-05-10T07:04:13.129+0000] {task_command.py:426} INFO - Running <TaskInstance: dag_with_postgres_operator_v01.insert_into_table scheduled__2024-05-04T00:00:00+00:00 [running]> on host ba9ec80fe13a
+[2024-05-10T07:04:13.282+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='coder2j' AIRFLOW_CTX_DAG_ID='dag_with_postgres_operator_v01' AIRFLOW_CTX_TASK_ID='insert_into_table' AIRFLOW_CTX_EXECUTION_DATE='2024-05-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-05-04T00:00:00+00:00'
+[2024-05-10T07:04:13.283+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-10T07:04:13.340+0000] {sql.py:276} INFO - Executing: 
+            insert into dag_runs (dt, dag_id) values ('2024-05-04', 'dag_with_postgres_operator_v01')
+        
+[2024-05-10T07:04:13.389+0000] {base.py:84} INFO - Using connection ID 'postgres_localhost' for task execution.
+[2024-05-10T07:04:13.416+0000] {base.py:84} INFO - Using connection ID 'postgres_localhost' for task execution.
+[2024-05-10T07:04:13.449+0000] {sql.py:457} INFO - Running statement: 
+            insert into dag_runs (dt, dag_id) values ('2024-05-04', 'dag_with_postgres_operator_v01')
+        , parameters: None
+[2024-05-10T07:04:13.522+0000] {sql.py:466} INFO - Rows affected: 1
+[2024-05-10T07:04:13.535+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/providers/common/sql/hooks/sql.py:407 AirflowProviderDeprecationWarning: Call to deprecated method _make_common_data_structure. (The `_make_serializable` method is deprecated and support will be removed in a future version of the common.sql provider. Please update the DbApiHook's provider to a version based on common.sql >= 1.9.1.)
+[2024-05-10T07:04:13.581+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-10T07:04:13.603+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=dag_with_postgres_operator_v01, task_id=insert_into_table, execution_date=20240504T000000, start_date=20240510T070412, end_date=20240510T070413
+[2024-05-10T07:04:13.706+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-10T07:04:13.740+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-10T07:04:13.779+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

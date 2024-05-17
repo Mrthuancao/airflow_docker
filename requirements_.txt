@@ -1,0 +1,12 @@
+dbt-core==1.1.1
+dbt-extractor==0.4.1
+dbt-snowflake==1.1.0
+great-expectations==0.15.10
+pydantic==1.9.1
+zipp==3.8.0
+aiobotocore==2.3.2
+botocore
+boto3==1.21.21
+psycopg2-binary
+snowflake-connector-python
+snowflake-sqlalchemy

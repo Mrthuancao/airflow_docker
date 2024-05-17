@@ -1,0 +1,48 @@
+[2024-05-16T09:22:02.032+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-16T09:22:02.047+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_news.store_data scheduled__2024-05-16T09:20:00+00:00 [queued]>
+[2024-05-16T09:22:02.052+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_news.store_data scheduled__2024-05-16T09:20:00+00:00 [queued]>
+[2024-05-16T09:22:02.052+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-05-16T09:22:02.059+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): store_data> on 2024-05-16 09:20:00+00:00
+[2024-05-16T09:22:02.062+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=12340) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-05-16T09:22:02.063+0000] {standard_task_runner.py:63} INFO - Started process 12341 to run task
+[2024-05-16T09:22:02.062+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'scrape_news', 'store_data', 'scheduled__2024-05-16T09:20:00+00:00', '--job-id', '7227', '--raw', '--subdir', 'DAGS_FOLDER/recipes.py', '--cfg-path', '/tmp/tmpttibvfe3']
+[2024-05-16T09:22:02.064+0000] {standard_task_runner.py:91} INFO - Job 7227: Subtask store_data
+[2024-05-16T09:22:02.089+0000] {task_command.py:426} INFO - Running <TaskInstance: scrape_news.store_data scheduled__2024-05-16T09:20:00+00:00 [running]> on host 7d15e5f9da25
+[2024-05-16T09:22:02.134+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='scrape_news' AIRFLOW_CTX_TASK_ID='store_data' AIRFLOW_CTX_EXECUTION_DATE='2024-05-16T09:20:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-05-16T09:20:00+00:00'
+[2024-05-16T09:22:02.135+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-16T09:22:02.150+0000] {base.py:84} INFO - Using connection ID 'postgres_localhost' for task execution.
+[2024-05-16T09:22:02.154+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-16T09:22:02.155+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/recipes.py", line 63, in store_data
+    conn = hook.get_conn()
+           ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/postgres/hooks/postgres.py", line 161, in get_conn
+    self.conn = psycopg2.connect(**conn_args)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  password authentication failed for user "***"
+
+[2024-05-16T09:22:02.161+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=scrape_news, task_id=store_data, run_id=scheduled__2024-05-16T09:20:00+00:00, execution_date=20240516T092000, start_date=20240516T092202, end_date=20240516T092202
+[2024-05-16T09:22:02.166+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 7227 for task store_data (connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  password authentication failed for user "***"
+; 12341)
+[2024-05-16T09:22:02.205+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-05-16T09:22:02.214+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-16T09:22:02.215+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,33 @@
+[s3-details]
+s3_bucket_name = suman-data-exchange
+file_delimiter = ,
+[entities]
+entity_names = bundesliga-match-scores,frenchligue1-match-scores,laliga-match-scores,premierleague-match-scores,seriea-match-scores
+[file-partition-strategy]
+file_partition_levels = 3
+file_partition_level_1 = year
+file_partition_level_2 = month
+file_partition_level_3 = day
+[snowflake-details]
+snowflake_stage = raw_stage
+snowflake_file_format = raw_ff
+snowflake_raw_schema = dbt_raw
+snowflake_error_schema = dbt_data_errors
+snowflake_stage_schema = data_stage
+snowflake_db_name = suman_etl_db
+snowflake_wh_name = suman_etl_wh
+snowflake_role = etl_dev
+snowflake_metadata_schema = pipeline_metadata
+snowflake_metadata_table_name = t_key_value_pairs
+[dbt-settings]
+dbt_dir_name = data_transformations
+global_cli_flags = --no-write-json
+dbt_manifest_path = target/manifest.json
+[file-locations-base]
+inbound_incremental_raw = inbound/incremental/raw
+inbound_incremental_bad = inbound/incremental/bad
+inbound_archive_raw = archive/raw/
+inbound_archive_bad = archive/bad/
+[ge-settings]
+context_root_dir = great_expectations
+ge_snowflake_datasource = etl_snowflake_datasource

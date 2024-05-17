@@ -1,0 +1,1901 @@
+,day,date,time,home,xg_home,score,xg_away,away,attendance,venue,referee
+0,Sat,2021-08-21,18:30,Hellas Verona,2.1,2–3,1.4,Sassuolo,5448.0,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+1,Sat,2021-08-21,18:30,Inter,1.5,4–0,1.0,Genoa,27402.0,Stadio Giuseppe Meazza,Valerio Marini
+2,Sat,2021-08-21,20:45,Empoli,1.3,1–3,1.3,Lazio,3655.0,Stadio Carlo Castellani,Simone Sozza
+3,Sat,2021-08-21,20:45,Torino,1.3,1–2,1.0,Atalanta,3475.0,Stadio Olimpico di Torino,Daniele Chiffi
+4,Sun,2021-08-22,18:30,Bologna,1.5,3–2,1.6,Salernitana,8375.0,Stadio Renato Dall'Ara,Antonio Rapuano
+5,Sun,2021-08-22,18:30,Udinese,2.2,2–2,0.8,Juventus,9660.0,Dacia Arena,Ivan Pezzuto
+6,Sun,2021-08-22,20:45,Napoli,2.3,2–0,0.5,Venezia,20000.0,Stadio San Paolo,Gianluca Aureliano
+7,Sun,2021-08-22,20:45,Roma,2.7,3–1,1.2,Fiorentina,26997.0,Stadio Olimpico,Luca Pairetto
+8,Mon,2021-08-23,18:30,Cagliari,2.7,2–2,0.8,Spezia,5387.0,Sardegna Arena,Francesco Fourneau
+9,Mon,2021-08-23,20:45,Sampdoria,1.0,0–1,1.1,Milan,5000.0,Stadio Comunale Luigi Ferraris,Marco Guida
+11,Fri,2021-08-27,18:30,Udinese,2.7,3–0,1.0,Venezia,8274.0,Dacia Arena,Livio Marinelli
+12,Fri,2021-08-27,20:45,Hellas Verona,0.8,1–3,1.6,Inter,11214.0,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+13,Sat,2021-08-28,18:30,Atalanta,1.0,0–0,0.3,Bologna,7912.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+14,Sat,2021-08-28,18:30,Lazio,3.2,6–1,0.7,Spezia,20000.0,Stadio Olimpico,Federico Dionisi
+15,Sat,2021-08-28,20:45,Fiorentina,0.6,2–1,0.5,Torino,12592.0,Stadio Artemio Franchi,Maurizio Mariani
+16,Sat,2021-08-28,20:45,Juventus,1.5,0–1,0.8,Empoli,17584.0,Allianz Stadium,Davide Ghersini
+17,Sun,2021-08-29,18:30,Sassuolo,1.4,0–0,0.5,Sampdoria,3309.0,Stadio Città del Tricolore,Juan Sacchi
+18,Sun,2021-08-29,18:30,Genoa,0.6,1–2,1.1,Napoli,20000.0,Stadio Comunale Luigi Ferraris,Marco Di Bello
+19,Sun,2021-08-29,20:45,Milan,2.7,4–1,0.4,Cagliari,31946.0,Stadio Giuseppe Meazza,Marco Serra
+20,Sun,2021-08-29,20:45,Salernitana,0.3,0–4,1.9,Roma,12500.0,Stadio Arechi,Rosario Abisso
+22,Sat,2021-09-11,15:00,Empoli,1.9,1–2,1.7,Venezia,2511.0,Stadio Carlo Castellani,Antonio Rapuano
+23,Sat,2021-09-11,18:00,Napoli,2.1,2–1,1.0,Juventus,23500.0,Stadio San Paolo,Massimiliano Irrati
+24,Sat,2021-09-11,20:45,Atalanta,2.5,1–2,1.7,Fiorentina,9162.0,Stadio Atleti Azzurri d'Italia,Valerio Marini
+25,Sun,2021-09-12,12:30,Sampdoria,1.2,2–2,0.7,Inter,7441.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+26,Sun,2021-09-12,15:00,Spezia,1.3,0–1,0.8,Udinese,5162.0,Stadio Alberto Picco,Marco Guida
+27,Sun,2021-09-12,15:00,Torino,1.9,4–0,0.2,Salernitana,9082.0,Stadio Olimpico di Torino,Gianluca Aureliano
+28,Sun,2021-09-12,15:00,Cagliari,1.4,2–3,1.1,Genoa,6423.0,Sardegna Arena,Luca Pairetto
+29,Sun,2021-09-12,18:00,Milan,3.0,2–0,0.3,Lazio,36207.0,Stadio Giuseppe Meazza,Daniele Chiffi
+30,Sun,2021-09-12,20:45,Roma,2.8,2–1,1.7,Sassuolo,29604.0,Stadio Olimpico,Simone Sozza
+31,Mon,2021-09-13,20:45,Bologna,1.4,1–0,0.4,Hellas Verona,10218.0,Stadio Renato Dall'Ara,Ivan Pezzuto
+33,Fri,2021-09-17,20:45,Sassuolo,0.6,0–1,2.0,Torino,20000.0,Stadio Città del Tricolore,Marco Piccinini
+34,Sat,2021-09-18,15:00,Genoa,1.0,1–2,0.9,Fiorentina,6269.0,Stadio Comunale Luigi Ferraris,Livio Marinelli
+35,Sat,2021-09-18,18:00,Inter,3.1,6–1,0.5,Bologna,35278.0,Stadio Giuseppe Meazza,Giovanni Ayroldi
+36,Sat,2021-09-18,20:45,Salernitana,0.9,0–1,1.4,Atalanta,11949.0,Stadio Arechi,Paolo Valeri
+37,Sun,2021-09-19,12:30,Empoli,1.6,0–3,1.8,Sampdoria,3064.0,Stadio Carlo Castellani,Maurizio Mariani
+38,Sun,2021-09-19,15:00,Venezia,0.9,1–2,0.5,Spezia,3688.0,Stadio Pierluigi Penzo,Rosario Abisso
+39,Sun,2021-09-19,18:00,Hellas Verona,1.1,3–2,0.8,Roma,10148.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca
+40,Sun,2021-09-19,18:00,Lazio,2.1,2–2,1.8,Cagliari,20000.0,Stadio Olimpico,Davide Ghersini
+41,Sun,2021-09-19,20:45,Juventus,1.0,1–1,0.7,Milan,18785.0,Allianz Stadium,Daniele Doveri
+42,Mon,2021-09-20,20:45,Udinese,0.3,0–4,2.4,Napoli,11484.0,Dacia Arena,Gianluca Manganiello
+44,Tue,2021-09-21,18:30,Bologna,2.0,2–2,1.5,Genoa,9707.0,Stadio Renato Dall'Ara,Francesco Fourneau
+45,Tue,2021-09-21,20:45,Atalanta,1.6,2–1,0.7,Sassuolo,7353.0,Stadio Atleti Azzurri d'Italia,Davide Massa
+46,Tue,2021-09-21,20:45,Fiorentina,1.4,1–3,2.8,Inter,15927.0,Stadio Artemio Franchi,Michael Fabbri
+47,Wed,2021-09-22,18:30,Salernitana,2.7,2–2,1.7,Hellas Verona,9561.0,Stadio Arechi,Massimiliano Irrati
+48,Wed,2021-09-22,18:30,Spezia,0.7,2–3,2.3,Juventus,5700.0,Stadio Alberto Picco,Gianluca Aureliano
+49,Wed,2021-09-22,20:45,Milan,1.7,2–0,0.7,Venezia,26185.0,Stadio Giuseppe Meazza,Ivan Pezzuto
+50,Wed,2021-09-22,20:45,Cagliari,1.1,0–2,1.1,Empoli,7226.0,Sardegna Arena,Marco Di Bello
+51,Thu,2021-09-23,18:30,Torino,1.1,1–1,0.9,Lazio,8646.0,Stadio Olimpico di Torino,Rosario Abisso
+52,Thu,2021-09-23,18:30,Sampdoria,0.6,0–4,2.2,Napoli,4596.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+53,Thu,2021-09-23,20:45,Roma,1.3,1–0,0.9,Udinese,29593.0,Stadio Olimpico,Antonio Rapuano
+55,Sat,2021-09-25,15:00,Spezia,0.9,1–2,1.9,Milan,3618.0,Stadio Alberto Picco,Gianluca Manganiello
+56,Sat,2021-09-25,18:00,Inter,3.9,2–2,2.1,Atalanta,36517.0,Stadio Giuseppe Meazza,Fabio Maresca
+57,Sat,2021-09-25,20:45,Genoa,1.6,3–3,2.2,Hellas Verona,13478.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+58,Sun,2021-09-26,12:30,Juventus,2.4,3–2,0.4,Sampdoria,15381.0,Allianz Stadium,Giovanni Ayroldi
+59,Sun,2021-09-26,15:00,Udinese,0.6,0–1,1.1,Fiorentina,7208.0,Dacia Arena,Davide Ghersini
+60,Sun,2021-09-26,15:00,Sassuolo,1.3,1–0,0.9,Salernitana,5177.0,Stadio Città del Tricolore,Antonio Giua
+61,Sun,2021-09-26,15:00,Empoli,1.8,4–2,2.5,Bologna,5022.0,Stadio Carlo Castellani,Piero Giacomelli
+62,Sun,2021-09-26,18:00,Lazio,2.2,3–2,2.3,Roma,32000.0,Stadio Olimpico,Marco Guida
+63,Sun,2021-09-26,20:45,Napoli,1.8,2–0,0.2,Cagliari,20000.0,Stadio San Paolo,Marco Piccinini
+64,Mon,2021-09-27,20:45,Venezia,1.3,1–1,0.7,Torino,4888.0,Stadio Pierluigi Penzo,Lorenzo Maggioni
+66,Fri,2021-10-01,20:45,Cagliari,0.4,1–1,1.1,Venezia,8135.0,Sardegna Arena,Manuel Volpi
+67,Sat,2021-10-02,15:00,Salernitana,0.5,1–0,1.9,Genoa,10077.0,Stadio Arechi,Maurizio Mariani
+68,Sat,2021-10-02,18:00,Torino,1.0,0–1,0.9,Juventus,12073.0,Stadio Olimpico di Torino,Paolo Valeri
+69,Sat,2021-10-02,20:45,Sassuolo,1.5,1–2,1.9,Inter,10400.0,Stadio Città del Tricolore,Luca Pairetto
+70,Sun,2021-10-03,12:30,Bologna,0.5,3–0,0.6,Lazio,12975.0,Stadio Renato Dall'Ara,Davide Massa
+71,Sun,2021-10-03,15:00,Sampdoria,1.6,3–3,2.7,Udinese,4292.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+72,Sun,2021-10-03,15:00,Hellas Verona,0.4,4–0,1.4,Spezia,8398.0,Stadio Marc'Antonio Bentegodi,Giacomo Camplone
+73,Sun,2021-10-03,18:00,Fiorentina,0.7,1–2,1.7,Napoli,15264.0,Stadio Artemio Franchi,Simone Sozza
+74,Sun,2021-10-03,18:00,Roma,1.3,2–0,0.6,Empoli,31946.0,Stadio Olimpico,Giovanni Ayroldi
+75,Sun,2021-10-03,20:45,Atalanta,2.1,2–3,3.0,Milan,9363.0,Stadio Atleti Azzurri d'Italia,Marco Di Bello
+77,Sat,2021-10-16,15:00,Spezia,1.6,2–1,1.7,Salernitana,6023.0,Stadio Alberto Picco,Davide Massa
+78,Sat,2021-10-16,18:00,Lazio,2.5,3–1,1.4,Inter,42000.0,Stadio Olimpico,Massimiliano Irrati
+79,Sat,2021-10-16,20:45,Milan,1.5,3–2,1.4,Hellas Verona,40128.0,Stadio Giuseppe Meazza,Alessandro Prontera
+80,Sun,2021-10-17,12:30,Cagliari,1.1,3–1,1.5,Sampdoria,9923.0,Sardegna Arena,Matteo Marchetti
+81,Sun,2021-10-17,15:00,Udinese,1.0,1–1,1.7,Bologna,10627.0,Dacia Arena,Rosario Abisso
+82,Sun,2021-10-17,15:00,Empoli,0.7,1–4,4.2,Atalanta,6214.0,Stadio Carlo Castellani,Marco Serra
+83,Sun,2021-10-17,15:00,Genoa,1.3,2–2,2.0,Sassuolo,10370.0,Stadio Comunale Luigi Ferraris,Daniele Chiffi
+84,Sun,2021-10-17,18:00,Napoli,1.6,1–0,0.9,Torino,27579.0,Stadio San Paolo,Juan Sacchi
+85,Sun,2021-10-17,20:45,Juventus,0.8,1–0,1.4,Roma,20239.0,Allianz Stadium,Daniele Orsato
+86,Mon,2021-10-18,20:45,Venezia,1.0,1–0,0.5,Fiorentina,8043.0,Stadio Pierluigi Penzo,Luca Massimi
+88,Fri,2021-10-22,18:30,Torino,1.5,3–2,1.8,Genoa,9881.0,Stadio Olimpico di Torino,Piero Giacomelli
+89,Fri,2021-10-22,20:45,Sampdoria,0.9,2–1,0.9,Spezia,7493.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+90,Sat,2021-10-23,15:00,Salernitana,1.0,2–4,2.2,Empoli,11142.0,Stadio Arechi,Daniele Doveri
+91,Sat,2021-10-23,18:00,Sassuolo,2.0,3–1,0.5,Venezia,4482.0,Stadio Città del Tricolore,Antonio Di Martino
+92,Sat,2021-10-23,20:45,Bologna,0.7,2–4,0.9,Milan,22167.0,Stadio Renato Dall'Ara,Paolo Valeri
+93,Sun,2021-10-24,12:30,Atalanta,0.5,1–1,0.9,Udinese,9951.0,Stadio Atleti Azzurri d'Italia,Livio Marinelli
+94,Sun,2021-10-24,15:00,Fiorentina,3.1,3–0,0.2,Cagliari,20290.0,Stadio Artemio Franchi,Antonio Rapuano
+95,Sun,2021-10-24,15:00,Hellas Verona,2.8,4–1,0.9,Lazio,13953.0,Stadio Marc'Antonio Bentegodi,Marco Piccinini
+96,Sun,2021-10-24,18:00,Roma,1.3,0–0,0.9,Napoli,47801.0,Stadio Olimpico,Davide Massa
+97,Sun,2021-10-24,20:45,Inter,0.8,1–1,1.8,Juventus,56532.0,Stadio Giuseppe Meazza,Maurizio Mariani
+99,Tue,2021-10-26,18:30,Spezia,2.0,1–1,1.2,Genoa,7283.0,Stadio Alberto Picco,Simone Sozza
+100,Tue,2021-10-26,18:30,Venezia,0.5,1–2,1.3,Salernitana,5103.0,Stadio Pierluigi Penzo,Marco Di Bello
+101,Tue,2021-10-26,20:45,Milan,0.9,1–0,0.8,Torino,35929.0,Stadio Giuseppe Meazza,Gianluca Aureliano
+102,Wed,2021-10-27,18:30,Udinese,1.2,1–1,0.8,Hellas Verona,8751.0,Dacia Arena,Matteo Marchetti
+103,Wed,2021-10-27,18:30,Sampdoria,1.3,1–3,1.1,Atalanta,5462.0,Stadio Comunale Luigi Ferraris,Alessandro Prontera
+104,Wed,2021-10-27,18:30,Juventus,1.3,1–2,1.2,Sassuolo,18288.0,Allianz Stadium,Juan Sacchi
+105,Wed,2021-10-27,20:45,Lazio,0.6,1–0,0.6,Fiorentina,7000.0,Stadio Olimpico,Giovanni Ayroldi
+106,Wed,2021-10-27,20:45,Cagliari,1.1,1–2,2.4,Roma,8547.0,Sardegna Arena,Ivan Pezzuto
+107,Wed,2021-10-27,20:45,Empoli,0.6,0–2,2.0,Inter,9335.0,Stadio Carlo Castellani,Daniele Chiffi
+108,Thu,2021-10-28,20:45,Napoli,2.6,3–0,0.2,Bologna,20000.0,Stadio San Paolo,Marco Serra
+110,Sat,2021-10-30,15:00,Atalanta,0.9,2–2,1.4,Lazio,11981.0,Stadio Atleti Azzurri d'Italia,Marco Guida
+111,Sat,2021-10-30,18:00,Hellas Verona,1.6,2–1,0.9,Juventus,22314.0,Stadio Marc'Antonio Bentegodi,Livio Marinelli
+112,Sat,2021-10-30,20:45,Torino,2.1,3–0,0.2,Sampdoria,13137.0,Stadio Olimpico di Torino,Francesco Fourneau
+113,Sun,2021-10-31,12:30,Inter,2.1,2–0,0.4,Udinese,48076.0,Stadio Giuseppe Meazza,Juan Sacchi
+114,Sun,2021-10-31,15:00,Fiorentina,3.3,3–0,0.1,Spezia,19511.0,Stadio Artemio Franchi,Antonio Giua
+115,Sun,2021-10-31,15:00,Genoa,0.9,0–0,0.6,Venezia,7920.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+116,Sun,2021-10-31,15:00,Sassuolo,0.9,1–2,1.5,Empoli,3539.0,Stadio Città del Tricolore,Luca Massimi
+117,Sun,2021-10-31,18:00,Salernitana,0.7,0–1,1.4,Napoli,17043.0,Stadio Arechi,Michael Fabbri
+118,Sun,2021-10-31,20:45,Roma,1.2,1–2,1.9,Milan,51001.0,Stadio Olimpico,Fabio Maresca
+119,Mon,2021-11-01,20:45,Bologna,1.0,2–0,0.4,Cagliari,10126.0,Stadio Renato Dall'Ara,Davide Massa
+121,Fri,2021-11-05,20:45,Empoli,0.8,2–2,1.7,Genoa,5631.0,Stadio Carlo Castellani,Luca Pairetto
+122,Sat,2021-11-06,15:00,Spezia,0.6,1–0,0.9,Torino,6953.0,Stadio Alberto Picco,Daniele Orsato
+123,Sat,2021-11-06,18:00,Juventus,0.7,1–0,0.5,Fiorentina,6953.0,Allianz Stadium,Simone Sozza
+124,Sat,2021-11-06,20:45,Cagliari,0.9,1–2,2.8,Atalanta,6976.0,Sardegna Arena,Marco Piccinini
+125,Sun,2021-11-07,12:30,Venezia,2.5,3–2,3.5,Roma,8263.0,Stadio Pierluigi Penzo,Gianluca Aureliano
+126,Sun,2021-11-07,15:00,Udinese,1.7,3–2,1.3,Sassuolo,8322.0,Dacia Arena,Federico Dionisi
+127,Sun,2021-11-07,15:00,Sampdoria,0.8,1–2,1.9,Bologna,5694.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+128,Sun,2021-11-07,18:00,Napoli,0.8,1–1,1.0,Hellas Verona,28000.0,Stadio San Paolo,Giovanni Ayroldi
+129,Sun,2021-11-07,18:00,Lazio,2.1,3–0,0.5,Salernitana,25000.0,Stadio Olimpico,Antonio Rapuano
+130,Sun,2021-11-07,20:45,Milan,0.9,1–1,2.6,Inter,56608.0,Stadio Giuseppe Meazza,Daniele Doveri
+132,Sat,2021-11-20,15:00,Atalanta,2.5,5–2,1.0,Spezia,10744.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+133,Sat,2021-11-20,18:00,Lazio,0.2,0–2,2.7,Juventus,45000.0,Stadio Olimpico,Marco Di Bello
+134,Sat,2021-11-20,20:45,Fiorentina,1.8,4–3,2.1,Milan,32567.0,Stadio Artemio Franchi,Marco Guida
+135,Sun,2021-11-21,12:30,Sassuolo,3.2,2–2,1.5,Cagliari,4135.0,Stadio Città del Tricolore,Niccolò Baroni
+136,Sun,2021-11-21,15:00,Salernitana,1.3,0–2,0.9,Sampdoria,11849.0,Stadio Arechi,Piero Giacomelli
+137,Sun,2021-11-21,15:00,Bologna,1.4,0–1,1.0,Venezia,15255.0,Stadio Renato Dall'Ara,Daniele Chiffi
+138,Sun,2021-11-21,18:00,Inter,1.9,3–2,1.1,Napoli,56649.0,Stadio Giuseppe Meazza,Paolo Valeri
+139,Sun,2021-11-21,20:45,Genoa,0.2,0–2,1.8,Roma,14667.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+140,Mon,2021-11-22,18:30,Hellas Verona,1.3,2–1,1.6,Empoli,13797.0,Stadio Marc'Antonio Bentegodi,Matteo Gariglio
+141,Mon,2021-11-22,20:45,Torino,1.9,2–1,1.7,Udinese,7034.0,Stadio Olimpico di Torino,Ivan Pezzuto
+143,Fri,2021-11-26,20:45,Cagliari,1.6,1–1,0.4,Salernitana,9700.0,Sardegna Arena,Daniele Doveri
+144,Sat,2021-11-27,15:00,Empoli,1.9,2–1,2.4,Fiorentina,7878.0,Stadio Carlo Castellani,Juan Sacchi
+145,Sat,2021-11-27,15:00,Sampdoria,0.8,3–1,0.9,Hellas Verona,6813.0,Stadio Comunale Luigi Ferraris,Lorenzo Maggioni
+146,Sat,2021-11-27,18:00,Juventus,0.9,0–1,0.4,Atalanta,29886.0,Allianz Stadium,Giovanni Ayroldi
+147,Sat,2021-11-27,20:45,Venezia,0.1,0–2,2.7,Inter,8303.0,Stadio Pierluigi Penzo,Livio Marinelli
+148,Sun,2021-11-28,12:30,Udinese,1.1,0–0,0.7,Genoa,11537.0,Dacia Arena,Francesco Meraviglia
+149,Sun,2021-11-28,15:00,Milan,1.1,1–3,1.1,Sassuolo,52824.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+150,Sun,2021-11-28,15:00,Spezia,1.1,0–1,2.4,Bologna,6265.0,Stadio Alberto Picco,Luca Massimi
+151,Sun,2021-11-28,18:00,Roma,0.9,1–0,1.2,Torino,46728.0,Stadio Olimpico,Daniele Chiffi
+152,Sun,2021-11-28,20:45,Napoli,1.2,4–0,0.4,Lazio,36000.0,Stadio San Paolo,Daniele Orsato
+154,Tue,2021-11-30,18:30,Atalanta,2.7,4–0,0.7,Venezia,8667.0,Stadio Atleti Azzurri d'Italia,Alberto Santoro
+155,Tue,2021-11-30,18:30,Fiorentina,2.7,3–1,0.7,Sampdoria,17913.0,Stadio Artemio Franchi,Federico Dionisi
+156,Tue,2021-11-30,20:45,Hellas Verona,1.8,0–0,0.6,Cagliari,12188.0,Stadio Marc'Antonio Bentegodi,Matteo Marcenaro
+157,Tue,2021-11-30,20:45,Salernitana,0.3,0–2,2.2,Juventus,19500.0,Stadio Arechi,Francesco Fourneau
+158,Wed,2021-12-01,18:30,Bologna,0.2,1–0,0.9,Roma,15780.0,Stadio Renato Dall'Ara,Luca Pairetto
+159,Wed,2021-12-01,18:30,Inter,2.8,2–0,0.4,Spezia,30076.0,Stadio Giuseppe Meazza,Davide Ghersini
+160,Wed,2021-12-01,20:45,Sassuolo,0.3,2–2,0.8,Napoli,8192.0,Stadio Città del Tricolore,Ivan Pezzuto
+161,Wed,2021-12-01,20:45,Genoa,0.5,0–3,1.0,Milan,14000.0,Stadio Comunale Luigi Ferraris,Juan Sacchi
+162,Thu,2021-12-02,18:30,Torino,0.9,2–2,0.9,Empoli,7002.0,Stadio Olimpico di Torino,Andrea Colombo
+163,Thu,2021-12-02,20:45,Lazio,1.6,4–4,1.3,Udinese,7000.0,Stadio Olimpico,Marco Piccinini
+165,Sat,2021-12-04,15:00,Milan,2.9,2–0,0.3,Salernitana,43609.0,Stadio Giuseppe Meazza,Antonio Giua
+166,Sat,2021-12-04,18:00,Roma,0.7,0–3,1.5,Inter,51185.0,Stadio Olimpico,Marco Di Bello
+167,Sat,2021-12-04,20:45,Napoli,1.2,2–3,1.6,Atalanta,30000.0,Stadio San Paolo,Maurizio Mariani
+168,Sun,2021-12-05,12:30,Bologna,0.7,2–3,1.1,Fiorentina,18175.0,Stadio Renato Dall'Ara,Massimiliano Irrati
+169,Sun,2021-12-05,15:00,Venezia,1.8,3–4,1.9,Hellas Verona,7608.0,Stadio Pierluigi Penzo,Alessandro Prontera
+170,Sun,2021-12-05,15:00,Spezia,2.2,2–2,1.4,Sassuolo,4987.0,Stadio Alberto Picco,Fabio Maresca
+171,Sun,2021-12-05,18:00,Sampdoria,1.4,1–3,1.2,Lazio,5883.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+172,Sun,2021-12-05,20:45,Juventus,2.5,2–0,0.0,Genoa,18458.0,Allianz Stadium,Daniele Chiffi
+173,Mon,2021-12-06,18:30,Empoli,2.4,3–1,2.1,Udinese,4808.0,Stadio Carlo Castellani,Daniele Paterna
+174,Mon,2021-12-06,20:45,Cagliari,1.2,1–1,1.4,Torino,8799.0,Sardegna Arena,Luca Massimi
+176,Fri,2021-12-10,20:45,Genoa,1.0,1–3,1.4,Sampdoria,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+177,Sat,2021-12-11,15:00,Fiorentina,2.2,4–0,1.0,Salernitana,18579.0,Stadio Artemio Franchi,Davide Ghersini
+178,Sat,2021-12-11,18:00,Venezia,0.4,1–1,1.6,Juventus,8350.0,Stadio Pierluigi Penzo,Paolo Valeri
+179,Sat,2021-12-11,20:45,Udinese,1.7,1–1,1.1,Milan,16385.0,Dacia Arena,Francesco Fourneau
+180,Sun,2021-12-12,12:30,Torino,1.6,2–1,1.0,Bologna,6562.0,Stadio Olimpico di Torino,Federico Dionisi
+181,Sun,2021-12-12,15:00,Hellas Verona,1.1,1–2,1.7,Atalanta,15000.0,Stadio Marc'Antonio Bentegodi,Juan Sacchi
+182,Sun,2021-12-12,18:00,Napoli,1.7,0–1,0.7,Empoli,20000.0,Stadio San Paolo,Livio Marinelli
+183,Sun,2021-12-12,18:00,Sassuolo,1.4,2–1,0.3,Lazio,5100.0,Stadio Città del Tricolore,Simone Sozza
+184,Sun,2021-12-12,20:45,Inter,3.0,4–0,0.2,Cagliari,33712.0,Stadio Giuseppe Meazza,Matteo Marchetti
+185,Mon,2021-12-13,20:45,Roma,1.9,2–0,0.5,Spezia,44844.0,Stadio Olimpico,Alessandro Prontera
+187,Fri,2021-12-17,18:30,Lazio,1.5,3–1,0.2,Genoa,6000.0,Stadio Olimpico,Luca Pairetto
+188,Fri,2021-12-17,20:45,Salernitana,0.7,0–5,3.1,Inter,18000.0,Stadio Arechi,Maurizio Mariani
+189,Sat,2021-12-18,15:00,Atalanta,1.3,1–4,1.2,Roma,14469.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati
+190,Sat,2021-12-18,18:00,Bologna,0.4,0–2,1.1,Juventus,22394.0,Stadio Renato Dall'Ara,Daniele Orsato
+191,Sat,2021-12-18,20:45,Cagliari,0.4,0–4,0.6,Udinese,7864.0,Sardegna Arena,Fabio Maresca
+192,Sun,2021-12-19,12:30,Fiorentina,3.2,2–2,1.1,Sassuolo,21514.0,Stadio Artemio Franchi,Marco Serra
+193,Sun,2021-12-19,15:00,Spezia,0.6,1–1,1.8,Empoli,5414.0,Stadio Alberto Picco,Manuel Volpi
+194,Sun,2021-12-19,18:00,Sampdoria,1.4,1–1,1.4,Venezia,5735.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+195,Sun,2021-12-19,18:00,Torino,0.8,1–0,0.4,Hellas Verona,6202.0,Stadio Olimpico di Torino,Michael Fabbri
+196,Sun,2021-12-19,20:45,Milan,0.5,0–1,0.9,Napoli,54647.0,Stadio Giuseppe Meazza,Davide Massa
+198,Tue,2021-12-21,20:45,Juventus,1.0,2–0,1.3,Cagliari,11197.0,Allianz Stadium,Federico Dionisi
+199,Tue,2021-12-21,20:45,Genoa,0.0,0–0,1.2,Atalanta,6000.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+200,Wed,2021-12-22,16:30,Venezia,1.0,1–3,0.8,Lazio,7894.0,Stadio Pierluigi Penzo,Fabio Maresca
+201,Wed,2021-12-22,16:30,Sassuolo,0.8,0–3,1.3,Bologna,4763.0,Stadio Città del Tricolore,Michael Fabbri
+202,Wed,2021-12-22,18:30,Inter,1.3,1–0,0.6,Torino,41413.0,Stadio Giuseppe Meazza,Marco Guida
+203,Wed,2021-12-22,18:30,Roma,1.5,1–1,1.5,Sampdoria,49400.0,Stadio Olimpico,Piero Giacomelli
+204,Wed,2021-12-22,18:30,Hellas Verona,1.1,1–1,1.0,Fiorentina,14001.0,Stadio Marc'Antonio Bentegodi,Daniele Doveri
+205,Wed,2021-12-22,20:45,Napoli,2.0,0–1,0.3,Spezia,25000.0,Stadio San Paolo,Luca Massimi
+206,Wed,2021-12-22,20:45,Empoli,1.7,2–4,1.4,Milan,10596.0,Stadio Carlo Castellani,Marco Di Bello
+208,Thu,2022-01-06,12:30,Sampdoria,0.6,1–2,2.4,Cagliari,3188.0,Stadio Comunale Luigi Ferraris,Giacomo Camplone
+209,Thu,2022-01-06,14:30,Lazio,2.5,3–3,2.0,Empoli,23000.0,Stadio Olimpico,Antonio Giua
+210,Thu,2022-01-06,14:30,Spezia,0.9,1–2,1.9,Hellas Verona,3250.0,Stadio Alberto Picco,Maurizio Mariani
+211,Thu,2022-01-06,16:30,Sassuolo,2.0,1–1,0.2,Genoa,4696.0,Stadio Città del Tricolore,Gianluca Manganiello
+212,Thu,2022-01-06,18:30,Milan,2.9,3–1,0.8,Roma,35870.0,Stadio Giuseppe Meazza,Daniele Chiffi
+213,Thu,2022-01-06,20:45,Juventus,1.3,1–1,0.7,Napoli,19301.0,Allianz Stadium,Simone Sozza
+215,Sun,2022-01-09,12:30,Venezia,0.4,0–3,2.8,Milan,5000.0,Stadio Pierluigi Penzo,Massimiliano Irrati
+216,Sun,2022-01-09,14:30,Empoli,1.4,1–5,4.1,Sassuolo,4081.0,Stadio Carlo Castellani,Manuel Volpi
+217,Sun,2022-01-09,16:30,Napoli,1.5,1–0,0.4,Sampdoria,9000.0,Stadio San Paolo,Marco Di Bello
+218,Sun,2022-01-09,16:30,Udinese,0.5,2–6,3.1,Atalanta,8679.0,Dacia Arena,Michael Fabbri
+219,Sun,2022-01-09,18:30,Roma,2.1,3–4,1.1,Juventus,33178.0,Stadio Olimpico,Davide Massa
+220,Sun,2022-01-09,18:30,Genoa,1.0,0–1,1.5,Spezia,8000.0,Stadio Comunale Luigi Ferraris,Marco Guida
+221,Sun,2022-01-09,20:45,Inter,1.6,2–1,1.5,Lazio,29471.0,Stadio Giuseppe Meazza,Luca Pairetto
+222,Sun,2022-01-09,20:45,Hellas Verona,1.4,1–2,1.1,Salernitana,3106.0,Stadio Marc'Antonio Bentegodi,Federico Dionisi
+223,Mon,2022-01-10,17:00,Torino,2.1,4–0,0.7,Fiorentina,3545.0,Stadio Olimpico di Torino,Livio Marinelli
+224,Tue,2022-01-11,20:45,Cagliari,1.6,2–1,0.6,Bologna,5583.0,Sardegna Arena,Davide Ghersini
+226,Sat,2022-01-15,15:00,Sampdoria,1.3,1–2,1.6,Torino,2549.0,Stadio Comunale Luigi Ferraris,Luca Massimi
+227,Sat,2022-01-15,18:00,Salernitana,0.3,0–3,1.6,Lazio,2559.0,Stadio Arechi,Rosario Abisso
+228,Sat,2022-01-15,20:45,Juventus,1.5,2–0,0.8,Udinese,5000.0,Allianz Stadium,Antonio Giua
+229,Sun,2022-01-16,12:30,Sassuolo,1.1,2–4,3.5,Hellas Verona,3843.0,Stadio Città del Tricolore,Alessandro Prontera
+230,Sun,2022-01-16,15:00,Venezia,1.1,1–1,1.6,Empoli,3805.0,Stadio Pierluigi Penzo,Piero Giacomelli
+231,Sun,2022-01-16,18:00,Roma,1.9,1–0,0.6,Cagliari,5000.0,Stadio Olimpico,Lorenzo Maggioni
+232,Sun,2022-01-16,20:45,Atalanta,1.6,0–0,1.5,Inter,5000.0,Stadio Atleti Azzurri d'Italia,Davide Massa
+233,Mon,2022-01-17,18:30,Bologna,0.9,0–2,2.1,Napoli,5000.0,Stadio Renato Dall'Ara,Livio Marinelli
+234,Mon,2022-01-17,18:30,Milan,2.5,1–2,1.4,Spezia,5000.0,Stadio Giuseppe Meazza,Marco Serra
+235,Mon,2022-01-17,20:45,Fiorentina,3.1,6–0,0.2,Genoa,5000.0,Stadio Artemio Franchi,Fabio Maresca
+237,Fri,2022-01-21,20:45,Hellas Verona,1.5,2–1,0.6,Bologna,4286.0,Stadio Marc'Antonio Bentegodi,Matteo Gariglio
+238,Sat,2022-01-22,15:00,Genoa,0.9,0–0,0.1,Udinese,5000.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+239,Sat,2022-01-22,18:00,Inter,2.9,2–1,0.3,Venezia,5000.0,Stadio Giuseppe Meazza,Matteo Marchetti
+240,Sat,2022-01-22,20:45,Lazio,0.2,0–0,0.4,Atalanta,4000.0,Stadio Olimpico,Simone Sozza
+241,Sun,2022-01-23,12:30,Cagliari,1.4,1–1,1.9,Fiorentina,5000.0,Sardegna Arena,Gianluca Aureliano
+242,Sun,2022-01-23,15:00,Spezia,0.4,1–0,0.4,Sampdoria,5000.0,Stadio Alberto Picco,Gianluca Manganiello
+243,Sun,2022-01-23,15:00,Torino,2.6,1–1,0.4,Sassuolo,5000.0,Stadio Olimpico di Torino,Francesco Fourneau
+244,Sun,2022-01-23,15:00,Napoli,4.1,4–1,0.2,Salernitana,3000.0,Stadio San Paolo,Luca Pairetto
+245,Sun,2022-01-23,18:00,Empoli,0.9,2–4,3.0,Roma,4920.0,Stadio Carlo Castellani,Michael Fabbri
+246,Sun,2022-01-23,20:45,Milan,0.6,0–0,0.4,Juventus,5000.0,Stadio Giuseppe Meazza,Marco Di Bello
+248,Sat,2022-02-05,15:00,Roma,1.4,0–0,0.5,Genoa,29863.0,Stadio Olimpico,Rosario Abisso
+249,Sat,2022-02-05,18:00,Inter,0.8,1–2,1.2,Milan,37918.0,Stadio Giuseppe Meazza,Marco Guida
+250,Sat,2022-02-05,20:45,Fiorentina,0.8,0–3,2.7,Lazio,17181.0,Stadio Artemio Franchi,Daniele Orsato
+251,Sun,2022-02-06,12:30,Atalanta,1.1,1–2,1.1,Cagliari,7868.0,Stadio Atleti Azzurri d'Italia,Alessandro Prontera
+252,Sun,2022-02-06,15:00,Sampdoria,2.1,4–0,1.5,Sassuolo,6232.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+253,Sun,2022-02-06,15:00,Venezia,0.4,0–2,1.6,Napoli,5554.0,Stadio Pierluigi Penzo,Maurizio Mariani
+254,Sun,2022-02-06,15:00,Bologna,0.7,0–0,1.6,Empoli,10349.0,Stadio Renato Dall'Ara,Cosso Cosso
+255,Sun,2022-02-06,18:00,Udinese,1.3,2–0,0.6,Torino,9837.0,Dacia Arena,Antonio Rapuano
+256,Sun,2022-02-06,20:45,Juventus,1.2,2–0,0.6,Hellas Verona,17016.0,Allianz Stadium,Luca Massimi
+257,Mon,2022-02-07,20:45,Salernitana,0.4,2–2,1.9,Spezia,10668.0,Stadio Arechi,Paolo Valeri
+259,Sat,2022-02-12,15:00,Lazio,2.6,3–0,0.7,Bologna,22000.0,Stadio Olimpico,Marco Piccinini
+260,Sat,2022-02-12,18:00,Napoli,1.7,1–1,0.5,Inter,27000.0,Stadio San Paolo,Daniele Doveri
+261,Sat,2022-02-12,20:45,Torino,0.7,1–2,0.4,Venezia,6681.0,Stadio Olimpico di Torino,Antonio Giua
+262,Sun,2022-02-13,12:30,Milan,1.4,1–0,0.2,Sampdoria,35710.0,Stadio Giuseppe Meazza,Daniele Chiffi
+263,Sun,2022-02-13,15:00,Empoli,1.0,1–1,1.0,Cagliari,4787.0,Stadio Carlo Castellani,Federico Dionisi
+264,Sun,2022-02-13,15:00,Genoa,2.2,1–1,0.8,Salernitana,13742.0,Stadio Comunale Luigi Ferraris,Marco Di Bello
+265,Sun,2022-02-13,15:00,Hellas Verona,1.0,4–0,1.6,Udinese,11713.0,Stadio Marc'Antonio Bentegodi,Andrea Colombo
+266,Sun,2022-02-13,18:00,Sassuolo,0.9,2–2,2.4,Roma,9282.0,Stadio Città del Tricolore,Marco Guida
+267,Sun,2022-02-13,20:45,Atalanta,2.1,1–1,0.7,Juventus,9731.0,Stadio Atleti Azzurri d'Italia,Maurizio Mariani
+268,Mon,2022-02-14,20:45,Spezia,0.7,1–2,2.2,Fiorentina,5400.0,Stadio Alberto Picco,Matteo Marchetti
+270,Fri,2022-02-18,20:45,Juventus,0.7,1–1,0.7,Torino,20132.0,Allianz Stadium,Davide Massa
+271,Sat,2022-02-19,15:00,Sampdoria,0.5,2–0,0.8,Empoli,9069.0,Stadio Comunale Luigi Ferraris,Antonio Rapuano
+272,Sat,2022-02-19,18:00,Roma,0.6,2–2,0.5,Hellas Verona,34777.0,Stadio Olimpico,Luca Pairetto
+273,Sat,2022-02-19,20:45,Salernitana,1.4,2–2,1.3,Milan,18449.0,Stadio Arechi,Michael Fabbri
+274,Sun,2022-02-20,12:30,Fiorentina,0.6,1–0,0.5,Atalanta,18056.0,Stadio Artemio Franchi,Daniele Doveri
+275,Sun,2022-02-20,15:00,Venezia,1.0,1–1,1.2,Genoa,7566.0,Stadio Pierluigi Penzo,Daniele Orsato
+276,Sun,2022-02-20,18:00,Inter,3.0,0–2,1.6,Sassuolo,28324.0,Stadio Giuseppe Meazza,Francesco Fourneau
+277,Sun,2022-02-20,20:45,Udinese,1.2,1–1,1.3,Lazio,10799.0,Dacia Arena,Luca Massimi
+278,Mon,2022-02-21,19:00,Cagliari,1.8,1–1,0.9,Napoli,12063.0,Sardegna Arena,Maurizio Mariani
+279,Mon,2022-02-21,21:00,Bologna,1.9,2–1,0.5,Spezia,12050.0,Stadio Renato Dall'Ara,Livio Marinelli
+281,Fri,2022-02-25,18:45,Milan,0.8,1–1,1.0,Udinese,44588.0,Stadio Giuseppe Meazza,Matteo Marchetti
+282,Fri,2022-02-25,21:00,Genoa,0.8,0–0,1.5,Inter,14314.0,Stadio Comunale Luigi Ferraris,Daniele Chiffi
+283,Sat,2022-02-26,15:00,Salernitana,1.4,1–1,0.4,Bologna,13289.0,Stadio Arechi,Giovanni Ayroldi
+284,Sat,2022-02-26,18:00,Empoli,1.3,2–3,2.1,Juventus,11890.0,Stadio Carlo Castellani,Fabio Maresca
+285,Sat,2022-02-26,20:45,Sassuolo,1.5,2–1,2.1,Fiorentina,8952.0,Stadio Città del Tricolore,Alessandro Prontera
+286,Sun,2022-02-27,12:35,Torino,0.8,1–2,1.9,Cagliari,10231.0,Stadio Olimpico di Torino,Manuel Volpi
+287,Sun,2022-02-27,15:05,Hellas Verona,2.3,3–1,0.9,Venezia,14298.0,Stadio Marc'Antonio Bentegodi,Juan Sacchi
+288,Sun,2022-02-27,18:05,Spezia,0.3,0–1,3.5,Roma,8107.0,Stadio Alberto Picco,Michael Fabbri
+289,Sun,2022-02-27,20:50,Lazio,1.1,1–2,1.4,Napoli,25000.0,Stadio Olimpico,Marco Di Bello
+290,Mon,2022-02-28,20:50,Atalanta,2.1,4–0,0.5,Sampdoria,10245.0,Stadio Atleti Azzurri d'Italia,Simone Sozza
+292,Fri,2022-03-04,20:45,Inter,3.9,5–0,0.8,Salernitana,46287.0,Stadio Giuseppe Meazza,Livio Marinelli
+293,Sat,2022-03-05,15:00,Udinese,1.9,2–1,0.7,Sampdoria,12405.0,Dacia Arena,Massimiliano Irrati
+294,Sat,2022-03-05,18:00,Roma,1.2,1–0,0.8,Atalanta,42303.0,Stadio Olimpico,Davide Massa
+295,Sat,2022-03-05,20:45,Cagliari,0.6,0–3,2.6,Lazio,10873.0,Sardegna Arena,Fabio Maresca
+296,Sun,2022-03-06,12:30,Genoa,1.1,0–0,0.3,Empoli,14935.0,Stadio Comunale Luigi Ferraris,Gianluca Aureliano
+297,Sun,2022-03-06,15:00,Fiorentina,1.4,1–1,1.3,Hellas Verona,23491.0,Stadio Artemio Franchi,Gianluca Manganiello
+298,Sun,2022-03-06,15:00,Bologna,0.3,0–0,1.2,Torino,17575.0,Stadio Renato Dall'Ara,Luca Massimi
+299,Sun,2022-03-06,15:00,Venezia,2.4,1–4,3.3,Sassuolo,5732.0,Stadio Pierluigi Penzo,Luca Pairetto
+300,Sun,2022-03-06,18:00,Juventus,1.5,1–0,0.7,Spezia,26475.0,Allianz Stadium,Francesco Fourneau
+301,Sun,2022-03-06,20:45,Napoli,0.5,0–1,1.2,Milan,42000.0,Stadio San Paolo,Daniele Orsato
+303,Sat,2022-03-12,15:00,Spezia,2.2,2–0,0.6,Cagliari,7180.0,Stadio Alberto Picco,Daniele Orsato
+304,Sat,2022-03-12,15:00,Salernitana,1.5,2–2,1.8,Sassuolo,10249.0,Stadio Arechi,Luca Massimi
+305,Sat,2022-03-12,18:00,Sampdoria,1.7,1–3,1.1,Juventus,16644.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+306,Sat,2022-03-12,20:45,Milan,0.7,1–0,0.2,Empoli,48801.0,Stadio Giuseppe Meazza,Daniele Chiffi
+307,Sun,2022-03-13,12:30,Fiorentina,1.9,1–0,1.1,Bologna,22635.0,Stadio Artemio Franchi,Juan Sacchi
+308,Sun,2022-03-13,15:00,Hellas Verona,0.5,1–2,1.5,Napoli,18782.0,Stadio Marc'Antonio Bentegodi,Daniele Doveri
+309,Sun,2022-03-13,18:00,Atalanta,1.2,0–0,1.0,Genoa,9140.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+310,Sun,2022-03-13,18:00,Udinese,0.6,1–1,1.2,Roma,15114.0,Dacia Arena,Marco Di Bello
+311,Sun,2022-03-13,20:45,Torino,1.7,1–1,2.3,Inter,15363.0,Stadio Olimpico di Torino,Marco Guida
+312,Mon,2022-03-14,20:45,Lazio,1.4,1–0,0.3,Venezia,18000.0,Stadio Olimpico,Gianluca Manganiello
+314,Fri,2022-03-18,18:45,Sassuolo,2.0,4–1,0.5,Spezia,6130.0,Stadio Città del Tricolore,Manuel Volpi
+315,Fri,2022-03-18,21:00,Genoa,1.0,1–0,1.0,Torino,14961.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+316,Sat,2022-03-19,15:00,Napoli,1.1,2–1,0.5,Udinese,37363.0,Stadio San Paolo,Francesco Fourneau
+317,Sat,2022-03-19,18:00,Inter,1.0,1–1,1.0,Fiorentina,54988.0,Stadio Giuseppe Meazza,Daniele Chiffi
+318,Sat,2022-03-19,20:45,Cagliari,1.1,0–1,2.4,Milan,12309.0,Sardegna Arena,Marco Di Bello
+319,Sun,2022-03-20,12:30,Venezia,1.2,0–2,1.6,Sampdoria,7591.0,Stadio Pierluigi Penzo,Daniele Orsato
+320,Sun,2022-03-20,15:00,Juventus,1.5,2–0,0.5,Salernitana,29186.0,Allianz Stadium,Giovanni Ayroldi
+321,Sun,2022-03-20,15:00,Empoli,1.0,1–1,1.3,Hellas Verona,5445.0,Stadio Carlo Castellani,Matteo Marcenaro
+322,Sun,2022-03-20,18:00,Roma,2.2,3–0,0.5,Lazio,51932.0,Stadio Olimpico,Massimiliano Irrati
+323,Sun,2022-03-20,20:45,Bologna,1.3,0–1,1.2,Atalanta,1323.0,Stadio Renato Dall'Ara,Fabio Maresca
+325,Sat,2022-04-02,15:00,Spezia,1.2,1–0,1.0,Venezia,7993.0,Stadio Alberto Picco,Daniele Doveri
+326,Sat,2022-04-02,18:00,Lazio,2.3,2–1,1.8,Sassuolo,15000.0,Stadio Olimpico,Antonio Rapuano
+327,Sat,2022-04-02,20:45,Salernitana,0.8,0–1,1.6,Torino,8650.0,Stadio Arechi,Marco Piccinini
+328,Sun,2022-04-03,12:30,Fiorentina,1.5,1–0,0.1,Empoli,22407.0,Stadio Artemio Franchi,Luca Massimi
+329,Sun,2022-04-03,15:00,Atalanta,1.4,1–3,1.5,Napoli,17709.0,Stadio Atleti Azzurri d'Italia,Marco Di Bello
+330,Sun,2022-04-03,15:00,Udinese,3.5,5–1,0.4,Cagliari,12215.0,Dacia Arena,Rosario Abisso
+331,Sun,2022-04-03,18:00,Sampdoria,0.4,0–1,1.1,Roma,16465.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+332,Sun,2022-04-03,20:45,Juventus,1.7,0–1,1.2,Inter,40093.0,Allianz Stadium,Massimiliano Irrati
+333,Mon,2022-04-04,18:30,Hellas Verona,1.1,1–0,0.5,Genoa,14993.0,Stadio Marc'Antonio Bentegodi,Francesco Fourneau
+334,Mon,2022-04-04,20:45,Milan,2.2,0–0,0.6,Bologna,68136.0,Stadio Giuseppe Meazza,Livio Marinelli
+336,Sat,2022-04-09,15:00,Empoli,1.0,0–0,0.7,Spezia,5265.0,Stadio Carlo Castellani,Giovanni Ayroldi
+337,Sat,2022-04-09,18:00,Inter,2.5,2–0,0.8,Hellas Verona,61325.0,Stadio Giuseppe Meazza,Livio Marinelli
+338,Sat,2022-04-09,20:45,Cagliari,0.1,1–2,1.5,Juventus,13437.0,Sardegna Arena,Daniele Chiffi
+339,Sun,2022-04-10,12:30,Genoa,0.8,1–4,1.6,Lazio,16756.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+340,Sun,2022-04-10,15:00,Napoli,1.1,2–3,0.5,Fiorentina,50000.0,Stadio San Paolo,Maurizio Mariani
+341,Sun,2022-04-10,15:00,Sassuolo,1.2,2–1,1.8,Atalanta,7842.0,Stadio Città del Tricolore,Juan Sacchi
+342,Sun,2022-04-10,15:00,Venezia,1.3,1–2,2.3,Udinese,10459.0,Stadio Pierluigi Penzo,Marco Guida
+343,Sun,2022-04-10,18:00,Roma,1.6,2–1,0.6,Salernitana,64266.0,Stadio Olimpico,Manuel Volpi
+344,Sun,2022-04-10,20:45,Torino,1.0,0–0,0.8,Milan,23472.0,Stadio Olimpico di Torino,Daniele Doveri
+345,Mon,2022-04-11,20:45,Bologna,2.6,2–0,0.6,Sampdoria,15783.0,Stadio Renato Dall'Ara,Luca Pairetto
+347,Fri,2022-04-15,19:00,Spezia,0.9,1–3,2.5,Inter,11382.0,Stadio Alberto Picco,Fabio Maresca
+348,Fri,2022-04-15,21:00,Milan,1.6,2–0,0.3,Genoa,70259.0,Stadio Giuseppe Meazza,Daniele Chiffi
+349,Sat,2022-04-16,12:30,Cagliari,1.6,1–0,0.4,Sassuolo,14689.0,Sardegna Arena,Davide Massa
+350,Sat,2022-04-16,14:30,Sampdoria,0.8,1–2,0.3,Salernitana,14908.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+351,Sat,2022-04-16,14:30,Udinese,1.2,4–1,1.7,Empoli,15226.0,Dacia Arena,Matteo Marchetti
+352,Sat,2022-04-16,16:30,Fiorentina,2.6,1–0,0.1,Venezia,31627.0,Stadio Artemio Franchi,Rosario Abisso
+353,Sat,2022-04-16,18:30,Juventus,2.0,1–1,1.2,Bologna,36107.0,Allianz Stadium,Juan Sacchi
+354,Sat,2022-04-16,20:45,Lazio,0.7,1–1,1.0,Torino,25000.0,Stadio Olimpico,Alessandro Prontera
+355,Mon,2022-04-18,19:00,Napoli,1.4,1–1,0.9,Roma,41822.0,Stadio San Paolo,Marco Di Bello
+356,Mon,2022-04-18,21:00,Atalanta,1.5,1–2,3.2,Hellas Verona,14537.0,Stadio Atleti Azzurri d'Italia,Marco Piccinini
+358,Wed,2022-04-20,18:45,Udinese,0.5,0–1,0.9,Salernitana,12362.0,Dacia Arena,Simone Sozza
+360,Sat,2022-04-23,15:00,Torino,2.3,2–1,1.0,Spezia,8333.0,Stadio Olimpico di Torino,Davide Ghersini
+361,Sat,2022-04-23,15:00,Venezia,0.9,1–3,3.6,Atalanta,6132.0,Stadio Pierluigi Penzo,Francesco Fourneau
+362,Sat,2022-04-23,18:00,Inter,1.3,3–1,0.9,Roma,74947.0,Stadio Giuseppe Meazza,Simone Sozza
+363,Sat,2022-04-23,20:45,Hellas Verona,1.1,1–1,1.0,Sampdoria,16188.0,Stadio Marc'Antonio Bentegodi,Giovanni Ayroldi
+364,Sun,2022-04-24,12:30,Salernitana,1.0,2–1,1.0,Fiorentina,20920.0,Stadio Arechi,Davide Massa
+365,Sun,2022-04-24,15:00,Empoli,1.8,3–2,1.3,Napoli,10245.0,Stadio Carlo Castellani,Livio Marinelli
+366,Sun,2022-04-24,15:00,Bologna,1.5,2–2,1.8,Udinese,15922.0,Stadio Renato Dall'Ara,Alberto Santoro
+367,Sun,2022-04-24,18:00,Genoa,1.1,1–0,0.8,Cagliari,17257.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+368,Sun,2022-04-24,20:45,Lazio,0.6,1–2,2.1,Milan,25000.0,Stadio Olimpico,Marco Guida
+369,Mon,2022-04-25,20:45,Sassuolo,1.4,1–2,1.2,Juventus,20000.0,Stadio Città del Tricolore,Fabio Maresca
+371,Wed,2022-04-27,18:00,Fiorentina,2.0,0–4,3.0,Udinese,22067.0,Stadio Artemio Franchi,Ivan Pezzuto
+372,Wed,2022-04-27,20:15,Atalanta,2.7,4–4,2.4,Torino,,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+373,Wed,2022-04-27,20:15,Bologna,1.2,2–1,2.1,Inter,26034.0,Stadio Renato Dall'Ara,Daniele Doveri
+375,Sat,2022-04-30,15:00,Cagliari,0.9,1–2,1.3,Hellas Verona,16267.0,Sardegna Arena,Daniele Orsato
+376,Sat,2022-04-30,15:00,Napoli,2.8,6–1,1.5,Sassuolo,20000.0,Stadio San Paolo,Antonio Rapuano
+377,Sat,2022-04-30,18:00,Sampdoria,1.0,1–0,1.6,Genoa,30136.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+378,Sat,2022-04-30,20:45,Spezia,1.6,3–4,3.5,Lazio,8750.0,Stadio Alberto Picco,Luca Pairetto
+379,Sun,2022-05-01,12:30,Juventus,2.2,2–1,0.6,Venezia,39203.0,Allianz Stadium,Alessandro Prontera
+380,Sun,2022-05-01,15:00,Milan,1.3,1–0,0.5,Fiorentina,71542.0,Stadio Giuseppe Meazza,Paolo Valeri
+381,Sun,2022-05-01,15:00,Empoli,0.7,1–3,2.4,Torino,8416.0,Stadio Carlo Castellani,Cosso Cosso
+382,Sun,2022-05-01,18:00,Udinese,1.1,1–2,1.9,Inter,20910.0,Dacia Arena,Daniele Chiffi
+383,Sun,2022-05-01,20:45,Roma,1.0,0–0,1.3,Bologna,62988.0,Stadio Olimpico,Michael Fabbri
+384,Mon,2022-05-02,20:45,Atalanta,1.6,1–1,1.2,Salernitana,17011.0,Stadio Atleti Azzurri d'Italia,Marco Guida
+386,Thu,2022-05-05,18:00,Salernitana,2.0,2–1,1.2,Venezia,22200.0,Stadio Arechi,Maurizio Mariani
+388,Fri,2022-05-06,18:45,Inter,4.3,4–2,0.6,Empoli,69959.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+389,Fri,2022-05-06,21:00,Genoa,2.7,2–1,1.4,Juventus,18762.0,Stadio Comunale Luigi Ferraris,Simone Sozza
+390,Sat,2022-05-07,15:00,Torino,0.7,0–1,1.4,Napoli,14619.0,Stadio Olimpico di Torino,Alessandro Prontera
+391,Sat,2022-05-07,18:00,Sassuolo,2.0,1–1,2.3,Udinese,7460.0,Stadio Città del Tricolore,Matteo Marcenaro
+392,Sat,2022-05-07,20:45,Lazio,1.4,2–0,0.9,Sampdoria,31000.0,Stadio Olimpico,Davide Massa
+393,Sun,2022-05-08,12:30,Spezia,1.0,1–3,2.1,Atalanta,9000.0,Stadio Alberto Picco,Fabio Maresca
+394,Sun,2022-05-08,15:00,Venezia,2.8,4–3,2.8,Bologna,6674.0,Stadio Pierluigi Penzo,Livio Marinelli
+395,Sun,2022-05-08,18:00,Salernitana,1.2,1–1,0.5,Cagliari,28048.0,Stadio Arechi,Marco Di Bello
+396,Sun,2022-05-08,20:45,Hellas Verona,1.2,1–3,2.9,Milan,30154.0,Stadio Marc'Antonio Bentegodi,Daniele Doveri
+397,Mon,2022-05-09,20:45,Fiorentina,1.3,2–0,0.3,Roma,29580.0,Stadio Artemio Franchi,Marco Guida
+399,Sat,2022-05-14,15:00,Empoli,2.1,1–1,3.1,Salernitana,7000.0,Stadio Carlo Castellani,Davide Massa
+400,Sat,2022-05-14,18:00,Udinese,1.4,2–3,2.2,Spezia,20950.0,Dacia Arena,Gianluca Aureliano
+401,Sat,2022-05-14,18:00,Hellas Verona,0.7,0–1,0.7,Torino,24001.0,Stadio Marc'Antonio Bentegodi,Giacomo Camplone
+402,Sat,2022-05-14,20:45,Roma,3.2,1–1,0.3,Venezia,63243.0,Stadio Olimpico,Simone Sozza
+403,Sun,2022-05-15,12:30,Bologna,1.7,1–3,1.7,Sassuolo,19794.0,Stadio Renato Dall'Ara,Davide Ghersini
+404,Sun,2022-05-15,15:00,Napoli,2.2,3–0,1.0,Genoa,54000.0,Stadio San Paolo,Michael Fabbri
+405,Sun,2022-05-15,18:00,Milan,1.5,2–0,0.9,Atalanta,73304.0,Stadio Giuseppe Meazza,Daniele Orsato
+406,Sun,2022-05-15,20:45,Cagliari,0.6,1–3,2.6,Inter,15443.0,Sardegna Arena,Daniele Doveri
+407,Mon,2022-05-16,18:30,Sampdoria,1.5,4–1,1.9,Fiorentina,21331.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+408,Mon,2022-05-16,20:45,Juventus,0.8,2–2,1.1,Lazio,40515.0,Allianz Stadium,Giovanni Ayroldi
+410,Fri,2022-05-20,20:45,Torino,0.7,0–3,2.6,Roma,16730.0,Stadio Olimpico di Torino,Massimiliano Irrati
+411,Sat,2022-05-21,17:15,Genoa,1.0,0–1,1.0,Bologna,17768.0,Stadio Comunale Luigi Ferraris,Gianpiero Miele
+412,Sat,2022-05-21,20:45,Fiorentina,1.5,2–0,0.1,Juventus,34831.0,Stadio Artemio Franchi,Daniele Chiffi
+413,Sat,2022-05-21,20:45,Atalanta,3.8,0–1,0.4,Empoli,17654.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+414,Sat,2022-05-21,20:45,Lazio,2.4,3–3,1.6,Hellas Verona,50000.0,Stadio Olimpico,Andrea Colombo
+415,Sun,2022-05-22,12:30,Spezia,2.0,0–3,1.0,Napoli,10000.0,Stadio Alberto Picco,Matteo Marchetti
+416,Sun,2022-05-22,18:00,Sassuolo,0.4,0–3,3.1,Milan,21584.0,Stadio Città del Tricolore,Daniele Doveri
+417,Sun,2022-05-22,18:00,Inter,3.3,3–0,0.9,Sampdoria,71109.0,Stadio Giuseppe Meazza,Marco Di Bello
+418,Sun,2022-05-22,21:00,Salernitana,1.8,0–4,2.5,Udinese,29739.0,Stadio Arechi,Daniele Orsato
+419,Sun,2022-05-22,21:00,Venezia,0.7,0–0,2.1,Cagliari,5654.0,Stadio Pierluigi Penzo,Fabio Maresca
+420,Sat,2020-09-19,18:00,Fiorentina,1.9,1–0,0.6,Torino,,Stadio Artemio Franchi,Rosario Abisso
+421,Sat,2020-09-19,20:45,Hellas Verona,1.3,3–0,1.7,Roma,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+422,Sun,2020-09-20,12:30,Parma,0.2,0–2,1.6,Napoli,1000.0,Stadio Ennio Tardini,Maurizio Mariani
+423,Sun,2020-09-20,15:00,Genoa,2.0,4–1,1.2,Crotone,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi
+424,Sun,2020-09-20,18:00,Sassuolo,2.3,1–1,1.0,Cagliari,850.0,Stadio Città del Tricolore,Livio Marinelli
+425,Sun,2020-09-20,20:45,Juventus,2.4,3–0,0.8,Sampdoria,1000.0,Allianz Stadium,Marco Piccinini
+426,Mon,2020-09-21,20:45,Milan,2.9,2–0,0.9,Bologna,1000.0,Stadio Giuseppe Meazza,Federico La Penna
+428,Sat,2020-09-26,15:00,Torino,0.7,2–4,1.6,Atalanta,1000.0,Stadio Olimpico di Torino,Massimiliano Irrati
+429,Sat,2020-09-26,18:00,Cagliari,1.0,0–2,2.1,Lazio,1000.0,Sardegna Arena,Davide Massa
+430,Sat,2020-09-26,18:00,Sampdoria,1.6,2–3,1.2,Benevento,1000.0,Stadio Comunale Luigi Ferraris,Federico Dionisi
+431,Sat,2020-09-26,20:45,Inter,2.8,4–3,2.5,Fiorentina,1000.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+432,Sun,2020-09-27,12:30,Spezia,1.1,1–4,2.8,Sassuolo,1000.0,Stadio Dino Manuzzi,Davide Ghersini
+433,Sun,2020-09-27,15:00,Hellas Verona,1.0,1–0,1.7,Udinese,1000.0,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+434,Sun,2020-09-27,18:00,Crotone,0.3,0–2,2.4,Milan,,Stadio Ezio Scida,Luca Pairetto
+435,Sun,2020-09-27,18:00,Napoli,2.4,6–0,0.6,Genoa,1000.0,Stadio San Paolo,Juan Sacchi
+436,Sun,2020-09-27,20:45,Roma,2.7,2–2,1.3,Juventus,1000.0,Stadio Olimpico,Marco Di Bello
+437,Mon,2020-09-28,20:45,Bologna,2.2,4–1,1.0,Parma,1000.0,Stadio Renato Dall'Ara,Paolo Valeri
+439,Wed,2020-09-30,18:00,Benevento,1.5,2–5,3.5,Inter,1000.0,Stadio Ciro Vigorito,Marco Piccinini
+440,Wed,2020-09-30,18:00,Udinese,2.1,0–2,0.7,Spezia,1000.0,Dacia Arena,Alessandro Prontera
+441,Wed,2020-09-30,20:45,Lazio,2.6,1–4,1.7,Atalanta,1000.0,Stadio Olimpico,Fabio Maresca
+443,Fri,2020-10-02,20:45,Fiorentina,2.1,1–2,2.4,Sampdoria,1000.0,Stadio Artemio Franchi,Piero Giacomelli
+444,Sat,2020-10-03,15:00,Sassuolo,1.7,4–1,1.8,Crotone,1000.0,Stadio Città del Tricolore,Ivan Pezzuto
+445,Sat,2020-10-03,20:45,Udinese,0.9,0–1,0.8,Roma,1000.0,Dacia Arena,Rosario Abisso
+446,Sun,2020-10-04,12:30,Atalanta,3.5,5–2,1.0,Cagliari,1000.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+447,Sun,2020-10-04,15:00,Benevento,0.9,1–0,1.8,Bologna,1000.0,Stadio Ciro Vigorito,Simone Sozza
+448,Sun,2020-10-04,15:00,Lazio,1.3,1–1,0.9,Inter,1000.0,Stadio Olimpico,Marco Guida
+449,Sun,2020-10-04,15:00,Parma,1.6,1–0,0.5,Hellas Verona,1000.0,Stadio Ennio Tardini,Antonio Giua
+450,Sun,2020-10-04,18:00,Milan,2.0,3–0,0.2,Spezia,1000.0,Stadio Giuseppe Meazza,Marco Serra
+452,Sat,2020-10-17,15:00,Napoli,1.7,4–1,1.0,Atalanta,1000.0,Stadio San Paolo,Marco Di Bello
+453,Sat,2020-10-17,18:00,Sampdoria,1.3,3–0,0.6,Lazio,1000.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+454,Sat,2020-10-17,18:00,Inter,2.4,1–2,2.3,Milan,1000.0,Stadio Giuseppe Meazza,Maurizio Mariani
+455,Sat,2020-10-17,20:45,Crotone,1.1,1–1,1.6,Juventus,1000.0,Stadio Ezio Scida,Francesco Fourneau
+456,Sun,2020-10-18,12:30,Bologna,1.4,3–4,2.8,Sassuolo,1000.0,Stadio Renato Dall'Ara,Daniele Doveri
+457,Sun,2020-10-18,15:00,Spezia,1.1,2–2,1.4,Fiorentina,1000.0,Stadio Dino Manuzzi,Gianluca Manganiello
+458,Sun,2020-10-18,15:00,Torino,1.7,2–3,2.1,Cagliari,1000.0,Stadio Olimpico di Torino,Federico La Penna
+459,Sun,2020-10-18,18:00,Udinese,1.3,3–2,1.0,Parma,1000.0,Dacia Arena,Michael Fabbri
+460,Sun,2020-10-18,20:45,Roma,4.4,5–2,1.8,Benevento,1000.0,Stadio Olimpico,Giovanni Ayroldi
+461,Mon,2020-10-19,20:45,Hellas Verona,1.4,0–0,0.4,Genoa,10002.0,Stadio Marc'Antonio Bentegodi,Antonio Rapuano
+463,Fri,2020-10-23,20:45,Sassuolo,2.0,3–3,2.1,Torino,700.0,Stadio Città del Tricolore,Marco Guida
+464,Sat,2020-10-24,15:00,Atalanta,2.1,1–3,1.9,Sampdoria,1000.0,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese
+465,Sat,2020-10-24,18:00,Genoa,0.0,0–2,1.8,Inter,1000.0,Stadio Comunale Luigi Ferraris,Davide Massa
+466,Sat,2020-10-24,20:45,Lazio,1.0,2–1,1.5,Bologna,1000.0,Stadio Olimpico,Massimiliano Irrati
+467,Sun,2020-10-25,12:30,Cagliari,2.4,4–2,1.6,Crotone,1000.0,Sardegna Arena,Antonio Di Martino
+468,Sun,2020-10-25,15:00,Parma,3.2,2–2,0.9,Spezia,1000.0,Stadio Ennio Tardini,Valerio Marini
+469,Sun,2020-10-25,15:00,Benevento,0.5,1–2,2.1,Napoli,1000.0,Stadio Ciro Vigorito,Daniele Doveri
+470,Sun,2020-10-25,18:00,Fiorentina,1.2,3–2,1.8,Udinese,1000.0,Stadio Artemio Franchi,Francesco Fourneau
+471,Sun,2020-10-25,20:45,Juventus,1.8,1–1,0.7,Hellas Verona,1000.0,Allianz Stadium,Fabrizio Pasqua
+472,Mon,2020-10-26,20:45,Milan,2.6,3–3,2.3,Roma,,Stadio Giuseppe Meazza,Piero Giacomelli
+474,Sat,2020-10-31,15:00,Crotone,0.4,1–2,2.6,Atalanta,,Stadio Ezio Scida,Federico Dionisi
+475,Sat,2020-10-31,18:00,Inter,2.5,2–2,0.7,Parma,,Stadio Giuseppe Meazza,Marco Piccinini
+476,Sat,2020-10-31,20:45,Bologna,1.4,3–2,0.6,Cagliari,,Stadio Renato Dall'Ara,Michael Fabbri
+477,Sun,2020-11-01,12:30,Udinese,1.1,1–2,1.1,Milan,,Dacia Arena,Marco Di Bello
+478,Sun,2020-11-01,15:00,Torino,2.8,3–4,1.4,Lazio,,Stadio Olimpico di Torino,Daniele Chiffi
+479,Sun,2020-11-01,15:00,Spezia,0.7,1–4,3.4,Juventus,,Stadio Dino Manuzzi,Rosario Abisso
+480,Sun,2020-11-01,18:00,Napoli,2.3,0–2,1.4,Sassuolo,,Stadio San Paolo,Maurizio Mariani
+481,Sun,2020-11-01,18:00,Roma,3.0,2–0,0.4,Fiorentina,,Stadio Olimpico,Daniele Orsato
+482,Sun,2020-11-01,20:45,Sampdoria,0.7,1–1,0.6,Genoa,,Stadio Comunale Luigi Ferraris,Federico La Penna
+483,Mon,2020-11-02,20:45,Hellas Verona,1.7,3–1,1.6,Benevento,,Stadio Marc'Antonio Bentegodi,Juan Sacchi
+485,Wed,2020-11-04,17:00,Genoa,1.1,1–2,0.6,Torino,,Stadio Comunale Luigi Ferraris,Paolo Valeri
+487,Fri,2020-11-06,20:45,Sassuolo,0.1,0–0,0.1,Udinese,,Stadio Città del Tricolore,Eugenio Abbattista
+488,Sat,2020-11-07,15:00,Cagliari,2.1,2–0,0.1,Sampdoria,,Sardegna Arena,Giovanni Ayroldi
+489,Sat,2020-11-07,18:00,Benevento,0.3,0–3,0.9,Spezia,,Stadio Ciro Vigorito,Gianluca Aureliano
+490,Sat,2020-11-07,20:45,Parma,0.1,0–0,0.7,Fiorentina,,Stadio Ennio Tardini,Federico La Penna
+491,Sun,2020-11-08,12:30,Lazio,0.9,1–1,1.2,Juventus,,Stadio Olimpico,Davide Massa
+492,Sun,2020-11-08,15:00,Genoa,0.6,1–3,2.0,Roma,,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+493,Sun,2020-11-08,15:00,Atalanta,0.8,1–1,1.0,Inter,,Stadio Atleti Azzurri d'Italia,Daniele Doveri
+494,Sun,2020-11-08,15:00,Torino,0.2,0–0,0.3,Crotone,,Stadio Olimpico di Torino,Francesco Fourneau
+495,Sun,2020-11-08,18:00,Bologna,0.8,0–1,1.2,Napoli,,Stadio Renato Dall'Ara,Fabrizio Pasqua
+496,Sun,2020-11-08,20:45,Milan,3.3,2–2,1.5,Hellas Verona,,Stadio Giuseppe Meazza,Marco Guida
+498,Sat,2020-11-21,15:00,Crotone,0.6,0–2,1.8,Lazio,,Stadio Ezio Scida,Juan Sacchi
+499,Sat,2020-11-21,18:00,Spezia,0.5,0–0,1.2,Atalanta,,Stadio Dino Manuzzi,Antonio Rapuano
+500,Sat,2020-11-21,20:45,Juventus,2.1,2–0,0.1,Cagliari,,Allianz Stadium,Fabio Maresca
+501,Sun,2020-11-22,12:30,Fiorentina,0.8,0–1,0.7,Benevento,,Stadio Artemio Franchi,Davide Ghersini
+502,Sun,2020-11-22,15:00,Inter,3.6,4–2,1.9,Torino,,Stadio Giuseppe Meazza,Federico La Penna
+503,Sun,2020-11-22,15:00,Sampdoria,0.7,1–2,1.7,Bologna,,Stadio Comunale Luigi Ferraris,Livio Marinelli
+504,Sun,2020-11-22,15:00,Hellas Verona,1.2,0–2,0.5,Sassuolo,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+505,Sun,2020-11-22,15:00,Roma,2.8,3–0,0.0,Parma,,Stadio Olimpico,Gianluca Manganiello
+506,Sun,2020-11-22,18:00,Udinese,0.5,1–0,1.0,Genoa,,Dacia Arena,Giampaolo Calvarese
+507,Sun,2020-11-22,20:45,Napoli,1.7,1–3,2.6,Milan,,Stadio San Paolo,Paolo Valeri
+509,Sat,2020-11-28,15:00,Sassuolo,0.7,0–3,1.2,Inter,,Stadio Città del Tricolore,Massimiliano Irrati
+510,Sat,2020-11-28,18:00,Benevento,0.4,1–1,1.6,Juventus,,Stadio Ciro Vigorito,Fabrizio Pasqua
+511,Sat,2020-11-28,20:45,Atalanta,1.8,0–2,1.7,Hellas Verona,,Stadio Atleti Azzurri d'Italia,Davide Massa
+512,Sun,2020-11-29,12:30,Lazio,1.3,1–3,1.1,Udinese,,Stadio Olimpico,Gianluca Aureliano
+513,Sun,2020-11-29,15:00,Bologna,1.5,1–0,0.4,Crotone,,Stadio Renato Dall'Ara,Marco Serra
+514,Sun,2020-11-29,15:00,Milan,2.6,2–0,0.3,Fiorentina,,Stadio Giuseppe Meazza,Rosario Abisso
+515,Sun,2020-11-29,18:00,Cagliari,2.3,2–2,2.8,Spezia,,Sardegna Arena,Valerio Marini
+516,Sun,2020-11-29,20:45,Napoli,1.9,4–0,0.3,Roma,,Stadio San Paolo,Marco Di Bello
+517,Mon,2020-11-30,18:30,Torino,1.6,2–2,1.1,Sampdoria,,Stadio Olimpico di Torino,Daniele Doveri
+518,Mon,2020-11-30,20:45,Genoa,1.4,1–2,1.1,Parma,,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+520,Sat,2020-12-05,15:00,Spezia,1.7,1–2,0.3,Lazio,,Stadio Dino Manuzzi,Daniele Chiffi
+521,Sat,2020-12-05,18:00,Juventus,1.6,2–1,0.8,Torino,,Allianz Stadium,Daniele Orsato
+522,Sat,2020-12-05,20:45,Inter,1.5,3–1,1.3,Bologna,,Stadio Giuseppe Meazza,Paolo Valeri
+523,Sun,2020-12-06,12:30,Hellas Verona,2.8,1–1,1.2,Cagliari,,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+524,Sun,2020-12-06,15:00,Roma,1.2,0–0,0.4,Sassuolo,,Stadio Olimpico,Fabio Maresca
+525,Sun,2020-12-06,15:00,Parma,0.4,0–0,0.3,Benevento,,Stadio Ennio Tardini,Juan Sacchi
+526,Sun,2020-12-06,18:00,Crotone,0.5,0–4,2.2,Napoli,,Stadio Ezio Scida,Livio Marinelli
+527,Sun,2020-12-06,20:45,Sampdoria,1.1,1–2,2.5,Milan,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+528,Mon,2020-12-07,20:45,Fiorentina,2.7,1–1,1.2,Genoa,,Stadio Artemio Franchi,Daniele Doveri
+530,Fri,2020-12-11,20:45,Sassuolo,1.0,1–0,2.5,Benevento,,Stadio Città del Tricolore,Simone Sozza
+531,Sat,2020-12-12,15:00,Crotone,2.2,4–1,1.2,Spezia,,Stadio Ezio Scida,Antonio Giua
+532,Sat,2020-12-12,18:00,Torino,1.0,2–3,1.2,Udinese,,Stadio Olimpico di Torino,Davide Massa
+533,Sat,2020-12-12,20:45,Lazio,1.0,1–2,1.2,Hellas Verona,,Stadio Olimpico,Rosario Abisso
+534,Sun,2020-12-13,12:45,Cagliari,1.6,1–3,3.5,Inter,,Sardegna Arena,Fabrizio Pasqua
+535,Sun,2020-12-13,15:00,Bologna,0.7,1–5,3.4,Roma,,Stadio Renato Dall'Ara,Giampaolo Calvarese
+536,Sun,2020-12-13,15:00,Atalanta,2.6,3–0,0.4,Fiorentina,,Stadio Atleti Azzurri d'Italia,Maurizio Mariani
+537,Sun,2020-12-13,15:00,Napoli,1.1,2–1,1.1,Sampdoria,,Stadio San Paolo,Federico La Penna
+538,Sun,2020-12-13,18:00,Genoa,0.2,1–3,2.6,Juventus,,Stadio Comunale Luigi Ferraris,Marco Di Bello
+539,Sun,2020-12-13,20:45,Milan,1.8,2–2,0.6,Parma,,Stadio Giuseppe Meazza,Francesco Fourneau
+541,Tue,2020-12-15,18:30,Udinese,1.1,0–0,0.2,Crotone,,Dacia Arena,Antonio Di Martino
+542,Tue,2020-12-15,20:45,Benevento,1.4,1–1,0.8,Lazio,,Stadio Ciro Vigorito,Luca Pairetto
+543,Wed,2020-12-16,18:30,Juventus,2.7,1–1,1.1,Atalanta,,Allianz Stadium,Daniele Doveri
+544,Wed,2020-12-16,20:45,Inter,1.1,1–0,1.7,Napoli,,Stadio Giuseppe Meazza,Davide Massa
+545,Wed,2020-12-16,20:45,Hellas Verona,1.4,1–2,0.7,Sampdoria,,Stadio Marc'Antonio Bentegodi,Riccardo Ros
+546,Wed,2020-12-16,20:45,Spezia,3.7,2–2,2.0,Bologna,,Stadio Dino Manuzzi,Piero Giacomelli
+547,Wed,2020-12-16,20:45,Parma,1.0,0–0,0.3,Cagliari,,Stadio Ennio Tardini,Ivan Pezzuto
+548,Wed,2020-12-16,20:45,Fiorentina,2.0,1–1,1.1,Sassuolo,,Stadio Artemio Franchi,Paolo Valeri
+549,Wed,2020-12-16,20:45,Genoa,1.2,2–2,1.5,Milan,,Stadio Comunale Luigi Ferraris,Daniele Orsato
+550,Thu,2020-12-17,20:45,Roma,2.6,3–1,1.5,Torino,,Stadio Olimpico,Rosario Abisso
+552,Sat,2020-12-19,15:00,Fiorentina,1.2,1–1,1.1,Hellas Verona,,Stadio Artemio Franchi,Francesco Fourneau
+553,Sat,2020-12-19,18:00,Sampdoria,1.9,3–1,0.9,Crotone,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+554,Sat,2020-12-19,20:45,Parma,0.7,0–4,2.5,Juventus,,Stadio Ennio Tardini,Giampaolo Calvarese
+555,Sun,2020-12-20,12:30,Torino,0.9,1–1,1.6,Bologna,,Stadio Olimpico di Torino,Fabrizio Pasqua
+556,Sun,2020-12-20,15:00,Sassuolo,0.9,1–2,1.5,Milan,,Stadio Città del Tricolore,Maurizio Mariani
+557,Sun,2020-12-20,15:00,Inter,1.8,2–1,0.8,Spezia,,Stadio Giuseppe Meazza,Michael Fabbri
+558,Sun,2020-12-20,15:00,Benevento,1.6,2–0,0.3,Genoa,,Stadio Ciro Vigorito,Antonio Giua
+559,Sun,2020-12-20,15:00,Cagliari,0.5,1–1,1.4,Udinese,,Sardegna Arena,Marco Piccinini
+560,Sun,2020-12-20,18:00,Atalanta,2.0,4–1,0.8,Roma,,Stadio Atleti Azzurri d'Italia,Marco Di Bello
+561,Sun,2020-12-20,20:45,Lazio,0.8,2–0,0.9,Napoli,,Stadio Olimpico,Daniele Orsato
+563,Tue,2020-12-22,18:30,Crotone,0.8,2–1,1.2,Parma,,Stadio Ezio Scida,Fabio Maresca
+564,Tue,2020-12-22,20:45,Juventus,0.4,0–3,1.0,Fiorentina,,Allianz Stadium,Federico La Penna
+565,Wed,2020-12-23,18:30,Hellas Verona,0.7,1–2,2.1,Inter,,Stadio Marc'Antonio Bentegodi,Piero Giacomelli
+566,Wed,2020-12-23,20:45,Milan,1.9,3–2,1.8,Lazio,,Stadio Giuseppe Meazza,Marco Di Bello
+567,Wed,2020-12-23,20:45,Napoli,0.9,1–1,0.5,Torino,,Stadio San Paolo,Paolo Valeri
+568,Wed,2020-12-23,20:45,Sampdoria,1.7,2–3,2.1,Sassuolo,,Stadio Comunale Luigi Ferraris,Giovanni Ayroldi
+569,Wed,2020-12-23,20:45,Roma,3.2,3–2,1.7,Cagliari,,Stadio Olimpico,Luca Pairetto
+570,Wed,2020-12-23,20:45,Udinese,1.7,0–2,0.4,Benevento,,Dacia Arena,Manuel Volpi
+571,Wed,2020-12-23,20:45,Spezia,0.7,1–2,1.6,Genoa,,Stadio Dino Manuzzi,Davide Massa
+572,Wed,2020-12-23,20:45,Bologna,1.0,2–2,1.5,Atalanta,,Stadio Renato Dall'Ara,Daniele Chiffi
+574,Sun,2021-01-03,12:30,Inter,2.5,6–2,1.6,Crotone,,Stadio Giuseppe Meazza,Gianluca Aureliano
+575,Sun,2021-01-03,15:00,Parma,1.0,0–3,1.6,Torino,,Stadio Ennio Tardini,Daniele Doveri
+576,Sun,2021-01-03,15:00,Genoa,0.9,1–1,1.4,Lazio,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+577,Sun,2021-01-03,15:00,Atalanta,2.7,5–1,0.7,Sassuolo,,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+578,Sun,2021-01-03,15:00,Spezia,0.8,0–1,1.7,Hellas Verona,,Stadio Dino Manuzzi,Luca Pairetto
+579,Sun,2021-01-03,15:00,Roma,2.1,1–0,0.4,Sampdoria,,Stadio Olimpico,Daniele Chiffi
+580,Sun,2021-01-03,15:00,Cagliari,1.0,1–4,3.8,Napoli,,Sardegna Arena,Gianluca Manganiello
+581,Sun,2021-01-03,15:00,Fiorentina,0.3,0–0,0.7,Bologna,,Stadio Artemio Franchi,Daniele Orsato
+582,Sun,2021-01-03,18:00,Benevento,2.5,0–2,1.5,Milan,,Stadio Ciro Vigorito,Fabrizio Pasqua
+583,Sun,2021-01-03,20:45,Juventus,2.8,4–1,1.7,Udinese,,Allianz Stadium,Piero Giacomelli
+585,Wed,2021-01-06,12:30,Cagliari,0.9,1–2,1.2,Benevento,,Sardegna Arena,Eugenio Abbattista
+586,Wed,2021-01-06,15:00,Bologna,1.0,2–2,1.6,Udinese,,Stadio Renato Dall'Ara,Giovanni Ayroldi
+587,Wed,2021-01-06,15:00,Torino,1.4,1–1,0.4,Hellas Verona,,Stadio Olimpico di Torino,Marco Di Bello
+588,Wed,2021-01-06,15:00,Lazio,1.2,2–1,1.6,Fiorentina,,Stadio Olimpico,Rosario Abisso
+589,Wed,2021-01-06,15:00,Crotone,0.8,1–3,2.2,Roma,,Stadio Ezio Scida,Marco Piccinini
+590,Wed,2021-01-06,15:00,Atalanta,1.7,3–0,0.0,Parma,,Stadio Atleti Azzurri d'Italia,Juan Sacchi
+591,Wed,2021-01-06,15:00,Sassuolo,1.6,2–1,1.1,Genoa,,Stadio Città del Tricolore,Michael Fabbri
+592,Wed,2021-01-06,15:00,Sampdoria,1.2,2–1,2.5,Inter,,Stadio Comunale Luigi Ferraris,Paolo Valeri
+593,Wed,2021-01-06,18:00,Napoli,3.6,1–2,2.0,Spezia,,Stadio San Paolo,Maurizio Mariani
+594,Wed,2021-01-06,20:45,Milan,1.3,1–3,1.7,Juventus,,Stadio Giuseppe Meazza,Massimiliano Irrati
+596,Sat,2021-01-09,15:00,Benevento,0.9,1–4,4.3,Atalanta,,Stadio Ciro Vigorito,Gianluca Manganiello
+597,Sat,2021-01-09,18:00,Genoa,1.4,2–0,0.5,Bologna,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+598,Sat,2021-01-09,20:45,Milan,1.6,2–0,0.6,Torino,,Stadio Giuseppe Meazza,Fabio Maresca
+599,Sun,2021-01-10,12:30,Roma,1.1,2–2,2.0,Inter,,Stadio Olimpico,Marco Di Bello
+600,Sun,2021-01-10,15:00,Udinese,2.8,1–2,1.9,Napoli,,Dacia Arena,Fabrizio Pasqua
+601,Sun,2021-01-10,15:00,Parma,0.6,0–2,3.6,Lazio,,Stadio Ennio Tardini,Luca Pairetto
+602,Sun,2021-01-10,15:00,Hellas Verona,1.1,2–1,0.7,Crotone,,Stadio Marc'Antonio Bentegodi,Luca Massimi
+603,Sun,2021-01-10,18:00,Fiorentina,2.0,1–0,1.3,Cagliari,,Stadio Artemio Franchi,Piero Giacomelli
+604,Sun,2021-01-10,20:45,Juventus,3.6,3–1,1.1,Sassuolo,,Allianz Stadium,Davide Massa
+605,Mon,2021-01-11,20:45,Spezia,1.4,2–1,1.0,Sampdoria,,Stadio Dino Manuzzi,Marco Piccinini
+607,Fri,2021-01-15,20:45,Lazio,1.0,3–0,1.3,Roma,,Stadio Olimpico,Daniele Orsato
+608,Sat,2021-01-16,15:00,Bologna,1.8,1–0,0.9,Hellas Verona,,Stadio Renato Dall'Ara,Maurizio Mariani
+609,Sat,2021-01-16,18:00,Torino,1.0,0–0,0.4,Spezia,,Stadio Olimpico di Torino,Michael Fabbri
+610,Sat,2021-01-16,20:45,Sampdoria,1.9,2–1,1.9,Udinese,,Stadio Comunale Luigi Ferraris,Juan Sacchi
+611,Sun,2021-01-17,12:30,Napoli,1.8,6–0,0.9,Fiorentina,,Stadio San Paolo,Daniele Chiffi
+612,Sun,2021-01-17,15:00,Crotone,1.4,4–1,2.4,Benevento,,Stadio Ezio Scida,Simone Sozza
+613,Sun,2021-01-17,15:00,Sassuolo,1.8,1–1,0.9,Parma,,Stadio Città del Tricolore,Ivan Pezzuto
+614,Sun,2021-01-17,18:00,Atalanta,1.8,0–0,0.8,Genoa,,Stadio Atleti Azzurri d'Italia,Livio Marinelli
+615,Sun,2021-01-17,20:45,Inter,2.0,2–0,0.5,Juventus,,Stadio Giuseppe Meazza,Daniele Doveri
+616,Mon,2021-01-18,20:45,Cagliari,1.2,0–2,2.0,Milan,,Sardegna Arena,Rosario Abisso
+618,Wed,2021-01-20,15:00,Udinese,0.3,1–1,1.4,Atalanta,,Dacia Arena,Giampaolo Calvarese
+620,Fri,2021-01-22,20:45,Benevento,1.9,2–2,1.5,Torino,,Stadio Ciro Vigorito,Piero Giacomelli
+621,Sat,2021-01-23,15:00,Roma,2.6,4–3,1.2,Spezia,,Stadio Olimpico,Luca Pairetto
+622,Sat,2021-01-23,18:00,Milan,1.6,0–3,2.4,Atalanta,,Stadio Giuseppe Meazza,Maurizio Mariani
+623,Sat,2021-01-23,18:00,Udinese,0.5,0–0,0.8,Inter,,Dacia Arena,Fabio Maresca
+624,Sat,2021-01-23,20:45,Fiorentina,1.6,2–1,0.7,Crotone,,Stadio Artemio Franchi,Marco Piccinini
+625,Sun,2021-01-24,12:30,Juventus,2.7,2–0,0.5,Bologna,,Allianz Stadium,Juan Sacchi
+626,Sun,2021-01-24,15:00,Genoa,1.9,1–0,1.1,Cagliari,,Stadio Comunale Luigi Ferraris,Marco Di Bello
+627,Sun,2021-01-24,15:00,Hellas Verona,1.7,3–1,0.9,Napoli,,Stadio Marc'Antonio Bentegodi,Michael Fabbri
+628,Sun,2021-01-24,18:00,Lazio,1.4,2–1,0.6,Sassuolo,,Stadio Olimpico,Antonio Giua
+629,Sun,2021-01-24,20:45,Parma,0.8,0–2,1.3,Sampdoria,,Stadio Ennio Tardini,Gianluca Manganiello
+631,Fri,2021-01-29,20:45,Torino,2.1,1–1,1.3,Fiorentina,,Stadio Olimpico di Torino,Marco Di Bello
+632,Sat,2021-01-30,15:00,Bologna,1.1,1–2,2.7,Milan,,Stadio Renato Dall'Ara,Daniele Doveri
+633,Sat,2021-01-30,18:00,Sampdoria,0.4,0–2,1.9,Juventus,,Stadio Comunale Luigi Ferraris,Michael Fabbri
+634,Sat,2021-01-30,20:45,Inter,1.6,4–0,0.0,Benevento,,Stadio Giuseppe Meazza,Fabrizio Pasqua
+635,Sun,2021-01-31,12:30,Spezia,0.8,0–1,1.0,Udinese,,Stadio Dino Manuzzi,Antonio Di Martino
+636,Sun,2021-01-31,15:00,Crotone,0.6,0–3,1.0,Genoa,,Stadio Ezio Scida,Piero Giacomelli
+637,Sun,2021-01-31,15:00,Atalanta,1.2,1–3,2.9,Lazio,,Stadio Atleti Azzurri d'Italia,Daniele Chiffi
+638,Sun,2021-01-31,15:00,Cagliari,0.7,1–1,1.7,Sassuolo,,Sardegna Arena,Maurizio Mariani
+639,Sun,2021-01-31,18:00,Napoli,0.7,2–0,0.2,Parma,,Stadio San Paolo,Federico La Penna
+640,Sun,2021-01-31,20:45,Roma,1.8,3–1,0.9,Hellas Verona,,Stadio Olimpico,Marco Piccinini
+642,Fri,2021-02-05,20:45,Fiorentina,0.6,0–2,2.4,Inter,,Stadio Artemio Franchi,Federico La Penna
+643,Sat,2021-02-06,15:00,Sassuolo,1.0,1–2,1.6,Spezia,,Stadio Città del Tricolore,Juan Sacchi
+644,Sat,2021-02-06,15:00,Atalanta,1.8,3–3,2.8,Torino,,Stadio Atleti Azzurri d'Italia,Francesco Fourneau
+645,Sat,2021-02-06,18:00,Juventus,0.2,2–0,1.0,Roma,,Allianz Stadium,Daniele Orsato
+646,Sat,2021-02-06,20:45,Genoa,1.2,2–1,1.5,Napoli,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+647,Sun,2021-02-07,12:30,Benevento,1.1,1–1,2.0,Sampdoria,,Stadio Ciro Vigorito,Gianluca Aureliano
+648,Sun,2021-02-07,15:00,Milan,2.5,4–0,0.6,Crotone,,Stadio Giuseppe Meazza,Luca Pairetto
+649,Sun,2021-02-07,15:00,Udinese,2.0,2–0,0.4,Hellas Verona,,Dacia Arena,Alberto Santoro
+650,Sun,2021-02-07,18:00,Parma,1.1,0–3,1.5,Bologna,,Stadio Ennio Tardini,Marco Guida
+651,Sun,2021-02-07,20:45,Lazio,1.1,1–0,0.9,Cagliari,,Stadio Olimpico,Massimiliano Irrati
+653,Fri,2021-02-12,20:45,Bologna,1.8,1–1,1.1,Benevento,,Stadio Renato Dall'Ara,Davide Ghersini
+654,Sat,2021-02-13,15:00,Torino,0.8,0–0,0.4,Genoa,,Stadio Olimpico di Torino,Fabrizio Pasqua
+655,Sat,2021-02-13,18:00,Napoli,1.0,1–0,1.7,Juventus,,Stadio San Paolo,Daniele Doveri
+656,Sat,2021-02-13,20:45,Spezia,1.9,2–0,0.4,Milan,,Stadio Dino Manuzzi,Daniele Chiffi
+657,Sun,2021-02-14,12:30,Roma,2.0,3–0,0.4,Udinese,,Stadio Olimpico,Piero Giacomelli
+658,Sun,2021-02-14,15:00,Cagliari,0.3,0–1,0.7,Atalanta,,Sardegna Arena,Marco Piccinini
+659,Sun,2021-02-14,15:00,Sampdoria,0.9,2–1,1.8,Fiorentina,,Stadio Comunale Luigi Ferraris,Fabio Maresca
+660,Sun,2021-02-14,18:00,Crotone,0.7,1–2,2.7,Sassuolo,,Stadio Ezio Scida,Ivan Pezzuto
+661,Sun,2021-02-14,20:45,Inter,2.8,3–1,0.9,Lazio,,Stadio Giuseppe Meazza,Michael Fabbri
+662,Mon,2021-02-15,20:45,Hellas Verona,1.0,2–1,1.6,Parma,,Stadio Marc'Antonio Bentegodi,Luca Massimi
+664,Fri,2021-02-19,18:30,Fiorentina,2.6,3–0,0.6,Spezia,,Stadio Artemio Franchi,Giampaolo Calvarese
+665,Fri,2021-02-19,20:45,Cagliari,1.1,0–1,0.9,Torino,,Sardegna Arena,Daniele Orsato
+666,Sat,2021-02-20,15:00,Lazio,1.4,1–0,0.6,Sampdoria,,Stadio Olimpico,Davide Massa
+667,Sat,2021-02-20,18:00,Genoa,1.1,2–2,1.5,Hellas Verona,,Stadio Comunale Luigi Ferraris,Matteo Marchetti
+668,Sat,2021-02-20,20:45,Sassuolo,2.3,1–1,0.4,Bologna,,Stadio Città del Tricolore,Federico La Penna
+669,Sun,2021-02-21,12:30,Parma,2.5,2–2,1.1,Udinese,,Stadio Ennio Tardini,Massimiliano Irrati
+670,Sun,2021-02-21,15:00,Milan,1.0,0–3,2.3,Inter,,Stadio Giuseppe Meazza,Daniele Doveri
+671,Sun,2021-02-21,18:00,Atalanta,2.2,4–2,0.5,Napoli,,Stadio Atleti Azzurri d'Italia,Marco Di Bello
+672,Sun,2021-02-21,20:45,Benevento,0.3,0–0,1.0,Roma,,Stadio Ciro Vigorito,Luca Pairetto
+673,Mon,2021-02-22,20:45,Juventus,4.4,3–0,0.8,Crotone,,Allianz Stadium,Valerio Marini
+675,Sat,2021-02-27,15:00,Spezia,1.8,2–2,1.3,Parma,,Stadio Dino Manuzzi,Daniele Orsato
+676,Sat,2021-02-27,18:00,Bologna,1.3,2–0,2.3,Lazio,,Stadio Renato Dall'Ara,Piero Giacomelli
+677,Sat,2021-02-27,20:45,Hellas Verona,0.7,1–1,1.0,Juventus,,Stadio Marc'Antonio Bentegodi,Fabio Maresca
+678,Sun,2021-02-28,12:30,Sampdoria,0.5,0–2,1.9,Atalanta,,Stadio Comunale Luigi Ferraris,Livio Marinelli
+679,Sun,2021-02-28,15:00,Inter,2.2,3–0,0.2,Genoa,,Stadio Giuseppe Meazza,Daniele Chiffi
+680,Sun,2021-02-28,15:00,Crotone,0.8,0–2,1.3,Cagliari,,Stadio Ezio Scida,Michael Fabbri
+681,Sun,2021-02-28,15:00,Udinese,0.9,1–0,0.4,Fiorentina,,Dacia Arena,Manuel Volpi
+682,Sun,2021-02-28,18:00,Napoli,2.0,2–0,0.3,Benevento,,Stadio San Paolo,Rosario Abisso
+683,Sun,2021-02-28,20:45,Roma,2.0,1–2,3.2,Milan,,Stadio Olimpico,Marco Guida
+685,Tue,2021-03-02,20:45,Juventus,2.2,3–0,1.4,Spezia,,Allianz Stadium,Juan Sacchi
+686,Wed,2021-03-03,18:30,Sassuolo,2.6,3–3,2.4,Napoli,,Stadio Città del Tricolore,Valerio Marini
+687,Wed,2021-03-03,20:45,Milan,1.3,1–1,0.6,Udinese,,Stadio Giuseppe Meazza,Davide Massa
+688,Wed,2021-03-03,20:45,Cagliari,1.1,1–0,0.8,Bologna,,Sardegna Arena,Marco Di Bello
+689,Wed,2021-03-03,20:45,Atalanta,3.2,5–1,0.9,Crotone,,Stadio Atleti Azzurri d'Italia,Simone Sozza
+690,Wed,2021-03-03,20:45,Fiorentina,0.6,1–2,1.6,Roma,,Stadio Artemio Franchi,Giampaolo Calvarese
+691,Wed,2021-03-03,20:45,Genoa,0.3,1–1,0.5,Sampdoria,,Stadio Comunale Luigi Ferraris,Luca Pairetto
+692,Wed,2021-03-03,20:45,Benevento,0.4,0–3,2.1,Hellas Verona,,Stadio Ciro Vigorito,Giovanni Ayroldi
+693,Thu,2021-03-04,20:45,Parma,0.7,1–2,2.5,Inter,,Stadio Ennio Tardini,Fabrizio Pasqua
+695,Sat,2021-03-06,15:00,Spezia,1.1,1–1,0.5,Benevento,,Stadio Dino Manuzzi,Francesco Fourneau
+696,Sat,2021-03-06,18:00,Udinese,1.4,2–0,0.7,Sassuolo,,Dacia Arena,Lorenzo Maggioni
+697,Sat,2021-03-06,20:45,Juventus,1.3,3–1,1.1,Lazio,,Allianz Stadium,Davide Massa
+698,Sun,2021-03-07,12:30,Roma,1.2,1–0,0.2,Genoa,,Stadio Olimpico,Michael Fabbri
+699,Sun,2021-03-07,15:00,Fiorentina,0.7,3–3,2.2,Parma,,Stadio Artemio Franchi,Rosario Abisso
+700,Sun,2021-03-07,15:00,Crotone,2.1,4–2,1.4,Torino,,Stadio Ezio Scida,Marco Guida
+701,Sun,2021-03-07,15:00,Hellas Verona,0.7,0–2,0.7,Milan,,Stadio Marc'Antonio Bentegodi,Daniele Orsato
+702,Sun,2021-03-07,18:00,Sampdoria,0.8,2–2,0.8,Cagliari,,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+703,Sun,2021-03-07,20:45,Napoli,1.4,3–1,0.9,Bologna,,Stadio San Paolo,Daniele Chiffi
+704,Mon,2021-03-08,20:45,Inter,0.3,1–0,0.9,Atalanta,,Stadio Giuseppe Meazza,Maurizio Mariani
+706,Fri,2021-03-12,15:00,Lazio,2.2,3–2,1.2,Crotone,,Stadio Olimpico,Antonio Rapuano
+707,Fri,2021-03-12,20:45,Atalanta,1.9,3–1,1.1,Spezia,,Stadio Atleti Azzurri d'Italia,Valerio Marini
+708,Sat,2021-03-13,15:00,Sassuolo,1.4,3–2,1.1,Hellas Verona,,Stadio Città del Tricolore,Alessandro Prontera
+709,Sat,2021-03-13,18:00,Benevento,1.5,1–4,2.0,Fiorentina,,Stadio Ciro Vigorito,Piero Giacomelli
+710,Sat,2021-03-13,20:45,Genoa,1.0,1–1,1.5,Udinese,,Stadio Comunale Luigi Ferraris,Giacomo Camplone
+711,Sun,2021-03-14,12:30,Bologna,1.9,3–1,2.0,Sampdoria,,Stadio Renato Dall'Ara,Massimiliano Irrati
+712,Sun,2021-03-14,15:00,Parma,1.7,2–0,1.9,Roma,,Stadio Ennio Tardini,Marco Piccinini
+713,Sun,2021-03-14,15:00,Torino,0.9,1–2,1.9,Inter,,Stadio Olimpico di Torino,Paolo Valeri
+714,Sun,2021-03-14,18:00,Cagliari,0.7,1–3,2.3,Juventus,,Sardegna Arena,Giampaolo Calvarese
+715,Sun,2021-03-14,20:45,Milan,1.0,0–1,1.3,Napoli,,Stadio Giuseppe Meazza,Fabrizio Pasqua
+717,Wed,2021-03-17,15:00,Torino,2.3,3–2,1.0,Sassuolo,,Stadio Olimpico di Torino,Maurizio Mariani
+719,Fri,2021-03-19,20:45,Parma,1.2,1–2,1.0,Genoa,,Stadio Ennio Tardini,Daniele Doveri
+720,Sat,2021-03-20,15:00,Crotone,1.8,2–3,3.2,Bologna,,Stadio Ezio Scida,Francesco Fourneau
+721,Sat,2021-03-20,18:00,Spezia,1.0,2–1,2.5,Cagliari,,Stadio Dino Manuzzi,Maurizio Mariani
+722,Sun,2021-03-21,12:30,Hellas Verona,0.2,0–2,2.1,Atalanta,,Stadio Marc'Antonio Bentegodi,Luca Pairetto
+723,Sun,2021-03-21,15:00,Sampdoria,1.1,1–0,0.5,Torino,,Stadio Comunale Luigi Ferraris,Daniele Orsato
+724,Sun,2021-03-21,15:00,Udinese,1.4,0–1,1.1,Lazio,,Dacia Arena,Fabio Maresca
+725,Sun,2021-03-21,15:00,Juventus,1.8,0–1,0.3,Benevento,,Allianz Stadium,Rosario Abisso
+726,Sun,2021-03-21,18:00,Fiorentina,0.2,2–3,1.7,Milan,,Stadio Artemio Franchi,Marco Guida
+727,Sun,2021-03-21,20:45,Roma,0.5,0–2,1.0,Napoli,,Stadio Olimpico,Marco Di Bello
+729,Sat,2021-04-03,12:30,Milan,1.2,1–1,0.7,Sampdoria,,Stadio Giuseppe Meazza,Marco Piccinini
+730,Sat,2021-04-03,15:00,Sassuolo,3.2,2–2,2.1,Roma,,Stadio Città del Tricolore,Luca Pairetto
+731,Sat,2021-04-03,15:00,Genoa,0.7,1–1,0.7,Fiorentina,,Stadio Comunale Luigi Ferraris,Fabio Maresca
+732,Sat,2021-04-03,15:00,Benevento,1.0,2–2,1.8,Parma,,Stadio Ciro Vigorito,Davide Massa
+733,Sat,2021-04-03,15:00,Cagliari,2.0,0–2,1.2,Hellas Verona,,Sardegna Arena,Daniele Doveri
+734,Sat,2021-04-03,15:00,Lazio,2.1,2–1,0.7,Spezia,,Stadio Olimpico,Antonio Giua
+735,Sat,2021-04-03,15:00,Atalanta,2.8,3–2,0.7,Udinese,,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello
+736,Sat,2021-04-03,15:00,Napoli,2.8,4–3,1.2,Crotone,,Stadio San Paolo,Antonio Di Martino
+737,Sat,2021-04-03,18:00,Torino,0.8,2–2,2.3,Juventus,,Stadio Olimpico di Torino,Michael Fabbri
+738,Sat,2021-04-03,20:45,Bologna,0.8,0–1,1.6,Inter,,Stadio Renato Dall'Ara,Piero Giacomelli
+740,Wed,2021-04-07,18:45,Juventus,1.4,2–1,1.5,Napoli,,Allianz Stadium,Maurizio Mariani
+742,Wed,2021-04-07,18:45,Inter,1.0,2–1,0.7,Sassuolo,,Stadio Giuseppe Meazza,Massimiliano Irrati
+744,Sat,2021-04-10,15:00,Spezia,1.5,3–2,1.7,Crotone,,Stadio Dino Manuzzi,Simone Sozza
+745,Sat,2021-04-10,18:00,Parma,1.1,1–3,1.2,Milan,,Stadio Ennio Tardini,Fabio Maresca
+746,Sat,2021-04-10,20:45,Udinese,1.5,0–1,1.5,Torino,,Dacia Arena,Daniele Doveri
+747,Sun,2021-04-11,12:30,Inter,1.3,1–0,0.5,Cagliari,,Stadio Giuseppe Meazza,Luca Pairetto
+748,Sun,2021-04-11,15:00,Juventus,2.3,3–1,1.1,Genoa,,Allianz Stadium,Marco Di Bello
+749,Sun,2021-04-11,15:00,Sampdoria,1.0,0–2,1.9,Napoli,,Stadio Comunale Luigi Ferraris,Paolo Valeri
+750,Sun,2021-04-11,15:00,Hellas Verona,0.2,0–1,0.7,Lazio,,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+751,Sun,2021-04-11,18:00,Roma,1.6,1–0,1.4,Bologna,,Stadio Olimpico,Marco Guida
+752,Sun,2021-04-11,20:45,Fiorentina,1.3,2–3,2.5,Atalanta,,Stadio Artemio Franchi,Juan Sacchi
+753,Mon,2021-04-12,20:45,Benevento,0.7,0–1,1.8,Sassuolo,,Stadio Ciro Vigorito,Valerio Marini
+755,Sat,2021-04-17,15:00,Sampdoria,1.8,3–1,1.5,Hellas Verona,,Stadio Comunale Luigi Ferraris,Federico Dionisi
+756,Sat,2021-04-17,15:00,Crotone,1.2,1–2,0.9,Udinese,,Stadio Ezio Scida,Luca Massimi
+757,Sat,2021-04-17,18:00,Sassuolo,2.1,3–1,0.7,Fiorentina,,Stadio Città del Tricolore,Gianluca Aureliano
+758,Sat,2021-04-17,20:45,Cagliari,1.6,4–3,1.3,Parma,,Sardegna Arena,Paolo Valeri
+759,Sun,2021-04-18,12:30,Milan,1.2,2–1,1.0,Genoa,,Stadio Giuseppe Meazza,Giampaolo Calvarese
+760,Sun,2021-04-18,15:00,Bologna,3.5,4–1,0.6,Spezia,,Stadio Renato Dall'Ara,Marco Piccinini
+761,Sun,2021-04-18,15:00,Lazio,3.7,5–3,1.6,Benevento,,Stadio Olimpico,Davide Ghersini
+762,Sun,2021-04-18,15:00,Atalanta,0.7,1–0,1.2,Juventus,,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+763,Sun,2021-04-18,18:00,Torino,3.7,3–1,1.5,Roma,,Stadio Olimpico di Torino,Davide Massa
+764,Sun,2021-04-18,20:45,Napoli,0.7,1–1,0.9,Inter,,Stadio San Paolo,Daniele Doveri
+766,Tue,2021-04-20,20:45,Hellas Verona,0.8,1–2,1.2,Fiorentina,,Stadio Marc'Antonio Bentegodi,Alessandro Prontera
+767,Wed,2021-04-21,18:30,Milan,1.3,1–2,1.9,Sassuolo,,Stadio Giuseppe Meazza,Juan Sacchi
+768,Wed,2021-04-21,20:45,Bologna,0.4,1–1,2.0,Torino,,Stadio Renato Dall'Ara,Valerio Marini
+769,Wed,2021-04-21,20:45,Spezia,0.0,1–1,2.5,Inter,,Stadio Dino Manuzzi,Daniele Chiffi
+770,Wed,2021-04-21,20:45,Udinese,0.9,0–1,1.6,Cagliari,,Dacia Arena,Marco Guida
+771,Wed,2021-04-21,20:45,Genoa,1.2,2–2,1.0,Benevento,,Stadio Comunale Luigi Ferraris,Luca Pairetto
+772,Wed,2021-04-21,20:45,Juventus,2.1,3–1,1.1,Parma,,Allianz Stadium,Piero Giacomelli
+773,Wed,2021-04-21,20:45,Crotone,0.7,0–1,1.9,Sampdoria,,Stadio Ezio Scida,Daniele Paterna
+774,Thu,2021-04-22,18:30,Roma,1.0,1–1,2.8,Atalanta,,Stadio Olimpico,Giampaolo Calvarese
+775,Thu,2021-04-22,20:45,Napoli,1.5,5–2,1.7,Lazio,,Stadio San Paolo,Marco Di Bello
+777,Sat,2021-04-24,15:00,Genoa,1.7,2–0,0.6,Spezia,,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+778,Sat,2021-04-24,18:00,Parma,1.7,3–4,2.6,Crotone,,Stadio Ennio Tardini,Antonio Rapuano
+779,Sat,2021-04-24,20:45,Sassuolo,1.4,1–0,1.5,Sampdoria,,Stadio Città del Tricolore,Matteo Gariglio
+780,Sun,2021-04-25,12:30,Benevento,2.7,2–4,1.1,Udinese,,Stadio Ciro Vigorito,Maurizio Mariani
+781,Sun,2021-04-25,15:00,Inter,1.1,1–0,1.0,Hellas Verona,,Stadio Giuseppe Meazza,Rosario Abisso
+782,Sun,2021-04-25,15:00,Fiorentina,1.3,1–1,1.1,Juventus,,Stadio Artemio Franchi,Davide Massa
+783,Sun,2021-04-25,18:00,Cagliari,1.1,3–2,1.7,Roma,,Sardegna Arena,Massimiliano Irrati
+784,Sun,2021-04-25,20:45,Atalanta,4.2,5–0,0.8,Bologna,,Stadio Atleti Azzurri d'Italia,Michael Fabbri
+785,Mon,2021-04-26,18:30,Torino,0.9,0–2,2.6,Napoli,,Stadio Olimpico di Torino,Paolo Valeri
+786,Mon,2021-04-26,20:45,Lazio,1.9,3–0,1.5,Milan,,Stadio Olimpico,Daniele Orsato
+788,Sat,2021-05-01,15:00,Hellas Verona,1.3,1–1,0.8,Spezia,,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+789,Sat,2021-05-01,18:00,Crotone,0.5,0–2,2.0,Inter,,Stadio Ezio Scida,Alessandro Prontera
+790,Sat,2021-05-01,20:45,Milan,2.9,2–0,0.8,Benevento,,Stadio Giuseppe Meazza,Giampaolo Calvarese
+791,Sun,2021-05-02,12:30,Lazio,2.9,4–3,1.4,Genoa,,Stadio Olimpico,Piero Giacomelli
+792,Sun,2021-05-02,15:00,Napoli,2.1,1–1,1.4,Cagliari,,Stadio San Paolo,Michael Fabbri
+793,Sun,2021-05-02,15:00,Bologna,1.9,3–3,2.1,Fiorentina,,Stadio Renato Dall'Ara,Federico Dionisi
+794,Sun,2021-05-02,15:00,Sassuolo,1.3,1–1,1.5,Atalanta,,Stadio Città del Tricolore,Luca Pairetto
+795,Sun,2021-05-02,18:00,Udinese,0.4,1–2,1.8,Juventus,,Dacia Arena,Daniele Chiffi
+796,Sun,2021-05-02,20:45,Sampdoria,1.4,2–0,1.5,Roma,,Stadio Comunale Luigi Ferraris,Juan Sacchi
+797,Mon,2021-05-03,20:45,Torino,1.7,1–0,0.4,Parma,,Stadio Olimpico di Torino,Gianluca Aureliano
+799,Sat,2021-05-08,15:00,Spezia,1.0,1–4,2.3,Napoli,,Stadio Dino Manuzzi,Massimiliano Irrati
+800,Sat,2021-05-08,15:00,Udinese,0.5,1–1,2.0,Bologna,,Dacia Arena,Alberto Santoro
+801,Sat,2021-05-08,18:00,Inter,2.0,5–1,1.3,Sampdoria,,Stadio Giuseppe Meazza,Giovanni Ayroldi
+802,Sat,2021-05-08,20:45,Fiorentina,1.9,2–0,1.1,Lazio,,Stadio Artemio Franchi,Fabio Maresca
+803,Sun,2021-05-09,12:30,Genoa,0.8,1–2,1.6,Sassuolo,,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+804,Sun,2021-05-09,15:00,Parma,1.5,2–5,4.1,Atalanta,,Stadio Ennio Tardini,Antonio Giua
+805,Sun,2021-05-09,15:00,Benevento,1.1,1–3,1.7,Cagliari,,Stadio Ciro Vigorito,Daniele Doveri
+806,Sun,2021-05-09,15:00,Hellas Verona,1.8,1–1,0.6,Torino,,Stadio Marc'Antonio Bentegodi,Davide Massa
+807,Sun,2021-05-09,18:00,Roma,2.1,5–0,0.5,Crotone,,Stadio Olimpico,Simone Sozza
+808,Sun,2021-05-09,20:45,Juventus,1.0,0–3,1.2,Milan,,Allianz Stadium,Paolo Valeri
+810,Tue,2021-05-11,20:45,Napoli,3.6,5–1,0.1,Udinese,,Stadio San Paolo,Giampaolo Calvarese
+811,Wed,2021-05-12,18:30,Cagliari,0.4,0–0,0.1,Fiorentina,,Sardegna Arena,Maurizio Mariani
+812,Wed,2021-05-12,20:45,Sassuolo,2.4,1–3,1.4,Juventus,,Stadio Città del Tricolore,Piero Giacomelli
+813,Wed,2021-05-12,20:45,Sampdoria,1.8,2–2,2.7,Spezia,,Stadio Comunale Luigi Ferraris,Fabio Maresca
+814,Wed,2021-05-12,20:45,Bologna,2.2,0–2,1.8,Genoa,,Stadio Renato Dall'Ara,Francesco Fourneau
+815,Wed,2021-05-12,20:45,Inter,2.9,3–1,1.5,Roma,,Stadio Giuseppe Meazza,Daniele Chiffi
+816,Wed,2021-05-12,20:45,Lazio,1.7,1–0,0.6,Parma,,Stadio Olimpico,Federico Dionisi
+817,Wed,2021-05-12,20:45,Torino,1.1,0–7,3.9,Milan,,Stadio Olimpico di Torino,Marco Guida
+818,Wed,2021-05-12,20:45,Atalanta,1.8,2–0,0.3,Benevento,,Stadio Atleti Azzurri d'Italia,Davide Massa
+819,Thu,2021-05-13,20:45,Crotone,0.6,2–1,0.7,Hellas Verona,,Stadio Ezio Scida,Luca Massimi
+821,Sat,2021-05-15,15:00,Spezia,2.5,4–1,1.0,Torino,,Stadio Dino Manuzzi,Daniele Orsato
+822,Sat,2021-05-15,15:00,Genoa,2.0,3–4,2.3,Atalanta,,Stadio Comunale Luigi Ferraris,Livio Marinelli
+823,Sat,2021-05-15,18:00,Juventus,2.5,3–2,1.3,Inter,,Allianz Stadium,Giampaolo Calvarese
+824,Sat,2021-05-15,20:45,Roma,0.9,2–0,0.9,Lazio,,Stadio Olimpico,Luca Pairetto
+825,Sun,2021-05-16,12:30,Fiorentina,0.5,0–2,1.9,Napoli,,Stadio Artemio Franchi,Rosario Abisso
+826,Sun,2021-05-16,15:00,Udinese,0.5,0–1,1.9,Sampdoria,,Dacia Arena,Matteo Gariglio
+827,Sun,2021-05-16,15:00,Benevento,2.1,1–1,1.0,Crotone,,Stadio Ciro Vigorito,Piero Giacomelli
+828,Sun,2021-05-16,18:00,Parma,1.2,1–3,2.1,Sassuolo,,Stadio Ennio Tardini,Marco Piccinini
+829,Sun,2021-05-16,20:45,Milan,1.4,0–0,0.5,Cagliari,,Stadio Giuseppe Meazza,Davide Massa
+830,Mon,2021-05-17,20:45,Hellas Verona,1.1,2–2,1.9,Bologna,,Stadio Marc'Antonio Bentegodi,Matteo Marchetti
+832,Tue,2021-05-18,20:30,Lazio,2.5,0–0,0.4,Torino,,Stadio Olimpico,Michael Fabbri
+834,Sat,2021-05-22,20:45,Cagliari,1.7,0–1,1.5,Genoa,,Sardegna Arena,Francesco Meraviglia
+835,Sat,2021-05-22,20:45,Crotone,1.4,0–0,0.6,Fiorentina,,Stadio Ezio Scida,Eugenio Abbattista
+836,Sat,2021-05-22,20:45,Sampdoria,1.3,3–0,0.8,Parma,,Stadio Comunale Luigi Ferraris,Daniele Paterna
+837,Sun,2021-05-23,15:00,Inter,2.7,5–1,1.1,Udinese,1000.0,Stadio Giuseppe Meazza,Manuel Volpi
+838,Sun,2021-05-23,20:45,Spezia,2.3,2–2,1.7,Roma,,Stadio Dino Manuzzi,Ivan Pezzuto
+839,Sun,2021-05-23,20:45,Sassuolo,1.7,2–0,1.2,Lazio,,Stadio Città del Tricolore,Alessandro Prontera
+840,Sun,2021-05-23,20:45,Atalanta,0.5,0–2,1.9,Milan,,Stadio Atleti Azzurri d'Italia,Maurizio Mariani
+841,Sun,2021-05-23,20:45,Torino,1.9,1–1,0.6,Benevento,,Stadio Olimpico di Torino,Marco Di Bello
+842,Sun,2021-05-23,20:45,Bologna,1.4,1–4,3.7,Juventus,,Stadio Renato Dall'Ara,Paolo Valeri
+843,Sun,2021-05-23,20:45,Napoli,1.2,1–1,1.1,Hellas Verona,,Stadio San Paolo,Daniele Chiffi
+844,Sat,2019-08-24,18:00,Parma,0.4,0–1,1.3,Juventus,20073.0,Stadio Ennio Tardini,Fabio Maresca
+845,Sat,2019-08-24,20:45,Fiorentina,1.7,3–4,2.0,Napoli,33614.0,Stadio Artemio Franchi,Davide Massa
+846,Sun,2019-08-25,18:00,Udinese,0.9,1–0,0.4,Milan,24584.0,Dacia Arena,Fabrizio Pasqua
+847,Sun,2019-08-25,20:45,SPAL,1.6,2–3,1.7,Atalanta,11706.0,Stadio Paolo Mazza,Gianluca Manganiello
+848,Sun,2019-08-25,20:45,Torino,1.2,2–1,1.5,Sassuolo,16536.0,Stadio Olimpico di Torino,Maurizio Mariani
+849,Sun,2019-08-25,20:45,Roma,1.9,3–3,1.3,Genoa,38779.0,Stadio Olimpico,Giampaolo Calvarese
+850,Sun,2019-08-25,20:45,Cagliari,1.0,0–1,1.5,Brescia,16099.0,Sardegna Arena,Eugenio Abbattista
+851,Sun,2019-08-25,20:45,Hellas Verona,0.2,1–1,1.6,Bologna,16324.0,Stadio Marc'Antonio Bentegodi,Antonio Giua
+852,Sun,2019-08-25,20:45,Sampdoria,0.8,0–3,2.3,Lazio,19500.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+853,Mon,2019-08-26,20:45,Inter,1.7,4–0,0.7,Lecce,64188.0,Stadio Giuseppe Meazza,Federico La Penna
+855,Fri,2019-08-30,20:45,Bologna,2.8,1–0,0.7,SPAL,25086.0,Stadio Renato Dall'Ara,Marco Di Bello
+856,Sat,2019-08-31,18:00,Milan,1.5,1–0,0.6,Brescia,56691.0,Stadio Giuseppe Meazza,Rosario Abisso
+857,Sat,2019-08-31,20:45,Juventus,1.4,4–3,1.4,Napoli,39203.0,Allianz Stadium,Daniele Orsato
+858,Sun,2019-09-01,18:00,Lazio,1.9,1–1,1.3,Roma,52000.0,Stadio Olimpico,Marco Guida
+859,Sun,2019-09-01,20:45,Lecce,1.3,0–1,1.4,Hellas Verona,24418.0,Stadio Comunale Via Del Mare,Juan Sacchi
+860,Sun,2019-09-01,20:45,Udinese,1.5,1–3,0.6,Parma,20410.0,Dacia Arena,Marco Piccinini
+861,Sun,2019-09-01,20:45,Genoa,2.1,2–1,1.9,Fiorentina,20000.0,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+862,Sun,2019-09-01,20:45,Atalanta,2.0,2–3,1.1,Torino,8182.0,Stadio Ennio Tardini,Daniele Doveri
+863,Sun,2019-09-01,20:45,Sassuolo,1.6,4–1,1.5,Sampdoria,9608.0,Stadio Città del Tricolore,Luca Pairetto
+864,Sun,2019-09-01,20:45,Cagliari,0.4,1–2,1.5,Inter,16412.0,Sardegna Arena,Fabio Maresca
+866,Sat,2019-09-14,15:00,Fiorentina,1.6,0–0,0.3,Juventus,40000.0,Stadio Artemio Franchi,Massimiliano Irrati
+867,Sat,2019-09-14,18:00,Napoli,1.3,2–0,1.5,Sampdoria,40000.0,Stadio San Paolo,Federico La Penna
+868,Sat,2019-09-14,20:45,Inter,1.4,1–0,0.4,Udinese,57991.0,Stadio Giuseppe Meazza,Maurizio Mariani
+869,Sun,2019-09-15,12:30,Genoa,1.4,1–2,2.5,Atalanta,23395.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+870,Sun,2019-09-15,15:00,SPAL,1.1,2–1,1.5,Lazio,13650.0,Stadio Paolo Mazza,Giampaolo Calvarese
+871,Sun,2019-09-15,15:00,Parma,1.0,1–3,0.7,Cagliari,14068.0,Stadio Ennio Tardini,Fabrizio Pasqua
+872,Sun,2019-09-15,15:00,Brescia,0.8,3–4,3.2,Bologna,15000.0,Stadio Mario Rigamonti,Gianluca Rocchi
+873,Sun,2019-09-15,18:00,Roma,2.1,4–2,1.2,Sassuolo,34407.0,Stadio Olimpico,Daniele Chiffi
+874,Sun,2019-09-15,20:45,Hellas Verona,0.8,0–1,1.3,Milan,24363.0,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+875,Mon,2019-09-16,20:45,Torino,2.0,1–2,1.2,Lecce,21620.0,Stadio Olimpico di Torino,Antonio Giua
+877,Fri,2019-09-20,20:45,Cagliari,1.5,3–1,1.3,Genoa,14574.0,Sardegna Arena,Gianluca Manganiello
+878,Sat,2019-09-21,15:00,Udinese,0.6,0–1,0.7,Brescia,19611.0,Dacia Arena,Paolo Valeri
+879,Sat,2019-09-21,18:00,Juventus,2.0,2–1,1.2,Hellas Verona,39945.0,Allianz Stadium,Federico La Penna
+880,Sat,2019-09-21,20:45,Milan,0.8,0–2,1.9,Inter,70440.0,Stadio Giuseppe Meazza,Daniele Doveri
+881,Sun,2019-09-22,12:30,Sassuolo,2.4,3–0,1.0,SPAL,10937.0,Stadio Città del Tricolore,Maurizio Mariani
+882,Sun,2019-09-22,15:00,Sampdoria,1.2,1–0,0.6,Torino,19041.0,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+883,Sun,2019-09-22,15:00,Bologna,1.4,1–2,1.5,Roma,25513.0,Stadio Renato Dall'Ara,Luca Pairetto
+884,Sun,2019-09-22,15:00,Lecce,1.2,1–4,2.8,Napoli,21644.0,Stadio Comunale Via Del Mare,Marco Piccinini
+885,Sun,2019-09-22,18:00,Atalanta,1.1,2–2,0.9,Fiorentina,10314.0,Stadio Ennio Tardini,Daniele Orsato
+886,Sun,2019-09-22,20:45,Lazio,2.2,2–0,0.7,Parma,31404.0,Stadio Olimpico,Rosario Abisso
+888,Tue,2019-09-24,19:00,Hellas Verona,1.0,0–0,0.8,Udinese,13740.0,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+889,Tue,2019-09-24,21:00,Brescia,0.9,1–2,1.7,Juventus,14000.0,Stadio Mario Rigamonti,Fabrizio Pasqua
+890,Wed,2019-09-25,19:00,Roma,1.7,0–2,1.9,Atalanta,31832.0,Stadio Olimpico,Massimiliano Irrati
+891,Wed,2019-09-25,21:00,Inter,1.4,1–0,1.1,Lazio,56175.0,Stadio Giuseppe Meazza,Fabio Maresca
+892,Wed,2019-09-25,21:00,Parma,1.5,1–0,0.5,Sassuolo,14569.0,Stadio Ennio Tardini,Livio Marinelli
+893,Wed,2019-09-25,21:00,Napoli,2.1,0–1,0.3,Cagliari,25408.0,Stadio San Paolo,Marco Di Bello
+894,Wed,2019-09-25,21:00,Genoa,0.2,0–0,1.7,Bologna,20497.0,Stadio Comunale Luigi Ferraris,Davide Massa
+895,Wed,2019-09-25,21:00,Fiorentina,1.9,2–1,0.6,Sampdoria,33469.0,Stadio Artemio Franchi,Daniele Doveri
+896,Wed,2019-09-25,21:00,SPAL,1.1,1–3,2.0,Lecce,13292.0,Stadio Paolo Mazza,Gianluca Rocchi
+897,Thu,2019-09-26,21:00,Torino,1.3,2–1,2.1,Milan,23997.0,Stadio Olimpico di Torino,Marco Guida
+899,Sat,2019-09-28,15:00,Juventus,2.0,2–0,0.3,SPAL,38995.0,Allianz Stadium,Marco Piccinini
+900,Sat,2019-09-28,18:00,Sampdoria,1.4,1–3,2.4,Inter,23694.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+901,Sat,2019-09-28,20:45,Sassuolo,0.6,1–4,2.1,Atalanta,11604.0,Stadio Città del Tricolore,Paolo Valeri
+902,Sun,2019-09-29,12:30,Napoli,2.0,2–1,1.0,Brescia,45770.0,Stadio San Paolo,Gianluca Manganiello
+903,Sun,2019-09-29,15:00,Lazio,1.4,4–0,0.5,Genoa,26000.0,Stadio Olimpico,Luca Pairetto
+904,Sun,2019-09-29,15:00,Lecce,0.8,0–1,2.5,Roma,26044.0,Stadio Comunale Via Del Mare,Rosario Abisso
+905,Sun,2019-09-29,15:00,Udinese,0.6,1–0,1.2,Bologna,21361.0,Dacia Arena,Antonio Giua
+906,Sun,2019-09-29,18:00,Cagliari,1.3,1–1,1.5,Hellas Verona,15846.0,Sardegna Arena,Manuel Volpi
+907,Sun,2019-09-29,20:45,Milan,0.8,1–3,2.4,Fiorentina,48367.0,Stadio Giuseppe Meazza,Piero Giacomelli
+908,Mon,2019-09-30,20:45,Parma,3.4,3–2,1.6,Torino,15001.0,Stadio Ennio Tardini,Federico La Penna
+910,Sat,2019-10-05,15:00,SPAL,1.5,1–0,0.3,Parma,11776.0,Stadio Paolo Mazza,Marco Guida
+911,Sat,2019-10-05,18:00,Hellas Verona,0.8,2–0,0.7,Sampdoria,17787.0,Stadio Marc'Antonio Bentegodi,Michael Fabbri
+912,Sat,2019-10-05,20:45,Genoa,1.8,1–2,1.3,Milan,22486.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+913,Sun,2019-10-06,12:30,Fiorentina,0.9,1–0,0.7,Udinese,37963.0,Stadio Artemio Franchi,Alessandro Prontera
+914,Sun,2019-10-06,15:00,Roma,1.4,1–1,1.2,Cagliari,34385.0,Stadio Olimpico,Davide Massa
+915,Sun,2019-10-06,15:00,Atalanta,3.7,3–1,1.0,Lecce,20771.0,Stadio Atleti Azzurri d'Italia,Marco Di Bello
+916,Sun,2019-10-06,15:00,Bologna,1.5,2–2,1.9,Lazio,22052.0,Stadio Renato Dall'Ara,Daniele Orsato
+917,Sun,2019-10-06,18:00,Torino,0.6,0–0,1.2,Napoli,24343.0,Stadio Olimpico di Torino,Daniele Doveri
+918,Sun,2019-10-06,20:45,Inter,1.6,1–2,1.4,Juventus,75923.0,Stadio Giuseppe Meazza,Gianluca Rocchi
+920,Sat,2019-10-19,15:00,Lazio,2.6,3–3,2.7,Atalanta,30000.0,Stadio Olimpico,Gianluca Rocchi
+921,Sat,2019-10-19,18:00,Napoli,1.8,2–0,1.3,Hellas Verona,38686.0,Stadio San Paolo,Marco Piccinini
+922,Sat,2019-10-19,20:45,Juventus,2.1,2–1,0.6,Bologna,40461.0,Allianz Stadium,Massimiliano Irrati
+923,Sun,2019-10-20,12:30,Sassuolo,1.0,3–4,3.1,Inter,17935.0,Stadio Città del Tricolore,Piero Giacomelli
+924,Sun,2019-10-20,15:00,Sampdoria,0.6,0–0,0.7,Roma,20211.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+925,Sun,2019-10-20,15:00,Cagliari,1.3,2–0,1.2,SPAL,15713.0,Sardegna Arena,Daniele Chiffi
+926,Sun,2019-10-20,15:00,Udinese,1.8,1–0,1.1,Torino,24049.0,Dacia Arena,Rosario Abisso
+927,Sun,2019-10-20,18:00,Parma,3.0,5–1,1.6,Genoa,15299.0,Stadio Ennio Tardini,Paolo Valeri
+928,Sun,2019-10-20,20:45,Milan,1.4,2–2,1.4,Lecce,48703.0,Stadio Giuseppe Meazza,Fabrizio Pasqua
+929,Mon,2019-10-21,21:00,Brescia,0.2,0–0,1.3,Fiorentina,16000.0,Stadio Mario Rigamonti,Giampaolo Calvarese
+931,Fri,2019-10-25,20:45,Hellas Verona,1.1,0–1,1.4,Sassuolo,11453.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto
+932,Sat,2019-10-26,15:00,Lecce,1.1,1–1,3.4,Juventus,26591.0,Stadio Comunale Via Del Mare,Paolo Valeri
+933,Sat,2019-10-26,18:00,Inter,2.6,2–2,0.8,Parma,67076.0,Stadio Giuseppe Meazza,Daniele Chiffi
+934,Sat,2019-10-26,20:45,Genoa,1.1,3–1,1.2,Brescia,20949.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+935,Sun,2019-10-27,12:30,Bologna,1.5,2–1,0.8,Sampdoria,24099.0,Stadio Renato Dall'Ara,Daniele Doveri
+936,Sun,2019-10-27,15:00,Atalanta,5.6,7–1,1.0,Udinese,18677.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+937,Sun,2019-10-27,15:00,SPAL,0.6,1–1,1.0,Napoli,14726.0,Stadio Paolo Mazza,Federico La Penna
+938,Sun,2019-10-27,15:00,Torino,0.9,1–1,0.5,Cagliari,21213.0,Stadio Olimpico di Torino,Michael Fabbri
+939,Sun,2019-10-27,18:00,Roma,1.5,2–1,0.6,Milan,44333.0,Stadio Olimpico,Daniele Orsato
+940,Sun,2019-10-27,20:45,Fiorentina,0.7,1–2,2.3,Lazio,33281.0,Stadio Artemio Franchi,Marco Guida
+942,Tue,2019-10-29,19:00,Parma,1.3,0–1,0.2,Hellas Verona,14638.0,Stadio Ennio Tardini,Gianluca Manganiello
+943,Tue,2019-10-29,21:00,Brescia,2.0,1–2,1.0,Inter,16500.0,Stadio Mario Rigamonti,Michael Fabbri
+944,Wed,2019-10-30,19:00,Napoli,2.7,2–2,1.3,Atalanta,30061.0,Stadio San Paolo,Piero Giacomelli
+945,Wed,2019-10-30,21:00,Lazio,2.5,4–0,0.7,Torino,25000.0,Stadio Olimpico,Daniele Orsato
+946,Wed,2019-10-30,21:00,Sampdoria,1.9,1–1,1.2,Lecce,18685.0,Stadio Comunale Luigi Ferraris,Davide Massa
+947,Wed,2019-10-30,21:00,Juventus,2.4,2–1,0.4,Genoa,38732.0,Allianz Stadium,Antonio Giua
+948,Wed,2019-10-30,21:00,Udinese,0.8,0–4,3.1,Roma,23854.0,Dacia Arena,Massimiliano Irrati
+949,Wed,2019-10-30,21:00,Sassuolo,1.1,1–2,1.5,Fiorentina,11863.0,Stadio Città del Tricolore,Maurizio Mariani
+950,Wed,2019-10-30,21:00,Cagliari,1.4,3–2,1.0,Bologna,16076.0,Sardegna Arena,Juan Sacchi
+951,Thu,2019-10-31,21:00,Milan,1.4,1–0,0.5,SPAL,46475.0,Stadio Giuseppe Meazza,Marco Piccinini
+953,Sat,2019-11-02,15:00,Roma,2.2,2–1,1.7,Napoli,34502.0,Stadio Olimpico,Gianluca Rocchi
+954,Sat,2019-11-02,18:00,Bologna,0.6,1–2,3.0,Inter,28498.0,Stadio Renato Dall'Ara,Federico La Penna
+955,Sat,2019-11-02,20:45,Torino,0.4,0–1,2.1,Juventus,26664.0,Stadio Olimpico di Torino,Daniele Doveri
+956,Sun,2019-11-03,12:30,Atalanta,0.9,0–2,1.1,Cagliari,18617.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+957,Sun,2019-11-03,15:00,Hellas Verona,1.2,2–1,1.4,Brescia,16525.0,Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+958,Sun,2019-11-03,15:00,Lecce,0.6,2–2,1.8,Sassuolo,22087.0,Stadio Comunale Via Del Mare,Riccardo Ros
+959,Sun,2019-11-03,15:00,Genoa,1.2,1–3,1.5,Udinese,20030.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+960,Sun,2019-11-03,18:00,Fiorentina,1.6,1–1,0.6,Parma,32479.0,Stadio Artemio Franchi,Luca Pairetto
+961,Sun,2019-11-03,20:45,Milan,0.9,1–2,1.2,Lazio,41000.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+962,Mon,2019-11-04,20:45,SPAL,0.7,0–1,0.9,Sampdoria,11617.0,Stadio Paolo Mazza,Daniele Chiffi
+964,Fri,2019-11-08,20:45,Sassuolo,2.3,3–1,0.9,Bologna,13184.0,Stadio Città del Tricolore,Marco Piccinini
+965,Sat,2019-11-09,15:00,Brescia,0.7,0–4,3.4,Torino,13500.0,Stadio Mario Rigamonti,Marco Guida
+966,Sat,2019-11-09,18:00,Inter,2.9,2–1,1.4,Hellas Verona,66202.0,Stadio Giuseppe Meazza,Paolo Valeri
+967,Sat,2019-11-09,20:45,Napoli,1.2,0–0,1.0,Genoa,22947.0,Stadio San Paolo,Giampaolo Calvarese
+968,Sun,2019-11-10,12:30,Cagliari,2.7,5–2,1.0,Fiorentina,16316.0,Sardegna Arena,Federico La Penna
+969,Sun,2019-11-10,15:00,Lazio,3.5,4–2,2.4,Lecce,35000.0,Stadio Olimpico,Gianluca Manganiello
+970,Sun,2019-11-10,15:00,Udinese,1.3,0–0,2.1,SPAL,21621.0,Dacia Arena,Davide Massa
+971,Sun,2019-11-10,15:00,Sampdoria,0.5,0–0,0.7,Atalanta,19799.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+972,Sun,2019-11-10,18:00,Parma,1.4,2–0,0.6,Roma,18532.0,Stadio Ennio Tardini,Michael Fabbri
+973,Sun,2019-11-10,20:45,Juventus,1.2,1–0,0.6,Milan,40478.0,Allianz Stadium,Fabio Maresca
+975,Sat,2019-11-23,15:00,Atalanta,2.4,1–3,1.2,Juventus,20899.0,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi
+976,Sat,2019-11-23,18:00,Milan,0.8,1–1,0.9,Napoli,61658.0,Stadio Giuseppe Meazza,Daniele Orsato
+977,Sat,2019-11-23,20:45,Torino,0.5,0–3,1.6,Inter,26059.0,Stadio Olimpico di Torino,Fabio Maresca
+978,Sun,2019-11-24,12:30,Bologna,0.7,2–2,1.3,Parma,21419.0,Stadio Renato Dall'Ara,Rosario Abisso
+979,Sun,2019-11-24,15:00,Roma,2.5,3–0,0.4,Brescia,33695.0,Stadio Olimpico,Marco Di Bello
+980,Sun,2019-11-24,15:00,Hellas Verona,2.0,1–0,1.0,Fiorentina,22581.0,Stadio Marc'Antonio Bentegodi,Antonio Giua
+981,Sun,2019-11-24,15:00,Sassuolo,1.1,1–2,1.2,Lazio,10000.0,Stadio Città del Tricolore,Daniele Chiffi
+982,Sun,2019-11-24,18:00,Sampdoria,2.1,2–1,0.5,Udinese,17031.0,Stadio Comunale Luigi Ferraris,Luca Pairetto
+983,Mon,2019-11-25,15:00,Lecce,2.9,2–2,0.9,Cagliari,21435.0,Stadio Comunale Via Del Mare,Maurizio Mariani
+984,Mon,2019-11-25,20:45,SPAL,2.2,1–1,1.4,Genoa,12423.0,Stadio Paolo Mazza,Piero Giacomelli
+986,Sat,2019-11-30,15:00,Brescia,1.1,0–3,2.5,Atalanta,14000.0,Stadio Mario Rigamonti,Daniele Doveri
+987,Sat,2019-11-30,18:00,Genoa,0.8,0–1,0.9,Torino,20000.0,Stadio Comunale Luigi Ferraris,Davide Massa
+988,Sat,2019-11-30,20:45,Fiorentina,1.9,0–1,1.3,Lecce,33912.0,Stadio Artemio Franchi,Marco Piccinini
+989,Sun,2019-12-01,12:30,Juventus,4.5,2–2,0.5,Sassuolo,40597.0,Allianz Stadium,Federico La Penna
+990,Sun,2019-12-01,15:00,Lazio,2.8,3–0,0.8,Udinese,20000.0,Stadio Olimpico,Marco Di Bello
+991,Sun,2019-12-01,15:00,Parma,0.3,0–1,1.8,Milan,18431.0,Stadio Ennio Tardini,Paolo Valeri
+992,Sun,2019-12-01,15:00,Inter,1.6,2–1,1.1,SPAL,61221.0,Stadio Giuseppe Meazza,Massimiliano Irrati
+993,Sun,2019-12-01,18:00,Napoli,2.2,1–2,1.1,Bologna,26012.0,Stadio San Paolo,Fabrizio Pasqua
+994,Sun,2019-12-01,20:45,Hellas Verona,1.0,1–3,1.8,Roma,17405.0,Stadio Marc'Antonio Bentegodi,Marco Guida
+995,Mon,2019-12-02,20:45,Cagliari,0.7,4–3,1.5,Sampdoria,15658.0,Sardegna Arena,Gianluca Aureliano
+997,Fri,2019-12-06,20:45,Inter,1.5,0–0,0.3,Roma,67008.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+998,Sat,2019-12-07,15:00,Atalanta,2.4,3–2,1.1,Hellas Verona,19335.0,Stadio Atleti Azzurri d'Italia,Paolo Valeri
+999,Sat,2019-12-07,18:00,Udinese,0.6,1–1,1.2,Napoli,20405.0,Dacia Arena,Maurizio Mariani
+1000,Sat,2019-12-07,20:45,Lazio,2.4,3–1,1.8,Juventus,65000.0,Stadio Olimpico,Michael Fabbri
+1001,Sun,2019-12-08,12:30,Lecce,1.0,2–2,2.0,Genoa,21740.0,Stadio Comunale Via Del Mare,Gianluca Rocchi
+1002,Sun,2019-12-08,15:00,Torino,0.7,2–1,1.7,Fiorentina,19955.0,Stadio Olimpico di Torino,Piero Giacomelli
+1003,Sun,2019-12-08,15:00,Sassuolo,1.9,2–2,0.5,Cagliari,12666.0,Stadio Città del Tricolore,Luca Pairetto
+1004,Sun,2019-12-08,15:00,SPAL,1.9,0–1,1.5,Brescia,12442.0,Stadio Paolo Mazza,Daniele Orsato
+1005,Sun,2019-12-08,18:00,Sampdoria,1.8,0–1,0.7,Parma,19516.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+1006,Sun,2019-12-08,20:45,Bologna,1.5,2–3,2.1,Milan,23707.0,Stadio Renato Dall'Ara,Daniele Chiffi
+1008,Sat,2019-12-14,15:00,Brescia,3.6,3–0,0.7,Lecce,13131.0,Stadio Mario Rigamonti,Massimiliano Irrati
+1009,Sat,2019-12-14,18:30,Napoli,2.7,1–2,1.5,Parma,25000.0,Stadio San Paolo,Marco Di Bello
+1010,Sat,2019-12-14,20:45,Genoa,0.5,0–1,0.6,Sampdoria,30658.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1011,Sun,2019-12-15,12:30,Hellas Verona,2.0,3–3,1.3,Torino,14612.0,Stadio Marc'Antonio Bentegodi,Federico La Penna
+1012,Sun,2019-12-15,15:00,Bologna,1.2,2–1,1.9,Atalanta,21277.0,Stadio Renato Dall'Ara,Davide Massa
+1013,Sun,2019-12-15,15:00,Milan,2.1,0–0,0.9,Sassuolo,58005.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+1014,Sun,2019-12-15,15:00,Juventus,1.8,3–1,1.2,Udinese,39127.0,Allianz Stadium,Fabrizio Pasqua
+1015,Sun,2019-12-15,18:00,Roma,3.1,3–1,1.1,SPAL,34761.0,Stadio Olimpico,Antonio Giua
+1016,Sun,2019-12-15,20:45,Fiorentina,0.7,1–1,0.6,Inter,37537.0,Stadio Artemio Franchi,Maurizio Mariani
+1017,Mon,2019-12-16,20:45,Cagliari,1.5,1–2,1.3,Lazio,16299.0,Sardegna Arena,Fabio Maresca
+1019,Wed,2019-12-18,18:55,Sampdoria,0.7,1–2,0.9,Juventus,23136.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+1021,Wed,2019-12-18,20:45,Brescia,1.8,0–2,0.4,Sassuolo,14574.0,Stadio Mario Rigamonti,Marco Di Bello
+1023,Fri,2019-12-20,20:45,Fiorentina,1.7,1–4,1.3,Roma,3305.0,Stadio Artemio Franchi,Daniele Orsato
+1024,Sat,2019-12-21,15:00,Udinese,1.4,2–1,0.9,Cagliari,19822.0,Dacia Arena,Marco Piccinini
+1025,Sat,2019-12-21,18:00,Inter,2.4,4–0,0.6,Genoa,57490.0,Stadio Giuseppe Meazza,Luca Pairetto
+1026,Sat,2019-12-21,20:45,Torino,1.0,1–2,1.1,SPAL,18553.0,Stadio Olimpico di Torino,Michael Fabbri
+1027,Sun,2019-12-22,12:30,Atalanta,2.8,5–0,0.3,Milan,20940.0,Stadio Atleti Azzurri d'Italia,Federico La Penna
+1028,Sun,2019-12-22,15:00,Parma,1.4,1–1,2.3,Brescia,16686.0,Stadio Ennio Tardini,Francesco Fourneau
+1029,Sun,2019-12-22,15:00,Lecce,1.0,2–3,3.4,Bologna,24178.0,Stadio Comunale Via Del Mare,Rosario Abisso
+1030,Sun,2019-12-22,20:45,Sassuolo,1.3,1–2,1.4,Napoli,12570.0,Stadio Città del Tricolore,Daniele Chiffi
+1032,Sun,2020-01-05,12:30,Brescia,0.4,1–2,1.9,Lazio,14370.0,Stadio Mario Rigamonti,Gianluca Manganiello
+1033,Sun,2020-01-05,15:00,SPAL,1.4,0–2,2.1,Hellas Verona,14078.0,Stadio Paolo Mazza,Marco Guida
+1034,Sun,2020-01-05,18:00,Genoa,3.2,2–1,0.7,Sassuolo,21033.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+1035,Sun,2020-01-05,20:45,Roma,2.1,0–2,1.9,Torino,38954.0,Stadio Olimpico,Marco Di Bello
+1036,Mon,2020-01-06,12:30,Bologna,0.9,1–1,0.6,Fiorentina,22653.0,Stadio Renato Dall'Ara,Paolo Valeri
+1037,Mon,2020-01-06,15:00,Atalanta,1.8,5–0,0.1,Parma,19213.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+1038,Mon,2020-01-06,15:00,Juventus,2.7,4–0,0.8,Cagliari,40598.0,Allianz Stadium,Piero Giacomelli
+1039,Mon,2020-01-06,15:00,Milan,1.3,0–0,1.2,Sampdoria,58572.0,Stadio Giuseppe Meazza,Davide Massa
+1040,Mon,2020-01-06,18:00,Lecce,0.6,0–1,0.6,Udinese,21321.0,Stadio Comunale Via Del Mare,Antonio Giua
+1041,Mon,2020-01-06,20:45,Napoli,1.9,1–3,1.3,Inter,31191.0,Stadio San Paolo,Daniele Doveri
+1043,Sat,2020-01-11,15:00,Cagliari,0.7,0–2,1.2,Milan,16412.0,Sardegna Arena,Rosario Abisso
+1044,Sat,2020-01-11,18:00,Lazio,0.9,1–0,0.5,Napoli,40000.0,Stadio Olimpico,Daniele Orsato
+1045,Sat,2020-01-11,20:45,Inter,0.5,1–1,2.3,Atalanta,70042.0,Stadio Giuseppe Meazza,Gianluca Rocchi
+1046,Sun,2020-01-12,12:30,Udinese,1.7,3–0,1.0,Sassuolo,21731.0,Dacia Arena,Manuel Volpi
+1047,Sun,2020-01-12,15:00,Sampdoria,3.3,5–1,0.9,Brescia,20117.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+1048,Sun,2020-01-12,15:00,Torino,0.5,1–0,1.7,Bologna,15000.0,Stadio Olimpico di Torino,Marco Piccinini
+1049,Sun,2020-01-12,15:00,Fiorentina,1.6,1–0,1.1,SPAL,33970.0,Stadio Artemio Franchi,Daniele Doveri
+1050,Sun,2020-01-12,18:00,Hellas Verona,2.6,2–1,0.8,Genoa,14849.0,Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+1051,Sun,2020-01-12,20:45,Roma,2.5,1–2,1.4,Juventus,60513.0,Stadio Olimpico,Marco Guida
+1052,Mon,2020-01-13,20:45,Parma,1.6,2–0,1.1,Lecce,15258.0,Stadio Ennio Tardini,Michael Fabbri
+1054,Sat,2020-01-18,15:00,Lazio,4.1,5–1,0.4,Sampdoria,30000.0,Stadio Olimpico,Daniele Chiffi
+1055,Sat,2020-01-18,18:00,Sassuolo,1.2,2–1,0.8,Torino,10500.0,Stadio Città del Tricolore,Davide Massa
+1056,Sat,2020-01-18,20:45,Napoli,0.8,0–2,1.0,Fiorentina,22219.0,Stadio San Paolo,Fabrizio Pasqua
+1057,Sun,2020-01-19,12:30,Milan,2.5,3–2,1.4,Udinese,56107.0,Stadio Giuseppe Meazza,Luca Pairetto
+1058,Sun,2020-01-19,15:00,Bologna,0.9,1–1,1.6,Hellas Verona,20697.0,Stadio Renato Dall'Ara,Giovanni Ayroldi
+1059,Sun,2020-01-19,15:00,Brescia,0.7,2–2,3.1,Cagliari,12133.0,Stadio Mario Rigamonti,Antonio Giua
+1060,Sun,2020-01-19,15:00,Lecce,1.2,1–1,2.0,Inter,25966.0,Stadio Comunale Via Del Mare,Piero Giacomelli
+1061,Sun,2020-01-19,18:00,Genoa,1.2,1–3,2.3,Roma,20951.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+1062,Sun,2020-01-19,20:45,Juventus,1.2,2–1,0.5,Parma,37790.0,Allianz Stadium,Marco Di Bello
+1063,Mon,2020-01-20,20:45,Atalanta,1.8,1–2,1.3,SPAL,16636.0,Stadio Atleti Azzurri d'Italia,Federico La Penna
+1065,Fri,2020-01-24,20:45,Brescia,1.4,0–1,2.0,Milan,19451.0,Stadio Mario Rigamonti,Paolo Valeri
+1066,Sat,2020-01-25,15:00,SPAL,1.5,1–3,2.0,Bologna,12622.0,Stadio Paolo Mazza,Michael Fabbri
+1067,Sat,2020-01-25,18:00,Fiorentina,0.9,0–0,1.6,Genoa,32903.0,Stadio Artemio Franchi,Daniele Orsato
+1068,Sat,2020-01-25,20:45,Torino,0.6,0–7,5.2,Atalanta,18824.0,Stadio Olimpico di Torino,Marco Guida
+1069,Sun,2020-01-26,12:30,Inter,2.1,1–1,0.6,Cagliari,70465.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+1070,Sun,2020-01-26,15:00,Hellas Verona,2.1,3–0,0.5,Lecce,15425.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+1071,Sun,2020-01-26,15:00,Sampdoria,1.4,0–0,0.5,Sassuolo,19260.0,Stadio Comunale Luigi Ferraris,Marco Piccinini
+1072,Sun,2020-01-26,15:00,Parma,0.9,2–0,1.7,Udinese,14250.0,Stadio Ennio Tardini,Simone Sozza
+1073,Sun,2020-01-26,18:00,Roma,1.6,1–1,0.6,Lazio,59902.0,Stadio Olimpico,Giampaolo Calvarese
+1074,Sun,2020-01-26,20:45,Napoli,1.2,2–1,0.5,Juventus,39111.0,Stadio San Paolo,Maurizio Mariani
+1076,Sat,2020-02-01,15:00,Bologna,1.9,2–1,0.9,Brescia,21665.0,Stadio Renato Dall'Ara,Daniele Doveri
+1077,Sat,2020-02-01,18:00,Cagliari,2.8,2–2,1.5,Parma,16051.0,Sardegna Arena,Massimiliano Irrati
+1078,Sat,2020-02-01,20:45,Sassuolo,3.2,4–2,2.9,Roma,13411.0,Stadio Città del Tricolore,Luca Pairetto
+1079,Sun,2020-02-02,12:30,Juventus,2.9,3–0,0.6,Fiorentina,40171.0,Allianz Stadium,Fabrizio Pasqua
+1080,Sun,2020-02-02,15:00,Atalanta,2.3,2–2,1.3,Genoa,18755.0,Stadio Atleti Azzurri d'Italia,Davide Massa
+1081,Sun,2020-02-02,15:00,Lazio,2.6,5–1,1.3,SPAL,4000.0,Stadio Olimpico,Antonio Giua
+1082,Sun,2020-02-02,15:00,Milan,1.3,1–1,0.8,Hellas Verona,55355.0,Stadio Giuseppe Meazza,Daniele Chiffi
+1083,Sun,2020-02-02,18:00,Lecce,2.5,4–0,1.0,Torino,21947.0,Stadio Comunale Via Del Mare,Gianluca Rocchi
+1084,Sun,2020-02-02,20:45,Udinese,0.9,0–2,2.7,Inter,23215.0,Dacia Arena,Marco Di Bello
+1085,Mon,2020-02-03,20:45,Sampdoria,1.9,2–4,1.3,Napoli,20017.0,Stadio Comunale Luigi Ferraris,Federico La Penna
+1087,Wed,2020-02-05,20:45,Lazio,1.3,0–0,1.0,Hellas Verona,40000.0,Stadio Olimpico,Rosario Abisso
+1089,Fri,2020-02-07,20:45,Roma,1.1,2–3,1.8,Bologna,31808.0,Stadio Olimpico,Marco Guida
+1090,Sat,2020-02-08,15:00,Fiorentina,0.5,1–2,1.7,Atalanta,35034.0,Stadio Artemio Franchi,Maurizio Mariani
+1091,Sat,2020-02-08,18:00,Torino,0.5,1–3,2.0,Sampdoria,20664.0,Stadio Olimpico di Torino,Paolo Valeri
+1092,Sat,2020-02-08,20:45,Hellas Verona,1.8,2–1,0.7,Juventus,28654.0,Stadio Marc'Antonio Bentegodi,Davide Massa
+1093,Sun,2020-02-09,12:30,SPAL,1.4,1–2,2.2,Sassuolo,12988.0,Stadio Paolo Mazza,Piero Giacomelli
+1094,Sun,2020-02-09,15:00,Genoa,1.2,1–0,1.1,Cagliari,21301.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+1095,Sun,2020-02-09,15:00,Brescia,0.4,1–1,2.2,Udinese,13586.0,Stadio Mario Rigamonti,Marco Piccinini
+1096,Sun,2020-02-09,15:00,Napoli,3.4,2–3,1.7,Lecce,40825.0,Stadio San Paolo,Antonio Giua
+1097,Sun,2020-02-09,18:00,Parma,0.6,0–1,1.6,Lazio,17859.0,Stadio Ennio Tardini,Marco Di Bello
+1098,Sun,2020-02-09,20:45,Inter,1.4,4–2,2.0,Milan,75817.0,Stadio Giuseppe Meazza,Fabio Maresca
+1100,Sat,2020-02-15,15:00,Lecce,1.7,2–1,1.3,SPAL,24129.0,Stadio Comunale Via Del Mare,Marco Guida
+1101,Sat,2020-02-15,18:00,Bologna,0.5,0–3,1.5,Genoa,21513.0,Stadio Renato Dall'Ara,Davide Massa
+1102,Sat,2020-02-15,20:45,Atalanta,1.3,2–1,0.5,Roma,19830.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+1103,Sun,2020-02-16,12:30,Udinese,0.9,0–0,1.1,Hellas Verona,22308.0,Dacia Arena,Eugenio Abbattista
+1104,Sun,2020-02-16,15:00,Juventus,2.5,2–0,0.3,Brescia,40841.0,Allianz Stadium,Daniele Chiffi
+1105,Sun,2020-02-16,15:00,Sampdoria,2.1,1–5,3.2,Fiorentina,20284.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+1106,Sun,2020-02-16,15:00,Sassuolo,1.2,0–1,0.8,Parma,12099.0,Stadio Città del Tricolore,Maurizio Mariani
+1107,Sun,2020-02-16,18:00,Cagliari,0.3,0–1,0.9,Napoli,13535.0,Sardegna Arena,Daniele Doveri
+1108,Sun,2020-02-16,20:45,Lazio,1.6,2–1,0.8,Inter,62500.0,Stadio Olimpico,Gianluca Rocchi
+1109,Mon,2020-02-17,20:45,Milan,0.9,1–0,0.4,Torino,46114.0,Stadio Giuseppe Meazza,Michael Fabbri
+1111,Fri,2020-02-21,20:45,Brescia,1.0,1–2,1.2,Napoli,14703.0,Stadio Mario Rigamonti,Daniele Orsato
+1112,Sat,2020-02-22,15:00,Bologna,1.3,1–1,0.5,Udinese,21523.0,Stadio Renato Dall'Ara,Fabrizio Pasqua
+1113,Sat,2020-02-22,18:00,SPAL,1.0,1–2,2.2,Juventus,15262.0,Stadio Paolo Mazza,Federico La Penna
+1114,Sat,2020-02-22,20:45,Fiorentina,1.9,1–1,0.7,Milan,39769.0,Stadio Artemio Franchi,Giampaolo Calvarese
+1115,Sun,2020-02-23,12:30,Genoa,1.6,2–3,2.0,Lazio,25000.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+1116,Sun,2020-02-23,18:00,Roma,3.8,4–0,0.8,Lecce,34293.0,Stadio Olimpico,Piero Giacomelli
+1118,Sat,2020-02-29,15:00,Lazio,1.4,2–0,1.4,Bologna,40000.0,Stadio Olimpico,Rosario Abisso
+1119,Sat,2020-02-29,20:45,Napoli,1.9,2–1,0.5,Torino,23586.0,Stadio San Paolo,Maurizio Mariani
+1120,Sun,2020-03-01,15:00,Lecce,0.4,2–7,4.6,Atalanta,21344.0,Stadio Comunale Via Del Mare,Davide Massa
+1121,Sun,2020-03-01,18:00,Cagliari,1.2,3–4,3.2,Roma,14848.0,Sardegna Arena,Marco Di Bello
+1122,Sun,2020-03-08,13:30,Parma,1.3,0–1,0.9,SPAL,,Stadio Ennio Tardini,Luca Pairetto
+1123,Sun,2020-03-08,15:00,Milan,1.8,1–2,1.9,Genoa,,Stadio Giuseppe Meazza,Daniele Doveri
+1124,Sun,2020-03-08,15:00,Sampdoria,1.4,2–1,1.4,Hellas Verona,,Stadio Comunale Luigi Ferraris,Paolo Valeri
+1125,Sun,2020-03-08,18:00,Udinese,0.6,0–0,0.3,Fiorentina,,Dacia Arena,Michael Fabbri
+1126,Sun,2020-03-08,20:45,Juventus,1.3,2–0,0.4,Inter,,Allianz Stadium,Marco Guida
+1127,Mon,2020-03-09,18:30,Sassuolo,2.1,3–0,0.6,Brescia,,Stadio Città del Tricolore,Gianluca Manganiello
+1129,Sat,2020-06-20,19:30,Torino,2.0,1–1,0.3,Parma,,Stadio Olimpico di Torino,Massimiliano Irrati
+1130,Sat,2020-06-20,21:45,Hellas Verona,0.5,2–1,1.1,Cagliari,,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+1131,Sun,2020-06-21,19:30,Atalanta,2.4,4–1,2.7,Sassuolo,,Stadio Atleti Azzurri d'Italia,Daniele Chiffi
+1132,Sun,2020-06-21,21:45,Inter,2.7,2–1,0.6,Sampdoria,,Stadio Giuseppe Meazza,Maurizio Mariani
+1134,Mon,2020-06-22,19:30,Fiorentina,2.5,1–1,1.3,Brescia,,Stadio Artemio Franchi,Federico La Penna
+1135,Mon,2020-06-22,19:30,Lecce,1.3,1–4,2.3,Milan,,Stadio Comunale Via Del Mare,Paolo Valeri
+1136,Mon,2020-06-22,21:45,Bologna,0.8,0–2,1.7,Juventus,,Stadio Renato Dall'Ara,Gianluca Rocchi
+1137,Tue,2020-06-23,19:30,Hellas Verona,1.6,0–2,1.6,Napoli,,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua
+1138,Tue,2020-06-23,19:30,SPAL,1.1,0–1,1.7,Cagliari,,Stadio Paolo Mazza,Rosario Abisso
+1139,Tue,2020-06-23,21:45,Genoa,2.2,1–4,2.0,Parma,,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+1140,Tue,2020-06-23,21:45,Torino,0.4,1–0,1.2,Udinese,,Stadio Olimpico di Torino,Fabio Maresca
+1141,Wed,2020-06-24,19:30,Inter,3.6,3–3,2.3,Sassuolo,,Stadio Giuseppe Meazza,Davide Massa
+1142,Wed,2020-06-24,21:45,Atalanta,2.2,3–2,0.3,Lazio,,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+1143,Wed,2020-06-24,21:45,Roma,2.2,2–1,0.9,Sampdoria,,Stadio Olimpico,Giampaolo Calvarese
+1145,Fri,2020-06-26,21:45,Juventus,3.4,4–0,0.3,Lecce,,Allianz Stadium,Marco Piccinini
+1146,Sat,2020-06-27,17:15,Brescia,1.5,2–2,2.8,Genoa,,Stadio Mario Rigamonti,Massimiliano Irrati
+1147,Sat,2020-06-27,19:30,Cagliari,1.7,4–2,1.5,Torino,,Sardegna Arena,Maurizio Mariani
+1148,Sat,2020-06-27,21:45,Lazio,1.7,2–1,0.5,Fiorentina,,Stadio Olimpico,Michael Fabbri
+1149,Sun,2020-06-28,17:15,Milan,2.5,2–0,0.6,Roma,,Stadio Giuseppe Meazza,Piero Giacomelli
+1150,Sun,2020-06-28,19:30,Sampdoria,1.4,1–2,2.2,Bologna,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1151,Sun,2020-06-28,19:30,Napoli,1.9,3–1,0.3,SPAL,,Stadio San Paolo,Luca Pairetto
+1152,Sun,2020-06-28,19:30,Sassuolo,1.6,3–3,1.4,Hellas Verona,,Stadio Città del Tricolore,Antonio Giua
+1153,Sun,2020-06-28,19:30,Udinese,1.7,2–3,0.8,Atalanta,,Dacia Arena,Marco Di Bello
+1154,Sun,2020-06-28,21:45,Parma,1.2,1–2,2.4,Inter,,Stadio Ennio Tardini,Fabio Maresca
+1156,Tue,2020-06-30,19:30,Torino,0.9,1–2,1.6,Lazio,,Stadio Olimpico di Torino,Davide Massa
+1157,Tue,2020-06-30,21:45,Genoa,0.2,1–3,0.7,Juventus,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+1158,Wed,2020-07-01,19:30,Bologna,1.5,1–1,1.1,Cagliari,,Stadio Renato Dall'Ara,Juan Sacchi
+1159,Wed,2020-07-01,19:30,Inter,3.9,6–0,0.5,Brescia,,Stadio Giuseppe Meazza,Gianluca Manganiello
+1160,Wed,2020-07-01,21:45,Fiorentina,1.6,1–3,1.7,Sassuolo,,Stadio Artemio Franchi,Daniele Chiffi
+1161,Wed,2020-07-01,21:45,SPAL,0.4,2–2,2.1,Milan,,Stadio Paolo Mazza,Maurizio Mariani
+1162,Wed,2020-07-01,21:45,Hellas Verona,1.6,3–2,1.6,Parma,,Stadio Marc'Antonio Bentegodi,Paolo Valeri
+1163,Wed,2020-07-01,21:45,Lecce,1.8,1–2,1.8,Sampdoria,,Stadio Comunale Via Del Mare,Gianluca Rocchi
+1164,Thu,2020-07-02,19:30,Atalanta,1.3,2–0,1.1,Napoli,,Stadio Atleti Azzurri d'Italia,Daniele Doveri
+1165,Thu,2020-07-02,21:45,Roma,0.8,0–2,1.5,Udinese,,Stadio Olimpico,Marco Guida
+1167,Sat,2020-07-04,17:15,Juventus,1.5,4–1,1.7,Torino,,Allianz Stadium,Fabio Maresca
+1168,Sat,2020-07-04,19:30,Sassuolo,1.8,4–2,1.9,Lecce,,Stadio Città del Tricolore,Davide Massa
+1169,Sat,2020-07-04,21:45,Lazio,0.4,0–3,2.3,Milan,,Stadio Olimpico,Giampaolo Calvarese
+1170,Sun,2020-07-05,17:15,Inter,3.1,1–2,1.1,Bologna,,Stadio Giuseppe Meazza,Luca Pairetto
+1171,Sun,2020-07-05,19:30,Parma,1.1,1–2,2.3,Fiorentina,,Stadio Ennio Tardini,Rosario Abisso
+1172,Sun,2020-07-05,19:30,Brescia,1.1,2–0,0.9,Hellas Verona,,Stadio Mario Rigamonti,Marco Piccinini
+1173,Sun,2020-07-05,19:30,Udinese,0.7,2–2,1.3,Genoa,,Dacia Arena,Daniele Orsato
+1174,Sun,2020-07-05,19:30,Cagliari,0.4,0–1,3.3,Atalanta,,Sardegna Arena,Federico La Penna
+1175,Sun,2020-07-05,19:30,Sampdoria,1.2,3–0,1.0,SPAL,,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+1176,Sun,2020-07-05,21:45,Napoli,2.2,2–1,0.7,Roma,,Stadio San Paolo,Gianluca Rocchi
+1178,Tue,2020-07-07,19:30,Lecce,2.4,2–1,2.4,Lazio,,Stadio Comunale Via Del Mare,Fabio Maresca
+1179,Tue,2020-07-07,21:45,Milan,1.9,4–2,1.2,Juventus,,Stadio Giuseppe Meazza,Marco Guida
+1180,Wed,2020-07-08,19:30,Fiorentina,0.8,0–0,1.1,Cagliari,,Stadio Artemio Franchi,Gianluca Manganiello
+1181,Wed,2020-07-08,19:30,Genoa,0.5,1–2,1.6,Napoli,,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+1182,Wed,2020-07-08,21:45,Bologna,1.2,1–2,0.8,Sassuolo,,Stadio Renato Dall'Ara,Francesco Fourneau
+1183,Wed,2020-07-08,21:45,Torino,2.4,3–1,1.6,Brescia,,Stadio Olimpico di Torino,Daniele Doveri
+1184,Wed,2020-07-08,21:45,Roma,2.6,2–1,1.1,Parma,,Stadio Olimpico,Michael Fabbri
+1185,Wed,2020-07-08,21:45,Atalanta,1.1,2–0,0.8,Sampdoria,,Stadio Atleti Azzurri d'Italia,Antonio Giua
+1186,Thu,2020-07-09,19:30,SPAL,0.4,0–3,1.1,Udinese,,Stadio Paolo Mazza,Daniele Chiffi
+1187,Thu,2020-07-09,21:45,Hellas Verona,0.7,2–2,1.0,Inter,,Stadio Marc'Antonio Bentegodi,Massimiliano Irrati
+1189,Sat,2020-07-11,17:15,Lazio,1.0,1–2,2.3,Sassuolo,,Stadio Olimpico,Marco Di Bello
+1190,Sat,2020-07-11,19:30,Brescia,1.0,0–3,3.2,Roma,,Stadio Mario Rigamonti,Giampaolo Calvarese
+1191,Sat,2020-07-11,21:45,Juventus,2.1,2–2,0.9,Atalanta,,Allianz Stadium,Piero Giacomelli
+1192,Sun,2020-07-12,17:15,Genoa,2.2,2–0,0.0,SPAL,,Stadio Comunale Luigi Ferraris,Marco Guida
+1193,Sun,2020-07-12,19:30,Fiorentina,1.0,1–1,0.9,Hellas Verona,,Stadio Artemio Franchi,Daniele Chiffi
+1194,Sun,2020-07-12,19:30,Udinese,0.6,1–3,1.0,Sampdoria,,Dacia Arena,Paolo Valeri
+1195,Sun,2020-07-12,19:30,Cagliari,2.0,0–0,1.9,Lecce,,Sardegna Arena,Daniele Orsato
+1196,Sun,2020-07-12,19:30,Parma,1.5,2–2,0.8,Bologna,,Stadio Ennio Tardini,Maurizio Mariani
+1197,Sun,2020-07-12,21:45,Napoli,2.0,2–2,1.1,Milan,,Stadio San Paolo,Federico La Penna
+1198,Mon,2020-07-13,21:45,Inter,2.2,3–1,1.7,Torino,,Stadio Giuseppe Meazza,Davide Massa
+1200,Tue,2020-07-14,21:45,Atalanta,2.2,6–2,1.0,Brescia,,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello
+1201,Wed,2020-07-15,19:30,Sampdoria,1.1,3–0,0.7,Cagliari,,Stadio Comunale Luigi Ferraris,Luca Pairetto
+1202,Wed,2020-07-15,19:30,Bologna,0.9,1–1,0.8,Napoli,,Stadio Renato Dall'Ara,Marco Piccinini
+1203,Wed,2020-07-15,19:30,Milan,2.3,3–1,1.0,Parma,,Stadio Giuseppe Meazza,Massimiliano Irrati
+1204,Wed,2020-07-15,21:45,Roma,2.8,2–1,0.4,Hellas Verona,,Stadio Olimpico,Fabio Maresca
+1205,Wed,2020-07-15,21:45,Sassuolo,2.8,3–3,2.2,Juventus,,Stadio Città del Tricolore,Paolo Valeri
+1206,Wed,2020-07-15,21:45,Lecce,0.7,1–3,2.7,Fiorentina,,Stadio Comunale Via Del Mare,Marco Guida
+1207,Wed,2020-07-15,21:45,Udinese,1.4,0–0,0.9,Lazio,,Dacia Arena,Rosario Abisso
+1208,Thu,2020-07-16,19:30,Torino,1.1,3–0,0.9,Genoa,,Stadio Olimpico di Torino,Gianluca Rocchi
+1209,Thu,2020-07-16,21:45,SPAL,0.7,0–4,2.4,Inter,,Stadio Paolo Mazza,Antonio Giua
+1211,Sat,2020-07-18,17:15,Hellas Verona,1.2,1–1,2.1,Atalanta,,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+1212,Sat,2020-07-18,19:30,Cagliari,0.2,1–1,0.6,Sassuolo,,Sardegna Arena,Giovanni Ayroldi
+1213,Sat,2020-07-18,21:45,Milan,3.0,5–1,0.5,Bologna,,Stadio Giuseppe Meazza,Davide Massa
+1214,Sun,2020-07-19,17:15,Parma,1.2,2–3,1.5,Sampdoria,,Stadio Ennio Tardini,Giampaolo Calvarese
+1215,Sun,2020-07-19,19:30,Brescia,1.2,2–1,1.7,SPAL,,Stadio Mario Rigamonti,Eugenio Abbattista
+1216,Sun,2020-07-19,19:30,Genoa,0.4,2–1,2.0,Lecce,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1217,Sun,2020-07-19,19:30,Fiorentina,1.5,2–0,0.4,Torino,,Stadio Artemio Franchi,Maurizio Mariani
+1218,Sun,2020-07-19,19:30,Napoli,1.6,2–1,0.7,Udinese,,Stadio San Paolo,Daniele Chiffi
+1219,Sun,2020-07-19,21:45,Roma,1.4,2–2,1.4,Inter,,Stadio Olimpico,Marco Di Bello
+1220,Mon,2020-07-20,21:45,Juventus,3.0,2–1,1.3,Lazio,,Allianz Stadium,Daniele Orsato
+1222,Tue,2020-07-21,19:30,Atalanta,2.0,1–0,0.4,Bologna,,Stadio Atleti Azzurri d'Italia,Federico La Penna
+1223,Tue,2020-07-21,21:45,Sassuolo,1.2,1–2,2.1,Milan,,Stadio Città del Tricolore,Luca Pairetto
+1224,Wed,2020-07-22,19:30,Parma,2.0,2–1,1.7,Napoli,,Stadio Ennio Tardini,Antonio Giua
+1225,Wed,2020-07-22,21:45,Inter,2.3,0–0,0.9,Fiorentina,,Stadio Giuseppe Meazza,Piero Giacomelli
+1226,Wed,2020-07-22,21:45,SPAL,0.7,1–6,1.8,Roma,,Stadio Paolo Mazza,Gianluca Manganiello
+1227,Wed,2020-07-22,21:45,Torino,0.9,1–1,1.4,Hellas Verona,,Stadio Olimpico di Torino,Paolo Valeri
+1228,Wed,2020-07-22,21:45,Lecce,2.7,3–1,0.8,Brescia,,Stadio Comunale Via Del Mare,Fabio Maresca
+1229,Wed,2020-07-22,21:45,Sampdoria,1.3,1–2,1.0,Genoa,,Stadio Comunale Luigi Ferraris,Marco Guida
+1230,Thu,2020-07-23,19:30,Udinese,1.0,2–1,0.7,Juventus,,Dacia Arena,Massimiliano Irrati
+1231,Thu,2020-07-23,21:45,Lazio,1.5,2–1,0.5,Cagliari,,Stadio Olimpico,Marco Piccinini
+1233,Fri,2020-07-24,21:45,Milan,0.5,1–1,1.8,Atalanta,,Stadio Giuseppe Meazza,Daniele Doveri
+1234,Sat,2020-07-25,17:15,Brescia,1.6,1–2,1.3,Parma,,Stadio Mario Rigamonti,Lorenzo Maggioni
+1235,Sat,2020-07-25,19:30,Genoa,0.4,0–3,1.8,Inter,,Stadio Comunale Luigi Ferraris,Davide Massa
+1236,Sat,2020-07-25,21:45,Napoli,2.1,2–0,0.3,Sassuolo,,Stadio San Paolo,Gianluca Aureliano
+1237,Sun,2020-07-26,17:15,Bologna,2.6,3–2,2.5,Lecce,,Stadio Renato Dall'Ara,Giampaolo Calvarese
+1238,Sun,2020-07-26,19:30,Roma,2.8,2–1,0.7,Fiorentina,,Stadio Olimpico,Daniele Chiffi
+1239,Sun,2020-07-26,19:30,Cagliari,1.3,0–1,0.9,Udinese,,Sardegna Arena,Fabrizio Pasqua
+1240,Sun,2020-07-26,19:30,SPAL,0.3,1–1,1.8,Torino,,Stadio Paolo Mazza,Rosario Abisso
+1241,Sun,2020-07-26,19:30,Hellas Verona,1.8,1–5,2.4,Lazio,,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+1242,Sun,2020-07-26,21:45,Juventus,2.6,2–0,1.2,Sampdoria,,Allianz Stadium,Francesco Fourneau
+1244,Tue,2020-07-28,19:30,Parma,1.7,1–2,1.3,Atalanta,,Stadio Ennio Tardini,Luca Pairetto
+1245,Tue,2020-07-28,21:45,Inter,0.9,2–0,1.0,Napoli,,Stadio Giuseppe Meazza,Paolo Valeri
+1246,Wed,2020-07-29,19:30,Udinese,1.0,1–2,1.9,Lecce,,Dacia Arena,Daniele Orsato
+1247,Wed,2020-07-29,19:30,Hellas Verona,2.9,3–0,0.8,SPAL,,Stadio Marc'Antonio Bentegodi,Simone Sozza
+1248,Wed,2020-07-29,19:30,Sassuolo,2.9,5–0,1.0,Genoa,,Stadio Città del Tricolore,Fabio Maresca
+1249,Wed,2020-07-29,19:30,Lazio,4.4,2–0,0.7,Brescia,,Stadio Olimpico,Luca Massimi
+1250,Wed,2020-07-29,19:30,Sampdoria,3.2,1–4,2.5,Milan,,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+1251,Wed,2020-07-29,21:45,Fiorentina,2.2,4–0,1.6,Bologna,,Stadio Artemio Franchi,Marco Di Bello
+1252,Wed,2020-07-29,21:45,Torino,0.9,2–3,2.6,Roma,,Stadio Olimpico di Torino,Marco Piccinini
+1253,Wed,2020-07-29,21:45,Cagliari,0.9,2–0,1.7,Juventus,,Sardegna Arena,Davide Ghersini
+1255,Sat,2020-08-01,18:00,Brescia,1.7,1–1,2.3,Sampdoria,,Stadio Mario Rigamonti,Michael Fabbri
+1256,Sat,2020-08-01,20:45,Juventus,0.9,1–3,1.9,Roma,,Allianz Stadium,Gianluca Rocchi
+1257,Sat,2020-08-01,20:45,Milan,3.0,3–0,0.5,Cagliari,,Stadio Giuseppe Meazza,Marco Serra
+1258,Sat,2020-08-01,20:45,Atalanta,1.1,0–2,1.2,Inter,,Stadio Atleti Azzurri d'Italia,Piero Giacomelli
+1259,Sat,2020-08-01,20:45,Napoli,2.1,3–1,0.6,Lazio,,Stadio San Paolo,Giampaolo Calvarese
+1260,Sun,2020-08-02,18:00,SPAL,0.6,1–3,2.9,Fiorentina,,Stadio Paolo Mazza,Alessandro Prontera
+1261,Sun,2020-08-02,20:45,Sassuolo,1.5,0–1,2.1,Udinese,,Stadio Città del Tricolore,Daniel Amabile
+1262,Sun,2020-08-02,20:45,Lecce,2.3,3–4,3.2,Parma,,Stadio Comunale Via Del Mare,Maurizio Mariani
+1263,Sun,2020-08-02,20:45,Bologna,1.1,1–1,1.3,Torino,,Stadio Renato Dall'Ara,Antonio Di Martino
+1264,Sun,2020-08-02,20:45,Genoa,1.1,3–0,1.1,Hellas Verona,,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+1265,Sat,2018-08-18,18:00,Chievo,1.0,2–3,2.3,Juventus,29500.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua
+1266,Sat,2018-08-18,20:30,Lazio,1.1,1–2,1.5,Napoli,32000.0,Stadio Olimpico,Luca Banti
+1267,Sun,2018-08-19,18:00,Torino,0.7,0–1,1.5,Roma,18000.0,Stadio Olimpico di Torino,Marco Di Bello
+1268,Sun,2018-08-19,20:30,Empoli,0.9,2–0,0.9,Cagliari,7335.0,Stadio Carlo Castellani,Daniele Chiffi
+1269,Sun,2018-08-19,20:30,Sassuolo,1.6,1–0,1.4,Inter,19104.0,Stadio Città del Tricolore,Maurizio Mariani
+1270,Sun,2018-08-19,20:30,Parma,1.4,2–2,2.1,Udinese,13141.0,Stadio Ennio Tardini,Giampaolo Calvarese
+1271,Sun,2018-08-19,20:30,Bologna,0.9,0–1,0.7,SPAL,21158.0,Stadio Renato Dall'Ara,Piero Giacomelli
+1272,Mon,2018-08-20,20:30,Atalanta,2.3,4–0,0.5,Frosinone,18217.0,Stadio Atleti Azzurri d'Italia,Marco Piccinini
+1274,Sat,2018-08-25,18:00,Juventus,2.2,2–0,0.2,Lazio,40171.0,Allianz Stadium,Massimiliano Irrati
+1275,Sat,2018-08-25,20:30,Napoli,2.1,3–2,0.7,Milan,34474.0,Stadio San Paolo,Paolo Valeri
+1276,Sun,2018-08-26,18:00,SPAL,1.2,1–0,0.5,Parma,6000.0,Stadio Paolo Mazza,Daniele Orsato
+1277,Sun,2018-08-26,20:30,Cagliari,1.6,2–2,1.9,Sassuolo,14432.0,Sardegna Arena,Luca Pairetto
+1278,Sun,2018-08-26,20:30,Inter,1.4,2–2,1.6,Torino,59135.0,Stadio Giuseppe Meazza,Paolo Mazzoleni
+1279,Sun,2018-08-26,20:30,Frosinone,1.4,0–0,1.2,Bologna,,Stadio Olimpico di Torino,Gianluca Manganiello
+1280,Sun,2018-08-26,20:30,Udinese,1.5,1–0,0.7,Sampdoria,15770.0,Dacia Arena,Federico La Penna
+1281,Sun,2018-08-26,20:30,Fiorentina,3.1,6–1,1.2,Chievo,27790.0,Stadio Artemio Franchi,Rosario Abisso
+1282,Sun,2018-08-26,20:30,Genoa,1.1,2–1,2.3,Empoli,19523.0,Stadio Comunale Luigi Ferraris,Livio Marinelli
+1283,Mon,2018-08-27,20:30,Roma,2.0,3–3,2.4,Atalanta,41725.0,Stadio Olimpico,Michael Fabbri
+1285,Fri,2018-08-31,20:30,Milan,1.5,2–1,0.5,Roma,57789.0,Stadio Giuseppe Meazza,Marco Guida
+1286,Sat,2018-09-01,18:00,Bologna,0.5,0–3,2.0,Inter,26082.0,Stadio Renato Dall'Ara,Marco Di Bello
+1287,Sat,2018-09-01,20:30,Parma,1.6,1–2,2.4,Juventus,20814.0,Stadio Ennio Tardini,Daniele Doveri
+1288,Sun,2018-09-02,18:00,Fiorentina,0.7,1–0,0.2,Udinese,31009.0,Stadio Artemio Franchi,Antonio Giua
+1289,Sun,2018-09-02,20:30,Chievo,1.0,0–0,1.2,Empoli,8100.0,Stadio Marc'Antonio Bentegodi,Piero Giacomelli
+1290,Sun,2018-09-02,20:30,Lazio,2.1,1–0,0.6,Frosinone,34465.0,Stadio Olimpico,Giampaolo Calvarese
+1291,Sun,2018-09-02,20:30,Torino,1.3,1–0,1.0,SPAL,17785.0,Stadio Olimpico di Torino,Fabrizio Pasqua
+1292,Sun,2018-09-02,20:30,Atalanta,0.6,0–1,0.5,Cagliari,17709.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+1293,Sun,2018-09-02,20:30,Sampdoria,0.8,3–0,1.8,Napoli,19835.0,Stadio Comunale Luigi Ferraris,Davide Massa
+1294,Sun,2018-09-02,20:30,Sassuolo,1.4,5–3,1.8,Genoa,9740.0,Stadio Città del Tricolore,Gianluca Rocchi
+1296,Sat,2018-09-15,15:00,Inter,1.8,0–1,0.5,Parma,59648.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+1297,Sat,2018-09-15,18:00,Napoli,1.5,1–0,0.4,Fiorentina,20131.0,Stadio San Paolo,Michael Fabbri
+1298,Sat,2018-09-15,20:30,Frosinone,0.5,0–5,2.7,Sampdoria,12502.0,Stadio Benito Stirpe,Massimiliano Irrati
+1299,Sun,2018-09-16,12:30,Roma,2.5,2–2,1.2,Chievo,39849.0,Stadio Olimpico,Paolo Mazzoleni
+1300,Sun,2018-09-16,15:00,Juventus,2.6,2–1,0.8,Sassuolo,40563.0,Allianz Stadium,Daniele Chiffi
+1301,Sun,2018-09-16,15:00,Udinese,0.5,1–1,1.0,Torino,18813.0,Dacia Arena,Paolo Valeri
+1302,Sun,2018-09-16,15:00,Genoa,0.7,1–0,0.8,Bologna,20032.0,Stadio Comunale Luigi Ferraris,Luca Banti
+1303,Sun,2018-09-16,18:00,Empoli,1.6,0–1,2.3,Lazio,10832.0,Stadio Carlo Castellani,Daniele Orsato
+1304,Sun,2018-09-16,20:30,Cagliari,0.4,1–1,1.5,Milan,16201.0,Sardegna Arena,Rosario Abisso
+1305,Mon,2018-09-17,20:30,SPAL,1.5,2–0,0.8,Atalanta,14153.0,Stadio Paolo Mazza,Maurizio Mariani
+1307,Wed,2018-09-19,19:00,Sampdoria,0.8,1–1,1.6,Fiorentina,18334.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+1309,Fri,2018-09-21,20:30,Sassuolo,1.5,3–1,1.6,Empoli,10183.0,Stadio Città del Tricolore,Federico La Penna
+1310,Sat,2018-09-22,15:00,Parma,2.1,2–0,1.4,Cagliari,14852.0,Stadio Ennio Tardini,Giampaolo Calvarese
+1311,Sat,2018-09-22,18:00,Fiorentina,1.5,3–0,0.8,SPAL,30068.0,Stadio Artemio Franchi,Davide Ghersini
+1312,Sat,2018-09-22,20:30,Sampdoria,0.7,0–1,0.9,Inter,22835.0,Stadio Comunale Luigi Ferraris,Marco Guida
+1313,Sun,2018-09-23,12:30,Torino,1.3,1–3,1.8,Napoli,22655.0,Stadio Olimpico di Torino,Massimiliano Irrati
+1314,Sun,2018-09-23,15:00,Bologna,1.8,2–0,2.9,Roma,20067.0,Stadio Renato Dall'Ara,Davide Massa
+1315,Sun,2018-09-23,15:00,Chievo,1.7,0–2,1.7,Udinese,10000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto
+1316,Sun,2018-09-23,15:00,Lazio,2.7,4–1,0.9,Genoa,30000.0,Stadio Olimpico,Rosario Abisso
+1317,Sun,2018-09-23,18:00,Milan,2.0,2–2,2.2,Atalanta,51684.0,Stadio Giuseppe Meazza,Daniele Doveri
+1318,Sun,2018-09-23,20:30,Frosinone,0.1,0–2,2.2,Juventus,16000.0,Stadio Benito Stirpe,Piero Giacomelli
+1320,Tue,2018-09-25,21:00,Inter,2.2,2–1,1.3,Fiorentina,55840.0,Stadio Giuseppe Meazza,Paolo Mazzoleni
+1321,Wed,2018-09-26,19:00,Udinese,0.6,1–2,1.0,Lazio,19455.0,Dacia Arena,Fabio Maresca
+1322,Wed,2018-09-26,21:00,Roma,2.8,4–0,1.0,Frosinone,34380.0,Stadio Olimpico,Marco Di Bello
+1323,Wed,2018-09-26,21:00,Juventus,1.1,2–0,0.5,Bologna,38472.0,Allianz Stadium,Maurizio Mariani
+1324,Wed,2018-09-26,21:00,Genoa,1.2,2–0,1.3,Chievo,18969.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+1325,Wed,2018-09-26,21:00,Napoli,3.4,3–0,0.1,Parma,29354.0,Stadio San Paolo,Daniele Doveri
+1326,Wed,2018-09-26,21:00,Atalanta,0.8,0–0,0.2,Torino,18144.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+1327,Wed,2018-09-26,21:00,Cagliari,0.8,0–0,2.6,Sampdoria,14038.0,Sardegna Arena,Gianluca Rocchi
+1328,Thu,2018-09-27,19:00,SPAL,1.2,0–2,2.1,Sassuolo,13945.0,Stadio Paolo Mazza,Eugenio Abbattista
+1329,Thu,2018-09-27,21:00,Empoli,1.5,1–1,1.7,Milan,13890.0,Stadio Carlo Castellani,Michael Fabbri
+1331,Sat,2018-09-29,15:00,Roma,1.5,3–1,1.0,Lazio,47600.0,Stadio Olimpico,Gianluca Rocchi
+1332,Sat,2018-09-29,18:00,Juventus,2.2,3–1,1.7,Napoli,39252.0,Allianz Stadium,Luca Banti
+1333,Sat,2018-09-29,20:30,Inter,1.2,2–0,0.1,Cagliari,55486.0,Stadio Giuseppe Meazza,Davide Massa
+1334,Sun,2018-09-30,12:30,Bologna,1.3,2–1,0.8,Udinese,19039.0,Stadio Renato Dall'Ara,Gianluca Manganiello
+1335,Sun,2018-09-30,15:00,Chievo,0.5,0–1,2.4,Torino,10500.0,Stadio Marc'Antonio Bentegodi,Marco Guida
+1336,Sun,2018-09-30,15:00,Fiorentina,1.1,2–0,0.9,Atalanta,30535.0,Stadio Artemio Franchi,Paolo Valeri
+1337,Sun,2018-09-30,15:00,Frosinone,1.9,1–2,1.4,Genoa,12384.0,Stadio Benito Stirpe,Juan Sacchi
+1338,Sun,2018-09-30,18:00,Parma,0.9,1–0,1.3,Empoli,14584.0,Stadio Ennio Tardini,Luca Pairetto
+1339,Sun,2018-09-30,20:30,Sassuolo,0.9,1–4,1.4,Milan,16795.0,Stadio Città del Tricolore,Piero Giacomelli
+1340,Mon,2018-10-01,20:30,Sampdoria,1.2,2–1,1.2,SPAL,17885.0,Stadio Comunale Luigi Ferraris,Federico La Penna
+1342,Fri,2018-10-05,20:30,Torino,2.4,3–2,1.8,Frosinone,16554.0,Stadio Olimpico di Torino,Ivan Pezzuto
+1343,Sat,2018-10-06,15:00,Cagliari,1.6,2–0,0.4,Bologna,15019.0,Sardegna Arena,Fabrizio Pasqua
+1344,Sat,2018-10-06,18:00,Udinese,0.8,0–2,2.1,Juventus,25000.0,Dacia Arena,Rosario Abisso
+1345,Sat,2018-10-06,20:30,Empoli,1.7,0–2,0.9,Roma,10670.0,Stadio Carlo Castellani,Paolo Mazzoleni
+1346,Sun,2018-10-07,12:30,Genoa,1.6,1–3,1.2,Parma,20511.0,Stadio Comunale Luigi Ferraris,Daniele Chiffi
+1347,Sun,2018-10-07,15:00,Atalanta,1.9,0–1,0.5,Sampdoria,19164.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati
+1348,Sun,2018-10-07,15:00,Lazio,0.9,1–0,1.3,Fiorentina,30000.0,Stadio Olimpico,Daniele Orsato
+1349,Sun,2018-10-07,15:00,Milan,2.2,3–1,0.4,Chievo,48088.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+1350,Sun,2018-10-07,18:00,Napoli,2.0,2–0,0.8,Sassuolo,29647.0,Stadio San Paolo,Marco Di Bello
+1351,Sun,2018-10-07,20:30,SPAL,2.7,1–2,1.2,Inter,15750.0,Stadio Paolo Mazza,Fabio Maresca
+1353,Sat,2018-10-20,15:00,Roma,2.1,0–2,1.6,SPAL,39838.0,Stadio Olimpico,Luca Pairetto
+1354,Sat,2018-10-20,18:00,Juventus,2.0,1–1,0.5,Genoa,37735.0,Allianz Stadium,Federico La Penna
+1355,Sat,2018-10-20,20:30,Udinese,0.9,0–3,2.0,Napoli,21449.0,Dacia Arena,Maurizio Mariani
+1356,Sun,2018-10-21,12:30,Frosinone,1.1,3–3,1.6,Empoli,12287.0,Stadio Benito Stirpe,Daniele Orsato
+1357,Sun,2018-10-21,15:00,Parma,0.2,0–2,2.3,Lazio,18969.0,Stadio Ennio Tardini,Michael Fabbri
+1358,Sun,2018-10-21,15:00,Chievo,0.9,1–5,2.0,Atalanta,12000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi
+1359,Sun,2018-10-21,15:00,Bologna,1.2,2–2,0.8,Torino,23245.0,Stadio Renato Dall'Ara,Luca Banti
+1360,Sun,2018-10-21,18:00,Fiorentina,1.4,1–1,0.8,Cagliari,31567.0,Stadio Artemio Franchi,Piero Giacomelli
+1361,Sun,2018-10-21,20:30,Inter,1.6,1–0,0.7,Milan,78275.0,Stadio Giuseppe Meazza,Marco Guida
+1362,Mon,2018-10-22,20:30,Sampdoria,0.7,0–0,0.3,Sassuolo,19064.0,Stadio Comunale Luigi Ferraris,Francesco Fourneau
+1364,Sat,2018-10-27,15:00,Atalanta,2.2,3–0,1.2,Parma,18152.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso
+1365,Sat,2018-10-27,18:00,Empoli,0.6,1–2,1.8,Juventus,15889.0,Stadio Carlo Castellani,Giampaolo Calvarese
+1366,Sat,2018-10-27,20:30,Torino,1.0,1–1,1.1,Fiorentina,17871.0,Stadio Olimpico di Torino,Michael Fabbri
+1367,Sun,2018-10-28,12:30,Sassuolo,1.8,2–2,1.2,Bologna,12647.0,Stadio Città del Tricolore,Daniele Doveri
+1368,Sun,2018-10-28,15:00,SPAL,0.7,0–3,0.6,Frosinone,13676.0,Stadio Paolo Mazza,Daniele Chiffi
+1369,Sun,2018-10-28,15:00,Cagliari,1.6,2–1,1.8,Chievo,15805.0,Sardegna Arena,Marco Piccinini
+1370,Sun,2018-10-28,15:00,Genoa,1.8,2–2,0.8,Udinese,18880.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1371,Sun,2018-10-28,18:00,Milan,1.8,3–2,0.5,Sampdoria,47347.0,Stadio Giuseppe Meazza,Fabio Maresca
+1372,Sun,2018-10-28,20:30,Napoli,2.6,1–1,1.0,Roma,30037.0,Stadio San Paolo,Davide Massa
+1373,Mon,2018-10-29,20:30,Lazio,1.1,0–3,1.5,Inter,40068.0,Stadio Olimpico,Massimiliano Irrati
+1375,Wed,2018-10-31,20:30,Milan,1.7,2–1,0.4,Genoa,46720.0,Stadio Giuseppe Meazza,Fabrizio Pasqua
+1377,Fri,2018-11-02,20:30,Napoli,1.8,5–1,1.1,Empoli,31370.0,Stadio San Paolo,Luca Pairetto
+1378,Sat,2018-11-03,15:00,Inter,2.7,5–0,0.3,Genoa,67532.0,Stadio Giuseppe Meazza,Paolo Valeri
+1379,Sat,2018-11-03,18:00,Fiorentina,1.3,1–1,1.9,Roma,30590.0,Stadio Artemio Franchi,Luca Banti
+1380,Sat,2018-11-03,20:30,Juventus,1.3,3–1,0.7,Cagliari,40644.0,Allianz Stadium,Maurizio Mariani
+1381,Sun,2018-11-04,12:30,Lazio,2.3,4–1,1.0,SPAL,35573.0,Stadio Olimpico,Marco Guida
+1382,Sun,2018-11-04,15:00,Chievo,0.6,0–2,1.0,Sassuolo,8100.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano
+1383,Sun,2018-11-04,15:00,Sampdoria,1.3,1–4,2.9,Torino,20364.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+1384,Sun,2018-11-04,15:00,Parma,1.0,0–0,0.5,Frosinone,14004.0,Stadio Ennio Tardini,Gianluca Manganiello
+1385,Sun,2018-11-04,18:00,Bologna,1.8,1–2,2.2,Atalanta,19038.0,Stadio Renato Dall'Ara,Federico La Penna
+1386,Sun,2018-11-04,20:30,Udinese,0.8,0–1,0.9,Milan,23540.0,Dacia Arena,Marco Di Bello
+1388,Fri,2018-11-09,20:30,Frosinone,0.4,1–1,1.5,Fiorentina,13378.0,Stadio Benito Stirpe,Fabrizio Pasqua
+1389,Sat,2018-11-10,15:00,Torino,1.9,1–2,1.7,Parma,17431.0,Stadio Olimpico di Torino,Davide Massa
+1390,Sat,2018-11-10,18:00,SPAL,1.7,2–2,1.0,Cagliari,13250.0,Stadio Paolo Mazza,Daniele Doveri
+1391,Sat,2018-11-10,20:30,Genoa,0.6,1–2,2.2,Napoli,25365.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+1392,Sun,2018-11-11,12:30,Atalanta,2.8,4–1,1.2,Inter,20633.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+1393,Sun,2018-11-11,15:00,Chievo,2.1,2–2,1.7,Bologna,9500.0,Stadio Marc'Antonio Bentegodi,Daniele Orsato
+1394,Sun,2018-11-11,15:00,Roma,2.3,4–1,1.0,Sampdoria,37582.0,Stadio Olimpico,Massimiliano Irrati
+1395,Sun,2018-11-11,15:00,Empoli,1.4,2–1,3.5,Udinese,7553.0,Stadio Carlo Castellani,Piero Giacomelli
+1396,Sun,2018-11-11,18:00,Sassuolo,0.8,1–1,1.5,Lazio,11317.0,Stadio Città del Tricolore,Giampaolo Calvarese
+1397,Sun,2018-11-11,20:30,Milan,0.8,0–2,1.1,Juventus,74729.0,Stadio Giuseppe Meazza,Paolo Mazzoleni
+1399,Sat,2018-11-24,15:00,Udinese,1.1,1–0,1.7,Roma,21986.0,Dacia Arena,Michael Fabbri
+1400,Sat,2018-11-24,18:00,Juventus,1.4,2–0,0.3,SPAL,41052.0,Allianz Stadium,Federico La Penna
+1401,Sat,2018-11-24,20:30,Inter,2.4,3–0,0.3,Frosinone,63645.0,Stadio Giuseppe Meazza,Luca Pairetto
+1402,Sun,2018-11-25,12:30,Parma,1.8,2–1,1.9,Sassuolo,14354.0,Stadio Ennio Tardini,Paolo Valeri
+1403,Sun,2018-11-25,15:00,Bologna,0.3,0–0,1.4,Fiorentina,21241.0,Stadio Renato Dall'Ara,Marco Di Bello
+1404,Sun,2018-11-25,15:00,Empoli,1.7,3–2,1.5,Atalanta,8736.0,Stadio Carlo Castellani,Gianluca Manganiello
+1405,Sun,2018-11-25,15:00,Napoli,1.6,0–0,0.5,Chievo,44468.0,Stadio San Paolo,Daniele Chiffi
+1406,Sun,2018-11-25,18:00,Lazio,1.6,1–1,0.5,Milan,38269.0,Stadio Olimpico,Luca Banti
+1407,Sun,2018-11-25,20:30,Genoa,2.3,1–1,0.6,Sampdoria,31756.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1408,Mon,2018-11-26,20:30,Cagliari,0.2,0–0,1.0,Torino,15804.0,Sardegna Arena,Fabrizio Pasqua
+1410,Sat,2018-12-01,15:00,SPAL,0.7,2–2,2.1,Empoli,12622.0,Stadio Paolo Mazza,Paolo Mazzoleni
+1411,Sat,2018-12-01,18:00,Fiorentina,1.3,0–3,1.8,Juventus,40872.0,Stadio Artemio Franchi,Daniele Orsato
+1412,Sat,2018-12-01,20:30,Sampdoria,1.5,4–1,1.4,Bologna,17844.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+1413,Sun,2018-12-02,12:30,Milan,1.6,2–1,1.0,Parma,53275.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+1414,Sun,2018-12-02,15:00,Frosinone,1.8,1–1,1.9,Cagliari,12377.0,Stadio Benito Stirpe,Marco Serra
+1415,Sun,2018-12-02,15:00,Torino,2.4,2–1,1.2,Genoa,15324.0,Stadio Olimpico di Torino,Maurizio Mariani
+1416,Sun,2018-12-02,15:00,Sassuolo,1.8,0–0,0.2,Udinese,10655.0,Stadio Città del Tricolore,Marco Guida
+1417,Sun,2018-12-02,18:00,Chievo,0.9,1–1,1.6,Lazio,7000.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca
+1418,Sun,2018-12-02,20:30,Roma,1.6,2–2,2.3,Inter,41009.0,Stadio Olimpico,Gianluca Rocchi
+1419,Mon,2018-12-03,20:30,Atalanta,1.0,1–2,2.1,Napoli,19871.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli
+1421,Fri,2018-12-07,20:30,Juventus,1.5,1–0,1.2,Inter,41495.0,Allianz Stadium,Massimiliano Irrati
+1422,Sat,2018-12-08,15:00,Napoli,2.2,4–0,0.3,Frosinone,34631.0,Stadio San Paolo,Gianluca Manganiello
+1423,Sat,2018-12-08,18:00,Cagliari,2.1,2–2,1.5,Roma,14938.0,Sardegna Arena,Paolo Mazzoleni
+1424,Sat,2018-12-08,20:30,Lazio,3.4,2–2,0.9,Sampdoria,28000.0,Stadio Olimpico,Davide Massa
+1425,Sun,2018-12-09,12:30,Sassuolo,1.5,3–3,2.4,Fiorentina,11436.0,Stadio Città del Tricolore,Daniele Chiffi
+1426,Sun,2018-12-09,15:00,Parma,1.3,1–1,1.5,Chievo,13994.0,Stadio Ennio Tardini,Federico La Penna
+1427,Sun,2018-12-09,15:00,Udinese,0.9,1–3,2.3,Atalanta,24413.0,Dacia Arena,Giampaolo Calvarese
+1428,Sun,2018-12-09,15:00,Empoli,1.6,2–1,1.9,Bologna,8379.0,Stadio Carlo Castellani,Paolo Valeri
+1429,Sun,2018-12-09,18:00,Genoa,1.3,1–1,2.6,SPAL,19571.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+1430,Sun,2018-12-09,20:30,Milan,2.0,0–0,1.2,Torino,44572.0,Stadio Giuseppe Meazza,Daniele Orsato
+1432,Sat,2018-12-15,18:00,Inter,2.0,1–0,0.4,Udinese,57025.0,Stadio Giuseppe Meazza,Rosario Abisso
+1433,Sat,2018-12-15,20:30,Torino,0.4,0–1,1.5,Juventus,26588.0,Stadio Olimpico di Torino,Marco Guida
+1434,Sun,2018-12-16,12:30,SPAL,0.6,0–0,0.7,Chievo,11882.0,Stadio Paolo Mazza,Luca Banti
+1435,Sun,2018-12-16,15:00,Sampdoria,1.4,2–0,0.5,Parma,19000.0,Stadio Comunale Luigi Ferraris,Luca Pairetto
+1436,Sun,2018-12-16,15:00,Fiorentina,1.7,3–1,1.2,Empoli,30000.0,Stadio Artemio Franchi,Piero Giacomelli
+1437,Sun,2018-12-16,15:00,Frosinone,0.4,0–2,1.4,Sassuolo,12000.0,Stadio Benito Stirpe,Eugenio Abbattista
+1438,Sun,2018-12-16,18:00,Cagliari,0.5,0–1,1.6,Napoli,15081.0,Sardegna Arena,Daniele Doveri
+1439,Sun,2018-12-16,20:30,Roma,2.0,3–2,2.2,Genoa,29111.0,Stadio Olimpico,Marco Di Bello
+1440,Mon,2018-12-17,20:30,Atalanta,0.4,1–0,1.0,Lazio,17401.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+1441,Tue,2018-12-18,20:30,Bologna,0.4,0–0,0.6,Milan,22214.0,Stadio Renato Dall'Ara,Fabio Maresca
+1443,Sat,2018-12-22,12:30,Lazio,2.4,3–1,2.0,Cagliari,20000.0,Stadio Olimpico,Gianluca Manganiello
+1444,Sat,2018-12-22,15:00,Empoli,1.5,2–4,1.1,Sampdoria,8815.0,Stadio Carlo Castellani,Giampaolo Calvarese
+1445,Sat,2018-12-22,15:00,Genoa,1.6,3–1,2.0,Atalanta,19841.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1446,Sat,2018-12-22,15:00,Sassuolo,1.5,1–1,0.4,Torino,11148.0,Stadio Città del Tricolore,Luca Banti
+1447,Sat,2018-12-22,15:00,Milan,0.7,0–1,0.4,Fiorentina,52592.0,Stadio Giuseppe Meazza,Maurizio Mariani
+1448,Sat,2018-12-22,15:00,Napoli,2.3,1–0,0.6,SPAL,37093.0,Stadio San Paolo,Federico La Penna
+1449,Sat,2018-12-22,15:00,Udinese,0.4,1–1,1.3,Frosinone,18000.0,Dacia Arena,Paolo Valeri
+1450,Sat,2018-12-22,18:00,Parma,0.9,0–0,0.3,Bologna,15058.0,Stadio Ennio Tardini,Rosario Abisso
+1451,Sat,2018-12-22,18:00,Chievo,0.7,1–1,1.8,Inter,22000.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua
+1452,Sat,2018-12-22,20:30,Juventus,2.2,1–0,0.4,Roma,40069.0,Allianz Stadium,Davide Massa
+1454,Wed,2018-12-26,12:30,Frosinone,0.6,0–0,1.9,Milan,15217.0,Stadio Benito Stirpe,Marco Guida
+1455,Wed,2018-12-26,15:00,Cagliari,0.9,1–0,0.9,Genoa,15777.0,Sardegna Arena,Daniele Orsato
+1456,Wed,2018-12-26,15:00,Fiorentina,2.3,0–1,0.6,Parma,31767.0,Stadio Artemio Franchi,Michael Fabbri
+1457,Wed,2018-12-26,15:00,Bologna,0.2,0–2,1.4,Lazio,19230.0,Stadio Renato Dall'Ara,Luca Pairetto
+1458,Wed,2018-12-26,15:00,Atalanta,1.4,2–2,1.3,Juventus,19787.0,Stadio Atleti Azzurri d'Italia,Luca Banti
+1459,Wed,2018-12-26,15:00,Sampdoria,1.0,2–0,0.6,Chievo,19190.0,Stadio Comunale Luigi Ferraris,Antonio Giua
+1460,Wed,2018-12-26,18:00,Torino,1.3,3–0,0.3,Empoli,20047.0,Stadio Olimpico di Torino,Fabio Maresca
+1461,Wed,2018-12-26,18:00,Roma,2.8,3–1,0.9,Sassuolo,35893.0,Stadio Olimpico,Piero Giacomelli
+1462,Wed,2018-12-26,18:00,SPAL,0.7,0–0,0.2,Udinese,13195.0,Stadio Paolo Mazza,Daniele Doveri
+1463,Wed,2018-12-26,20:30,Inter,0.9,1–0,0.7,Napoli,63946.0,Stadio Giuseppe Meazza,Paolo Mazzoleni
+1465,Sat,2018-12-29,12:30,Juventus,1.6,2–1,1.4,Sampdoria,40641.0,Allianz Stadium,Paolo Valeri
+1466,Sat,2018-12-29,15:00,Genoa,0.5,0–0,1.5,Fiorentina,21000.0,Stadio Comunale Luigi Ferraris,Davide Massa
+1467,Sat,2018-12-29,15:00,Lazio,1.2,1–1,1.7,Torino,35000.0,Stadio Olimpico,Massimiliano Irrati
+1468,Sat,2018-12-29,15:00,Udinese,2.6,2–0,0.3,Cagliari,20000.0,Dacia Arena,Maurizio Mariani
+1469,Sat,2018-12-29,15:00,Sassuolo,1.1,2–6,3.0,Atalanta,8000.0,Stadio Città del Tricolore,Fabrizio Pasqua
+1470,Sat,2018-12-29,15:00,Parma,0.7,0–2,2.1,Roma,17997.0,Stadio Ennio Tardini,Gianluca Manganiello
+1471,Sat,2018-12-29,15:00,Chievo,1.1,1–0,0.5,Frosinone,8000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi
+1472,Sat,2018-12-29,15:00,Empoli,0.5,0–1,1.1,Inter,10393.0,Stadio Carlo Castellani,Federico La Penna
+1473,Sat,2018-12-29,18:00,Napoli,1.5,3–2,0.7,Bologna,46585.0,Stadio San Paolo,Giampaolo Calvarese
+1474,Sat,2018-12-29,20:30,Milan,1.5,2–1,0.5,SPAL,48070.0,Stadio Giuseppe Meazza,Rosario Abisso
+1476,Sat,2019-01-19,15:00,Roma,3.2,3–2,1.1,Torino,32978.0,Stadio Olimpico,Piero Giacomelli
+1477,Sat,2019-01-19,18:00,Udinese,1.6,1–2,1.9,Parma,15000.0,Dacia Arena,Paolo Mazzoleni
+1478,Sat,2019-01-19,20:30,Inter,1.0,0–0,1.4,Sassuolo,11000.0,Stadio Giuseppe Meazza,Luca Pairetto
+1479,Sun,2019-01-20,12:30,Frosinone,0.8,0–5,2.1,Atalanta,12728.0,Stadio Benito Stirpe,Daniele Chiffi
+1480,Sun,2019-01-20,15:00,SPAL,1.0,1–1,1.1,Bologna,14524.0,Stadio Paolo Mazza,Michael Fabbri
+1481,Sun,2019-01-20,15:00,Fiorentina,2.5,3–3,2.0,Sampdoria,27844.0,Stadio Artemio Franchi,Marco Di Bello
+1482,Sun,2019-01-20,18:00,Cagliari,0.9,2–2,1.6,Empoli,13796.0,Sardegna Arena,Fabrizio Pasqua
+1483,Sun,2019-01-20,20:30,Napoli,1.7,2–1,1.1,Lazio,19448.0,Stadio San Paolo,Gianluca Rocchi
+1484,Mon,2019-01-21,15:00,Genoa,1.6,0–2,1.5,Milan,19794.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+1485,Mon,2019-01-21,20:30,Juventus,2.7,3–0,0.6,Chievo,30239.0,Allianz Stadium,Marco Piccinini
+1487,Sat,2019-01-26,15:00,Sassuolo,3.1,3–0,1.0,Cagliari,9970.0,Stadio Città del Tricolore,Massimiliano Irrati
+1488,Sat,2019-01-26,18:00,Sampdoria,3.0,4–0,0.5,Udinese,18020.0,Stadio Comunale Luigi Ferraris,Davide Massa
+1489,Sat,2019-01-26,20:30,Milan,0.9,0–0,0.7,Napoli,56729.0,Stadio Giuseppe Meazza,Daniele Doveri
+1490,Sun,2019-01-27,12:30,Chievo,2.8,3–4,2.1,Fiorentina,10000.0,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+1491,Sun,2019-01-27,15:00,Bologna,1.2,0–4,1.2,Frosinone,16076.0,Stadio Renato Dall'Ara,Luca Banti
+1492,Sun,2019-01-27,15:00,Parma,1.9,2–3,2.2,SPAL,15297.0,Stadio Ennio Tardini,Rosario Abisso
+1493,Sun,2019-01-27,15:00,Atalanta,2.6,3–3,1.1,Roma,19459.0,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese
+1494,Sun,2019-01-27,18:00,Torino,0.7,1–0,0.9,Inter,22002.0,Stadio Olimpico di Torino,Fabio Maresca
+1495,Sun,2019-01-27,20:30,Lazio,1.5,1–2,1.3,Juventus,60687.0,Stadio Olimpico,Marco Guida
+1496,Mon,2019-01-28,20:30,Empoli,1.4,1–3,1.8,Genoa,7675.0,Stadio Carlo Castellani,Federico La Penna
+1498,Sat,2019-02-02,15:00,Empoli,2.2,2–2,1.5,Chievo,7030.0,Stadio Carlo Castellani,Marco Di Bello
+1499,Sat,2019-02-02,18:00,Napoli,1.7,3–0,0.7,Sampdoria,19455.0,Stadio San Paolo,Luca Pairetto
+1500,Sat,2019-02-02,20:30,Juventus,2.1,3–3,1.2,Parma,39548.0,Allianz Stadium,Piero Giacomelli
+1501,Sun,2019-02-03,12:30,SPAL,0.6,0–0,0.5,Torino,12743.0,Stadio Paolo Mazza,Maurizio Mariani
+1502,Sun,2019-02-03,15:00,Genoa,1.4,1–1,0.9,Sassuolo,18927.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+1503,Sun,2019-02-03,15:00,Udinese,1.2,1–1,0.8,Fiorentina,18118.0,Dacia Arena,Daniele Orsato
+1504,Sun,2019-02-03,18:00,Inter,1.6,0–1,0.6,Bologna,51566.0,Stadio Giuseppe Meazza,Fabrizio Pasqua
+1505,Sun,2019-02-03,20:30,Roma,1.4,1–1,0.6,Milan,37581.0,Stadio Olimpico,Fabio Maresca
+1506,Mon,2019-02-04,19:00,Frosinone,0.8,0–1,1.2,Lazio,13221.0,Stadio Benito Stirpe,Michael Fabbri
+1507,Mon,2019-02-04,21:00,Cagliari,0.8,0–1,0.6,Atalanta,14821.0,Sardegna Arena,Paolo Valeri
+1509,Thu,2019-02-07,20:30,Lazio,1.6,1–0,0.5,Empoli,28121.0,Stadio Olimpico,Daniele Chiffi
+1510,Fri,2019-02-08,20:30,Chievo,1.4,0–3,1.4,Roma,15000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+1511,Sat,2019-02-09,18:00,Fiorentina,0.7,0–0,2.5,Napoli,29377.0,Stadio Artemio Franchi,Giampaolo Calvarese
+1512,Sat,2019-02-09,20:30,Parma,0.6,0–1,2.1,Inter,18155.0,Stadio Ennio Tardini,Massimiliano Irrati
+1513,Sun,2019-02-10,12:30,Bologna,1.1,1–1,0.8,Genoa,17385.0,Stadio Renato Dall'Ara,Gianluca Rocchi
+1514,Sun,2019-02-10,15:00,Atalanta,2.0,2–1,0.9,SPAL,18342.0,Stadio Atleti Azzurri d'Italia,Davide Massa
+1515,Sun,2019-02-10,15:00,Sampdoria,0.6,0–1,0.5,Frosinone,18937.0,Stadio Comunale Luigi Ferraris,Livio Marinelli
+1516,Sun,2019-02-10,15:00,Torino,1.7,1–0,2.2,Udinese,16557.0,Stadio Olimpico di Torino,Marco Guida
+1517,Sun,2019-02-10,18:00,Sassuolo,0.8,0–3,1.7,Juventus,21584.0,Stadio Città del Tricolore,Paolo Mazzoleni
+1518,Sun,2019-02-10,20:30,Milan,1.9,3–0,1.1,Cagliari,45576.0,Stadio Giuseppe Meazza,Federico La Penna
+1520,Fri,2019-02-15,20:30,Juventus,1.3,3–0,0.6,Frosinone,10570.0,Allianz Stadium,Antonio Giua
+1521,Sat,2019-02-16,18:00,Cagliari,1.3,2–1,0.4,Parma,16119.0,Sardegna Arena,Gianluca Manganiello
+1522,Sat,2019-02-16,20:30,Atalanta,0.8,1–3,0.6,Milan,20801.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+1523,Sun,2019-02-17,12:30,SPAL,1.0,1–4,3.1,Fiorentina,37294.0,Stadio Paolo Mazza,Luca Pairetto
+1524,Sun,2019-02-17,15:00,Udinese,1.3,1–0,1.4,Chievo,18008.0,Dacia Arena,Paolo Valeri
+1525,Sun,2019-02-17,15:00,Empoli,1.4,3–0,0.7,Sassuolo,7202.0,Stadio Carlo Castellani,Maurizio Mariani
+1526,Sun,2019-02-17,15:00,Genoa,1.2,2–1,0.6,Lazio,19936.0,Stadio Comunale Luigi Ferraris,Luca Banti
+1527,Sun,2019-02-17,18:00,Inter,2.1,2–1,1.4,Sampdoria,55127.0,Stadio Giuseppe Meazza,Daniele Doveri
+1528,Sun,2019-02-17,20:30,Napoli,2.6,0–0,0.4,Torino,21830.0,Stadio San Paolo,Michael Fabbri
+1529,Mon,2019-02-18,20:30,Roma,1.6,2–1,2.0,Bologna,31572.0,Stadio Olimpico,Marco Di Bello
+1531,Fri,2019-02-22,20:30,Milan,1.4,3–0,0.7,Empoli,47866.0,Stadio Giuseppe Meazza,Piero Giacomelli
+1532,Sat,2019-02-23,15:00,Torino,1.4,2–0,0.7,Atalanta,21062.0,Stadio Olimpico di Torino,Daniele Orsato
+1533,Sat,2019-02-23,20:30,Frosinone,1.6,2–3,1.9,Roma,15063.0,Stadio Benito Stirpe,Gianluca Manganiello
+1534,Sun,2019-02-24,12:30,Sampdoria,2.7,1–0,0.6,Cagliari,18840.0,Stadio Comunale Luigi Ferraris,Luca Massimi
+1535,Sun,2019-02-24,15:00,Bologna,0.9,0–1,0.4,Juventus,28934.0,Stadio Renato Dall'Ara,Giampaolo Calvarese
+1536,Sun,2019-02-24,15:00,Chievo,0.5,0–0,0.5,Genoa,10500.0,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+1537,Sun,2019-02-24,15:00,Sassuolo,0.4,1–1,1.1,SPAL,11554.0,Stadio Città del Tricolore,Fabio Maresca
+1538,Sun,2019-02-24,18:00,Parma,0.5,0–4,1.5,Napoli,18478.0,Stadio Ennio Tardini,Daniele Chiffi
+1539,Sun,2019-02-24,20:30,Fiorentina,1.8,3–3,1.6,Inter,32824.0,Stadio Artemio Franchi,Rosario Abisso
+1541,Fri,2019-03-01,20:30,Cagliari,1.7,2–1,1.7,Inter,16223.0,Sardegna Arena,Luca Banti
+1542,Sat,2019-03-02,15:00,Empoli,2.8,3–3,2.0,Parma,8404.0,Stadio Carlo Castellani,Marco Di Bello
+1543,Sat,2019-03-02,18:00,Milan,1.1,1–0,0.6,Sassuolo,61462.0,Stadio Giuseppe Meazza,Paolo Valeri
+1544,Sat,2019-03-02,20:30,Lazio,2.0,3–0,0.9,Roma,53112.0,Stadio Olimpico,Paolo Mazzoleni
+1545,Sun,2019-03-03,12:30,Torino,0.9,3–0,1.0,Chievo,25269.0,Stadio Olimpico di Torino,Federico La Penna
+1546,Sun,2019-03-03,15:00,SPAL,0.9,1–2,0.7,Sampdoria,12731.0,Stadio Paolo Mazza,Fabrizio Pasqua
+1547,Sun,2019-03-03,15:00,Genoa,0.8,0–0,0.5,Frosinone,19920.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+1548,Sun,2019-03-03,15:00,Udinese,1.5,2–1,1.7,Bologna,18349.0,Dacia Arena,Davide Massa
+1549,Sun,2019-03-03,18:00,Atalanta,2.2,3–1,0.5,Fiorentina,18796.0,Stadio Atleti Azzurri d'Italia,Marco Guida
+1550,Sun,2019-03-03,20:30,Napoli,2.4,1–2,0.4,Juventus,42667.0,Stadio San Paolo,Gianluca Rocchi
+1552,Fri,2019-03-08,20:30,Juventus,2.1,4–1,0.1,Udinese,39987.0,Allianz Stadium,Daniele Chiffi
+1553,Sat,2019-03-09,18:00,Parma,0.8,1–0,0.8,Genoa,14787.0,Stadio Ennio Tardini,Juan Sacchi
+1554,Sat,2019-03-09,20:30,Chievo,0.3,1–2,1.3,Milan,20000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto
+1555,Sun,2019-03-10,12:30,Bologna,2.7,2–0,0.6,Cagliari,20557.0,Stadio Renato Dall'Ara,Massimiliano Irrati
+1556,Sun,2019-03-10,15:00,Frosinone,0.7,1–2,1.3,Torino,14165.0,Stadio Benito Stirpe,Piero Giacomelli
+1557,Sun,2019-03-10,15:00,Sampdoria,2.2,1–2,1.8,Atalanta,20896.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+1558,Sun,2019-03-10,15:00,Inter,1.0,2–0,0.3,SPAL,61339.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+1559,Sun,2019-03-10,18:00,Sassuolo,1.0,1–1,0.5,Napoli,14969.0,Stadio Città del Tricolore,Gianluca Manganiello
+1560,Sun,2019-03-10,20:30,Fiorentina,0.5,1–1,0.9,Lazio,28727.0,Stadio Artemio Franchi,Daniele Orsato
+1561,Mon,2019-03-11,20:30,Roma,0.8,2–1,0.4,Empoli,34508.0,Stadio Olimpico,Fabio Maresca
+1563,Fri,2019-03-15,20:30,Cagliari,1.0,2–1,0.5,Fiorentina,14735.0,Sardegna Arena,Daniele Doveri
+1564,Sat,2019-03-16,15:00,Sassuolo,1.7,3–5,1.8,Sampdoria,11193.0,Stadio Città del Tricolore,Federico Dionisi
+1565,Sat,2019-03-16,18:00,SPAL,1.0,2–1,1.7,Roma,15089.0,Stadio Paolo Mazza,Gianluca Rocchi
+1566,Sat,2019-03-16,20:30,Torino,1.4,2–3,2.6,Bologna,24863.0,Stadio Olimpico di Torino,Maurizio Mariani
+1567,Sun,2019-03-17,12:30,Genoa,1.4,2–0,0.4,Juventus,30695.0,Stadio Comunale Luigi Ferraris,Marco Di Bello
+1568,Sun,2019-03-17,15:00,Atalanta,2.0,1–1,0.8,Chievo,18537.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati
+1569,Sun,2019-03-17,15:00,Lazio,1.8,4–1,0.3,Parma,38000.0,Stadio Olimpico,Luca Banti
+1570,Sun,2019-03-17,15:00,Empoli,2.1,2–1,1.5,Frosinone,10000.0,Stadio Carlo Castellani,Davide Massa
+1571,Sun,2019-03-17,18:00,Napoli,1.3,4–2,1.0,Udinese,25718.0,Stadio San Paolo,Paolo Valeri
+1572,Sun,2019-03-17,20:30,Milan,1.2,2–3,2.4,Inter,77749.0,Stadio Giuseppe Meazza,Marco Guida
+1574,Fri,2019-03-29,20:30,Chievo,0.8,0–3,1.2,Cagliari,10000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+1575,Sat,2019-03-30,15:00,Udinese,1.7,2–0,1.6,Genoa,17072.0,Dacia Arena,Luca Pairetto
+1576,Sat,2019-03-30,18:00,Juventus,1.4,1–0,0.4,Empoli,39290.0,Allianz Stadium,Federico La Penna
+1577,Sat,2019-03-30,20:30,Sampdoria,1.8,1–0,0.7,Milan,23475.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+1578,Sun,2019-03-31,12:30,Parma,0.8,1–3,3.1,Atalanta,18168.0,Stadio Ennio Tardini,Daniele Chiffi
+1579,Sun,2019-03-31,15:00,Roma,1.7,1–4,2.7,Napoli,36525.0,Stadio Olimpico,Giampaolo Calvarese
+1580,Sun,2019-03-31,15:00,Frosinone,0.9,0–1,0.4,SPAL,12969.0,Stadio Benito Stirpe,Marco Di Bello
+1581,Sun,2019-03-31,15:00,Fiorentina,2.6,1–1,0.6,Torino,36707.0,Stadio Artemio Franchi,Fabrizio Pasqua
+1582,Sun,2019-03-31,18:00,Bologna,1.9,2–1,0.6,Sassuolo,23551.0,Stadio Renato Dall'Ara,Marco Guida
+1583,Sun,2019-03-31,20:30,Inter,0.9,0–1,1.2,Lazio,56348.0,Stadio Giuseppe Meazza,Paolo Mazzoleni
+1585,Tue,2019-04-02,19:00,Milan,1.9,1–1,1.0,Udinese,49665.0,Stadio Giuseppe Meazza,Luca Banti
+1586,Tue,2019-04-02,21:00,Cagliari,0.6,0–2,2.4,Juventus,15958.0,Sardegna Arena,Piero Giacomelli
+1587,Wed,2019-04-03,19:00,Empoli,1.5,2–1,0.7,Napoli,10911.0,Stadio Carlo Castellani,Daniele Doveri
+1588,Wed,2019-04-03,21:00,Roma,1.4,2–2,0.8,Fiorentina,30123.0,Stadio Olimpico,Davide Massa
+1589,Wed,2019-04-03,21:00,SPAL,1.3,1–0,0.6,Lazio,13415.0,Stadio Paolo Mazza,Marco Guida
+1590,Wed,2019-04-03,21:00,Frosinone,1.8,3–2,1.8,Parma,12285.0,Stadio Benito Stirpe,Gianluca Manganiello
+1591,Wed,2019-04-03,21:00,Genoa,0.3,0–4,2.4,Inter,21865.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+1592,Wed,2019-04-03,21:00,Torino,1.1,2–1,0.3,Sampdoria,22618.0,Stadio Olimpico di Torino,Fabio Maresca
+1593,Thu,2019-04-04,19:00,Sassuolo,1.5,4–0,1.4,Chievo,9193.0,Stadio Città del Tricolore,Lorenzo Maggioni
+1594,Thu,2019-04-04,21:00,Atalanta,1.3,4–1,1.1,Bologna,18441.0,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi
+1596,Sat,2019-04-06,15:00,Parma,0.7,0–0,1.0,Torino,16924.0,Stadio Ennio Tardini,Daniele Doveri
+1597,Sat,2019-04-06,18:00,Juventus,2.0,2–1,1.4,Milan,40057.0,Allianz Stadium,Michael Fabbri
+1598,Sat,2019-04-06,20:30,Sampdoria,1.1,0–1,1.4,Roma,19594.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1599,Sun,2019-04-07,12:30,Fiorentina,1.5,0–1,0.7,Frosinone,26958.0,Stadio Artemio Franchi,Daniele Chiffi
+1600,Sun,2019-04-07,15:00,Udinese,2.4,3–2,1.5,Empoli,22537.0,Dacia Arena,Daniele Orsato
+1601,Sun,2019-04-07,15:00,Cagliari,2.2,2–1,1.0,SPAL,16121.0,Sardegna Arena,Luca Banti
+1602,Sun,2019-04-07,18:00,Inter,1.3,0–0,1.2,Atalanta,35000.0,Stadio Giuseppe Meazza,Massimiliano Irrati
+1603,Sun,2019-04-07,18:00,Lazio,3.2,2–2,1.0,Sassuolo,37487.0,Stadio Olimpico,Rosario Abisso
+1604,Sun,2019-04-07,20:30,Napoli,1.7,1–1,0.6,Genoa,22935.0,Stadio San Paolo,Fabrizio Pasqua
+1605,Mon,2019-04-08,20:30,Bologna,2.4,3–0,0.5,Chievo,19107.0,Stadio Renato Dall'Ara,Luca Pairetto
+1607,Sat,2019-04-13,15:00,SPAL,1.0,2–1,0.5,Juventus,16000.0,Stadio Paolo Mazza,Daniele Doveri
+1608,Sat,2019-04-13,18:00,Roma,1.7,1–0,0.5,Udinese,34449.0,Stadio Olimpico,Marco Di Bello
+1609,Sat,2019-04-13,20:30,Milan,1.6,1–0,1.2,Lazio,61216.0,Stadio Giuseppe Meazza,Gianluca Rocchi
+1610,Sun,2019-04-14,12:30,Torino,1.3,1–1,0.8,Cagliari,23869.0,Stadio Olimpico di Torino,Massimiliano Irrati
+1611,Sun,2019-04-14,15:00,Sampdoria,2.6,2–0,1.0,Genoa,30548.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+1612,Sun,2019-04-14,15:00,Sassuolo,1.5,0–0,0.8,Parma,12538.0,Stadio Città del Tricolore,Marco Piccinini
+1613,Sun,2019-04-14,15:00,Fiorentina,0.7,0–0,0.1,Bologna,29394.0,Stadio Artemio Franchi,Piero Giacomelli
+1614,Sun,2019-04-14,18:00,Chievo,0.2,1–3,1.7,Napoli,13500.0,Stadio Marc'Antonio Bentegodi,Federico La Penna
+1615,Sun,2019-04-14,20:30,Frosinone,0.8,1–3,2.9,Inter,15856.0,Stadio Benito Stirpe,Davide Massa
+1616,Mon,2019-04-15,20:30,Atalanta,4.4,0–0,0.4,Empoli,19229.0,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello
+1618,Wed,2019-04-17,19:00,Lazio,1.5,2–0,1.4,Udinese,30162.0,Stadio Olimpico,Giampaolo Calvarese
+1620,Sat,2019-04-20,12:30,Parma,0.8,1–1,0.7,Milan,20018.0,Stadio Ennio Tardini,Paolo Valeri
+1621,Sat,2019-04-20,15:00,Lazio,1.6,1–2,0.9,Chievo,25000.0,Stadio Olimpico,Daniele Chiffi
+1622,Sat,2019-04-20,15:00,Empoli,1.6,2–4,1.5,SPAL,10444.0,Stadio Carlo Castellani,Gianluca Rocchi
+1623,Sat,2019-04-20,15:00,Genoa,1.0,0–1,0.9,Torino,8000.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1624,Sat,2019-04-20,15:00,Bologna,0.8,3–0,0.6,Sampdoria,21391.0,Stadio Renato Dall'Ara,Maurizio Mariani
+1625,Sat,2019-04-20,15:00,Cagliari,1.5,1–0,1.0,Frosinone,16095.0,Sardegna Arena,Rosario Abisso
+1626,Sat,2019-04-20,15:00,Udinese,0.7,1–1,0.7,Sassuolo,21000.0,Dacia Arena,Luca Pairetto
+1627,Sat,2019-04-20,18:00,Juventus,1.3,2–1,1.7,Fiorentina,40339.0,Allianz Stadium,Fabrizio Pasqua
+1628,Sat,2019-04-20,20:30,Inter,1.8,1–1,0.8,Roma,60013.0,Stadio Giuseppe Meazza,Marco Guida
+1629,Mon,2019-04-22,19:00,Napoli,1.8,1–2,0.9,Atalanta,19604.0,Stadio San Paolo,Daniele Orsato
+1631,Sat,2019-04-27,15:00,Bologna,2.2,3–1,0.5,Empoli,25189.0,Stadio Renato Dall'Ara,Paolo Valeri
+1632,Sat,2019-04-27,18:00,Roma,2.5,3–0,0.5,Cagliari,35964.0,Stadio Olimpico,Gianluca Manganiello
+1633,Sat,2019-04-27,20:30,Inter,1.2,1–1,0.4,Juventus,73855.0,Stadio Giuseppe Meazza,Luca Banti
+1634,Sun,2019-04-28,12:30,Frosinone,1.3,0–2,1.7,Napoli,13600.0,Stadio Benito Stirpe,Federico La Penna
+1635,Sun,2019-04-28,15:00,Chievo,0.8,1–1,0.4,Parma,7000.0,Stadio Marc'Antonio Bentegodi,Juan Sacchi
+1636,Sun,2019-04-28,15:00,SPAL,1.0,1–1,1.0,Genoa,13563.0,Stadio Paolo Mazza,Davide Massa
+1637,Sun,2019-04-28,18:00,Sampdoria,1.2,1–2,1.3,Lazio,18450.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+1638,Sun,2019-04-28,20:30,Torino,1.3,2–0,0.6,Milan,26849.0,Stadio Olimpico di Torino,Marco Guida
+1639,Mon,2019-04-29,19:00,Atalanta,2.1,2–0,0.2,Udinese,18663.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli
+1640,Mon,2019-04-29,21:00,Fiorentina,1.1,0–1,1.4,Sassuolo,25567.0,Stadio Artemio Franchi,Francesco Fourneau
+1642,Fri,2019-05-03,20:30,Juventus,1.2,1–1,0.5,Torino,38530.0,Allianz Stadium,Daniele Orsato
+1643,Sat,2019-05-04,18:00,Chievo,0.3,0–4,1.8,SPAL,10000.0,Stadio Marc'Antonio Bentegodi,Riccardo Ros
+1644,Sat,2019-05-04,20:30,Udinese,0.4,0–0,1.6,Inter,24741.0,Dacia Arena,Gianluca Rocchi
+1645,Sun,2019-05-05,12:30,Empoli,1.0,1–0,2.2,Fiorentina,8285.0,Stadio Carlo Castellani,Massimiliano Irrati
+1646,Sun,2019-05-05,15:00,Sassuolo,2.0,2–2,0.9,Frosinone,10073.0,Stadio Città del Tricolore,Antonio Giua
+1647,Sun,2019-05-05,15:00,Parma,2.4,3–3,2.4,Sampdoria,16992.0,Stadio Ennio Tardini,Michael Fabbri
+1648,Sun,2019-05-05,15:00,Lazio,0.6,1–3,1.4,Atalanta,25000.0,Stadio Olimpico,Giampaolo Calvarese
+1649,Sun,2019-05-05,18:00,Genoa,1.9,1–1,0.9,Roma,20703.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1650,Sun,2019-05-05,20:30,Napoli,1.9,2–1,0.5,Cagliari,16171.0,Stadio San Paolo,Daniele Chiffi
+1651,Mon,2019-05-06,20:30,Milan,1.1,2–1,1.1,Bologna,51472.0,Stadio Giuseppe Meazza,Marco Di Bello
+1653,Sat,2019-05-11,15:00,Atalanta,1.3,2–1,1.7,Genoa,12000.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati
+1654,Sat,2019-05-11,18:00,Cagliari,1.0,1–2,0.7,Lazio,16179.0,Sardegna Arena,Michael Fabbri
+1655,Sat,2019-05-11,20:30,Fiorentina,0.6,0–1,0.6,Milan,33250.0,Stadio Artemio Franchi,Maurizio Mariani
+1656,Sun,2019-05-12,12:30,Torino,3.4,3–2,0.7,Sassuolo,25360.0,Stadio Olimpico di Torino,Piero Giacomelli
+1657,Sun,2019-05-12,15:00,Frosinone,2.1,1–3,2.0,Udinese,12261.0,Stadio Benito Stirpe,Fabrizio Pasqua
+1658,Sun,2019-05-12,15:00,Sampdoria,1.9,1–2,2.1,Empoli,19034.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1659,Sun,2019-05-12,18:00,SPAL,1.8,1–2,1.2,Napoli,14175.0,Stadio Paolo Mazza,Eugenio Abbattista
+1660,Sun,2019-05-12,20:30,Roma,1.8,2–0,0.6,Juventus,50825.0,Stadio Olimpico,Davide Massa
+1661,Mon,2019-05-13,19:00,Bologna,1.6,4–1,0.6,Parma,20656.0,Stadio Renato Dall'Ara,Luca Pairetto
+1662,Mon,2019-05-13,21:00,Inter,1.7,2–0,0.1,Chievo,57855.0,Stadio Giuseppe Meazza,Paolo Valeri
+1664,Sat,2019-05-18,15:00,Udinese,1.0,3–2,1.0,SPAL,24614.0,Dacia Arena,Michael Fabbri
+1665,Sat,2019-05-18,18:00,Genoa,2.0,1–1,0.6,Cagliari,22768.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+1666,Sat,2019-05-18,20:30,Sassuolo,1.1,0–0,2.0,Roma,12914.0,Stadio Città del Tricolore,Fabio Maresca
+1667,Sun,2019-05-19,12:30,Chievo,0.7,0–0,0.8,Sampdoria,10000.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano
+1668,Sun,2019-05-19,15:00,Empoli,2.0,4–1,1.7,Torino,10344.0,Stadio Carlo Castellani,Paolo Mazzoleni
+1669,Sun,2019-05-19,15:00,Parma,0.5,1–0,1.2,Fiorentina,17333.0,Stadio Ennio Tardini,Piero Giacomelli
+1670,Sun,2019-05-19,18:00,Milan,1.5,2–0,1.4,Frosinone,61765.0,Stadio Giuseppe Meazza,Gianluca Manganiello
+1671,Sun,2019-05-19,20:30,Juventus,1.0,1–1,1.6,Atalanta,39531.0,Allianz Stadium,Gianluca Rocchi
+1672,Sun,2019-05-19,20:30,Napoli,1.5,4–1,2.4,Inter,25445.0,Stadio San Paolo,Daniele Doveri
+1673,Mon,2019-05-20,20:30,Lazio,1.7,3–3,2.4,Bologna,25000.0,Stadio Olimpico,Fabrizio Pasqua
+1675,Sat,2019-05-25,18:00,Frosinone,0.8,0–0,0.0,Chievo,12167.0,Stadio Benito Stirpe,Antonio Di Martino
+1676,Sat,2019-05-25,20:30,Bologna,1.3,3–2,1.8,Napoli,19351.0,Stadio Renato Dall'Ara,Aleandro Di Paolo
+1677,Sun,2019-05-26,15:00,Torino,2.2,3–1,1.1,Lazio,24428.0,Stadio Olimpico di Torino,Rosario Abisso
+1678,Sun,2019-05-26,18:00,Sampdoria,0.6,2–0,0.4,Juventus,22856.0,Stadio Comunale Luigi Ferraris,Luigi Nasca
+1679,Sun,2019-05-26,20:30,Cagliari,1.9,1–2,0.8,Udinese,15378.0,Sardegna Arena,Manuel Volpi
+1680,Sun,2019-05-26,20:30,Atalanta,2.2,3–1,0.4,Sassuolo,14376.0,Stadio Atleti Azzurri d'Italia,Daniele Doveri
+1681,Sun,2019-05-26,20:30,Fiorentina,0.3,0–0,0.1,Genoa,37527.0,Stadio Artemio Franchi,Daniele Orsato
+1682,Sun,2019-05-26,20:30,SPAL,0.6,2–3,1.6,Milan,16146.0,Stadio Paolo Mazza,Paolo Valeri
+1683,Sun,2019-05-26,20:30,Roma,2.2,2–1,1.2,Parma,62304.0,Stadio Olimpico,Paolo Mazzoleni
+1684,Sun,2019-05-26,20:30,Inter,2.8,2–1,2.1,Empoli,68051.0,Stadio Giuseppe Meazza,Luca Banti
+1685,Sat,2017-08-19,18:00,Juventus,1.2,3–0,1.4,Cagliari,39226.0,Allianz Stadium,Fabio Maresca
+1686,Sat,2017-08-19,20:45,Hellas Verona,1.5,1–3,1.7,Napoli,15215.0,Stadio Marc'Antonio Bentegodi,Michael Fabbri
+1687,Sun,2017-08-20,18:00,Atalanta,1.6,0–1,0.3,Roma,19108.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli
+1688,Sun,2017-08-20,20:45,Sampdoria,2.1,2–1,1.3,Benevento,19223.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+1689,Sun,2017-08-20,20:45,Inter,2.6,3–0,0.6,Fiorentina,51752.0,Stadio Giuseppe Meazza,Paolo Tagliavento
+1690,Sun,2017-08-20,20:45,Crotone,0.6,0–3,2.2,Milan,13478.0,Stadio Ezio Scida,Maurizio Mariani
+1691,Sun,2017-08-20,20:45,Bologna,0.8,1–1,0.4,Torino,19033.0,Stadio Renato Dall'Ara,Davide Massa
+1692,Sun,2017-08-20,20:45,Sassuolo,0.6,0–0,1.1,Genoa,8134.0,Stadio Città del Tricolore,Antonio Damato
+1693,Sun,2017-08-20,20:45,Lazio,1.2,0–0,0.8,SPAL,25000.0,Stadio Olimpico,Rosario Abisso
+1694,Sun,2017-08-20,20:45,Udinese,0.9,1–2,0.7,Chievo,13000.0,Dacia Arena,Claudio Gavillucci
+1696,Sat,2017-08-26,18:00,Benevento,1.5,0–1,1.3,Bologna,11054.0,Stadio Ciro Vigorito,Giampaolo Calvarese
+1697,Sat,2017-08-26,18:00,Genoa,1.3,2–4,1.8,Juventus,26296.0,Stadio Comunale Luigi Ferraris,Luca Banti
+1698,Sat,2017-08-26,20:45,Roma,1.3,1–3,2.6,Inter,49388.0,Stadio Olimpico,Massimiliano Irrati
+1699,Sun,2017-08-27,18:00,Torino,2.3,3–0,0.9,Sassuolo,18289.0,Stadio Olimpico di Torino,Paolo Mazzoleni
+1700,Sun,2017-08-27,20:45,Milan,1.1,2–1,0.9,Cagliari,49525.0,Stadio Giuseppe Meazza,Luca Pairetto
+1701,Sun,2017-08-27,20:45,Crotone,1.1,0–0,0.2,Hellas Verona,9158.0,Stadio Ezio Scida,Marco Guida
+1702,Sun,2017-08-27,20:45,SPAL,1.5,3–2,1.3,Udinese,11000.0,Stadio Paolo Mazza,Paolo Valeri
+1703,Sun,2017-08-27,20:45,Napoli,1.3,3–1,1.1,Atalanta,35102.0,Stadio San Paolo,Marco Di Bello
+1704,Sun,2017-08-27,20:45,Chievo,1.0,1–2,0.6,Lazio,10000.0,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+1705,Sun,2017-08-27,20:45,Fiorentina,2.7,1–2,2.5,Sampdoria,25611.0,Stadio Artemio Franchi,Daniele Doveri
+1707,Sat,2017-09-09,18:00,Juventus,1.4,3–0,0.7,Chievo,39457.0,Allianz Stadium,Michael Fabbri
+1708,Sun,2017-09-10,12:30,Inter,2.0,2–0,0.7,SPAL,57235.0,Stadio Giuseppe Meazza,Claudio Gavillucci
+1709,Sun,2017-09-10,15:00,Atalanta,0.5,2–1,1.2,Sassuolo,16120.0,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello
+1710,Sun,2017-09-10,15:00,Cagliari,1.5,1–0,0.5,Crotone,14076.0,Stadio Sant'Elia,Daniele Doveri
+1711,Sun,2017-09-10,15:00,Udinese,1.4,1–0,0.8,Genoa,2370.0,Dacia Arena,Fabio Maresca
+1712,Sun,2017-09-10,15:00,Hellas Verona,0.9,0–5,3.3,Fiorentina,18181.0,Stadio Marc'Antonio Bentegodi,Antonio Damato
+1713,Sun,2017-09-10,16:00,Lazio,2.2,4–1,1.9,Milan,30000.0,Stadio Olimpico,Gianluca Rocchi
+1714,Sun,2017-09-10,18:00,Benevento,1.0,0–1,1.0,Torino,11416.0,Stadio Ciro Vigorito,Rosario Abisso
+1715,Sun,2017-09-10,20:45,Bologna,0.4,0–3,2.1,Napoli,22398.0,Stadio Renato Dall'Ara,Piero Giacomelli
+1717,Sat,2017-09-16,15:00,Crotone,0.8,0–2,0.5,Inter,13422.0,Stadio Ezio Scida,Luca Banti
+1718,Sat,2017-09-16,18:00,Fiorentina,0.6,2–1,0.4,Bologna,23802.0,Stadio Artemio Franchi,Paolo Valeri
+1719,Sat,2017-09-16,20:45,Roma,4.7,3–0,0.5,Hellas Verona,29045.0,Stadio Olimpico,Luca Pairetto
+1720,Sun,2017-09-17,12:30,Sassuolo,1.6,1–3,1.0,Juventus,21584.0,Stadio Città del Tricolore,Davide Massa
+1721,Sun,2017-09-17,15:00,Milan,2.4,2–1,0.4,Udinese,49473.0,Stadio Giuseppe Meazza,Marco Guida
+1722,Sun,2017-09-17,15:00,Napoli,4.9,6–0,0.2,Benevento,49137.0,Stadio San Paolo,Massimiliano Irrati
+1723,Sun,2017-09-17,15:00,SPAL,0.7,0–2,1.0,Cagliari,10979.0,Stadio Paolo Mazza,Eugenio Abbattista
+1724,Sun,2017-09-17,15:00,Torino,1.8,2–2,0.9,Sampdoria,19879.0,Stadio Olimpico di Torino,Paolo Tagliavento
+1725,Sun,2017-09-17,18:00,Chievo,1.1,1–1,1.7,Atalanta,10000.0,Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+1726,Sun,2017-09-17,20:45,Genoa,0.3,2–3,3.4,Lazio,19065.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+1728,Tue,2017-09-19,20:45,Bologna,0.7,1–1,1.5,Inter,26067.0,Stadio Renato Dall'Ara,Marco Di Bello
+1729,Wed,2017-09-20,18:00,Benevento,1.0,0–4,2.1,Roma,14839.0,Stadio Ciro Vigorito,Michael Fabbri
+1730,Wed,2017-09-20,20:45,Atalanta,3.2,5–1,0.5,Crotone,16378.0,Stadio Atleti Azzurri d'Italia,Marco Piccinini
+1731,Wed,2017-09-20,20:45,Milan,2.2,2–0,0.1,SPAL,45343.0,Stadio Giuseppe Meazza,Rosario Abisso
+1732,Wed,2017-09-20,20:45,Genoa,0.8,1–1,1.1,Chievo,18376.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1733,Wed,2017-09-20,20:45,Lazio,0.2,1–4,2.5,Napoli,28000.0,Stadio Olimpico,Antonio Damato
+1734,Wed,2017-09-20,20:45,Udinese,2.2,2–3,1.4,Torino,14793.0,Dacia Arena,Gianluca Rocchi
+1735,Wed,2017-09-20,20:45,Hellas Verona,0.5,0–0,1.2,Sampdoria,14690.0,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+1736,Wed,2017-09-20,20:45,Juventus,1.0,1–0,0.4,Fiorentina,35652.0,Allianz Stadium,Daniele Doveri
+1737,Wed,2017-09-20,20:45,Cagliari,1.7,0–1,2.4,Sassuolo,13898.0,Stadio Sant'Elia,Claudio Gavillucci
+1739,Sat,2017-09-23,15:00,Roma,3.5,3–1,1.2,Udinese,32457.0,Stadio Olimpico,Davide Massa
+1740,Sat,2017-09-23,18:00,SPAL,0.2,2–3,1.7,Napoli,12650.0,Stadio Paolo Mazza,Maurizio Mariani
+1741,Sat,2017-09-23,20:45,Juventus,2.6,4–0,0.3,Torino,40856.0,Allianz Stadium,Piero Giacomelli
+1742,Sun,2017-09-24,12:30,Sampdoria,1.3,2–0,0.5,Milan,21896.0,Stadio Comunale Luigi Ferraris,Paolo Valeri
+1743,Sun,2017-09-24,15:00,Inter,0.8,1–0,0.6,Genoa,50037.0,Stadio Giuseppe Meazza,Marco Guida
+1744,Sun,2017-09-24,15:00,Crotone,1.4,2–0,2.0,Benevento,8827.0,Stadio Ezio Scida,Daniele Orsato
+1745,Sun,2017-09-24,15:00,Cagliari,1.3,0–2,1.2,Chievo,14287.0,Stadio Sant'Elia,Gianluca Aureliano
+1746,Sun,2017-09-24,15:00,Hellas Verona,0.5,0–3,1.9,Lazio,16316.0,Stadio Marc'Antonio Bentegodi,Massimiliano Irrati
+1747,Sun,2017-09-24,18:00,Sassuolo,0.6,0–1,2.1,Bologna,10805.0,Stadio Città del Tricolore,Paolo Tagliavento
+1748,Sun,2017-09-24,20:45,Fiorentina,0.4,1–1,2.6,Atalanta,21390.0,Stadio Artemio Franchi,Luca Pairetto
+1750,Sat,2017-09-30,18:00,Udinese,4.0,4–0,0.6,Sampdoria,17935.0,Dacia Arena,Michael Fabbri
+1751,Sat,2017-09-30,20:45,Genoa,1.5,0–1,0.9,Bologna,19154.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+1752,Sun,2017-10-01,12:30,Napoli,3.1,3–0,0.3,Cagliari,42813.0,Stadio San Paolo,Rosario Abisso
+1753,Sun,2017-10-01,15:00,Lazio,3.3,6–1,1.5,Sassuolo,25000.0,Stadio Olimpico,Fabio Maresca
+1754,Sun,2017-10-01,15:00,Chievo,1.1,2–1,1.8,Fiorentina,7300.0,Stadio Marc'Antonio Bentegodi,Piero Giacomelli
+1755,Sun,2017-10-01,15:00,Benevento,1.0,1–2,1.9,Inter,16274.0,Stadio Ciro Vigorito,Daniele Doveri
+1756,Sun,2017-10-01,15:00,Torino,1.7,2–2,3.2,Hellas Verona,16834.0,Stadio Olimpico di Torino,Claudio Gavillucci
+1757,Sun,2017-10-01,15:00,SPAL,2.7,1–1,0.6,Crotone,11187.0,Stadio Paolo Mazza,Paolo Mazzoleni
+1758,Sun,2017-10-01,18:00,Milan,1.2,0–2,1.4,Roma,61698.0,Stadio Giuseppe Meazza,Luca Banti
+1759,Sun,2017-10-01,20:45,Atalanta,1.2,2–2,2.5,Juventus,19962.0,Stadio Atleti Azzurri d'Italia,Antonio Damato
+1761,Sat,2017-10-14,18:00,Juventus,2.8,1–2,1.7,Lazio,39145.0,Allianz Stadium,Paolo Mazzoleni
+1762,Sat,2017-10-14,20:45,Roma,0.4,0–1,1.3,Napoli,37914.0,Stadio Olimpico,Gianluca Rocchi
+1763,Sun,2017-10-15,12:30,Fiorentina,2.0,2–1,0.5,Udinese,25156.0,Stadio Artemio Franchi,Massimiliano Irrati
+1764,Sun,2017-10-15,15:00,Sassuolo,2.0,0–0,0.4,Chievo,8712.0,Stadio Città del Tricolore,Gianluca Manganiello
+1765,Sun,2017-10-15,15:00,Crotone,0.7,2–2,1.6,Torino,9563.0,Stadio Ezio Scida,Paolo Valeri
+1766,Sun,2017-10-15,15:00,Bologna,1.6,2–1,0.8,SPAL,24074.0,Stadio Renato Dall'Ara,Marco Guida
+1767,Sun,2017-10-15,15:00,Cagliari,1.3,2–3,2.0,Genoa,13981.0,Stadio Sant'Elia,Davide Massa
+1768,Sun,2017-10-15,15:00,Sampdoria,1.3,3–1,2.8,Atalanta,19672.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+1769,Sun,2017-10-15,20:45,Inter,1.8,3–2,1.1,Milan,78328.0,Stadio Giuseppe Meazza,Paolo Tagliavento
+1770,Mon,2017-10-16,20:45,Hellas Verona,1.5,1–0,0.3,Benevento,16282.0,Stadio Marc'Antonio Bentegodi,Marco Di Bello
+1772,Sat,2017-10-21,18:00,Sampdoria,2.5,5–0,0.4,Crotone,18220.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+1773,Sat,2017-10-21,20:45,Napoli,0.9,0–0,0.3,Inter,49762.0,Stadio San Paolo,Luca Banti
+1774,Sun,2017-10-22,12:30,Chievo,2.9,3–2,1.3,Hellas Verona,15000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+1775,Sun,2017-10-22,15:00,Milan,0.8,0–0,0.5,Genoa,47219.0,Stadio Giuseppe Meazza,Piero Giacomelli
+1776,Sun,2017-10-22,15:00,Benevento,0.2,0–3,2.6,Fiorentina,10887.0,Stadio Ciro Vigorito,Claudio Gavillucci
+1777,Sun,2017-10-22,15:00,Torino,0.4,0–1,1.2,Roma,19646.0,Stadio Olimpico di Torino,Antonio Damato
+1778,Sun,2017-10-22,15:00,Atalanta,2.3,1–0,0.2,Bologna,18205.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+1779,Sun,2017-10-22,15:00,SPAL,1.0,0–1,2.8,Sassuolo,10338.0,Stadio Paolo Mazza,Michael Fabbri
+1780,Sun,2017-10-22,18:00,Udinese,0.8,2–6,1.2,Juventus,21992.0,Dacia Arena,Daniele Doveri
+1781,Sun,2017-10-22,20:45,Lazio,2.1,3–0,0.8,Cagliari,20000.0,Stadio Olimpico,Luca Pairetto
+1783,Tue,2017-10-24,20:45,Inter,2.8,3–2,0.7,Sampdoria,54451.0,Stadio Giuseppe Meazza,Marco Guida
+1784,Wed,2017-10-25,18:30,Atalanta,2.5,3–0,1.7,Hellas Verona,16768.0,Stadio Atleti Azzurri d'Italia,Livio Marinelli
+1785,Wed,2017-10-25,20:45,Fiorentina,2.0,3–0,0.9,Torino,22459.0,Stadio Artemio Franchi,Maurizio Mariani
+1786,Wed,2017-10-25,20:45,Sassuolo,0.6,0–1,0.8,Udinese,7563.0,Stadio Città del Tricolore,Paolo Tagliavento
+1787,Wed,2017-10-25,20:45,Roma,2.7,1–0,0.4,Crotone,31605.0,Stadio Olimpico,Gianluca Manganiello
+1788,Wed,2017-10-25,20:45,Juventus,1.3,4–1,1.1,SPAL,38539.0,Allianz Stadium,Fabrizio Pasqua
+1789,Wed,2017-10-25,20:45,Cagliari,1.8,2–1,1.5,Benevento,13630.0,Stadio Sant'Elia,Massimiliano Irrati
+1790,Wed,2017-10-25,20:45,Genoa,1.2,2–3,1.3,Napoli,23367.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1791,Wed,2017-10-25,20:45,Bologna,0.6,1–2,3.0,Lazio,20070.0,Stadio Renato Dall'Ara,Davide Massa
+1792,Wed,2017-10-25,20:45,Chievo,0.9,1–4,1.8,Milan,7300.0,Stadio Marc'Antonio Bentegodi,Marco Di Bello
+1794,Sat,2017-10-28,18:00,Milan,1.4,0–2,0.8,Juventus,78328.0,Stadio Giuseppe Meazza,Paolo Valeri
+1795,Sat,2017-10-28,20:45,Roma,1.5,1–0,0.7,Bologna,35202.0,Stadio Olimpico,Michael Fabbri
+1796,Sun,2017-10-29,12:30,Benevento,1.0,1–5,3.1,Lazio,12413.0,Stadio Ciro Vigorito,Piero Giacomelli
+1797,Sun,2017-10-29,15:00,SPAL,0.4,1–0,1.2,Genoa,12100.0,Stadio Paolo Mazza,Daniele Orsato
+1798,Sun,2017-10-29,15:00,Napoli,2.6,3–1,0.9,Sassuolo,53609.0,Stadio San Paolo,Luca Pairetto
+1799,Sun,2017-10-29,15:00,Crotone,1.3,2–1,1.0,Fiorentina,8906.0,Stadio Ezio Scida,Fabio Maresca
+1800,Sun,2017-10-29,15:00,Udinese,1.3,2–1,1.1,Atalanta,9038.0,Dacia Arena,Gianluca Rocchi
+1801,Sun,2017-10-29,15:00,Sampdoria,1.5,4–1,1.3,Chievo,17972.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1802,Sun,2017-10-29,20:45,Torino,3.0,2–1,0.5,Cagliari,18309.0,Stadio Olimpico di Torino,Giampaolo Calvarese
+1803,Mon,2017-10-30,20:45,Hellas Verona,1.1,1–2,1.3,Inter,26948.0,Stadio Marc'Antonio Bentegodi,Claudio Gavillucci
+1805,Sat,2017-11-04,18:00,Bologna,1.3,2–3,1.9,Crotone,33766.0,Stadio Renato Dall'Ara,Fabrizio Pasqua
+1806,Sat,2017-11-04,20:45,Genoa,0.9,0–2,2.0,Sampdoria,32288.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+1807,Sun,2017-11-05,12:30,Inter,2.3,1–1,0.6,Torino,71581.0,Stadio Giuseppe Meazza,Daniele Orsato
+1808,Sun,2017-11-05,15:00,Juventus,3.1,2–1,0.1,Benevento,39125.0,Allianz Stadium,Rosario Abisso
+1809,Sun,2017-11-05,15:00,Fiorentina,1.4,2–4,1.9,Roma,25026.0,Stadio Artemio Franchi,Marco Di Bello
+1810,Sun,2017-11-05,15:00,Chievo,0.3,0–0,0.8,Napoli,7300.0,Stadio Marc'Antonio Bentegodi,Davide Massa
+1811,Sun,2017-11-05,15:00,Cagliari,2.6,2–1,0.9,Hellas Verona,13213.0,Stadio Sant'Elia,Marco Guida
+1812,Sun,2017-11-05,18:00,Atalanta,1.0,1–1,0.9,SPAL,17042.0,Stadio Atleti Azzurri d'Italia,Daniele Chiffi
+1813,Sun,2017-11-05,20:45,Sassuolo,0.2,0–2,1.3,Milan,12683.0,Stadio Città del Tricolore,Antonio Damato
+1815,Sat,2017-11-18,18:00,Roma,1.8,2–1,1.4,Lazio,55775.0,Stadio Olimpico,Gianluca Rocchi
+1816,Sat,2017-11-18,20:45,Napoli,1.7,2–1,0.4,Milan,36557.0,Stadio San Paolo,Daniele Doveri
+1817,Sun,2017-11-19,12:30,Crotone,0.5,0–1,1.5,Genoa,9106.0,Stadio Ezio Scida,Paolo Tagliavento
+1818,Sun,2017-11-19,15:00,SPAL,1.4,1–1,1.2,Fiorentina,12124.0,Stadio Paolo Mazza,Giampaolo Calvarese
+1819,Sun,2017-11-19,15:00,Udinese,1.2,0–1,0.9,Cagliari,3830.0,Dacia Arena,Gianluca Manganiello
+1820,Sun,2017-11-19,15:00,Torino,2.9,1–1,0.9,Chievo,15523.0,Stadio Olimpico di Torino,Luca Banti
+1821,Sun,2017-11-19,15:00,Sampdoria,1.5,3–2,3.5,Juventus,28786.0,Stadio Comunale Luigi Ferraris,Marco Guida
+1822,Sun,2017-11-19,15:00,Benevento,1.0,1–2,2.6,Sassuolo,10312.0,Stadio Ciro Vigorito,Paolo Mazzoleni
+1823,Sun,2017-11-19,20:45,Inter,1.3,2–0,0.4,Atalanta,52177.0,Stadio Giuseppe Meazza,Michael Fabbri
+1824,Mon,2017-11-20,20:45,Hellas Verona,1.8,2–3,1.1,Bologna,14938.0,Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+1826,Sat,2017-11-25,15:00,Bologna,1.4,3–0,1.1,Sampdoria,20192.0,Stadio Renato Dall'Ara,Fabio Maresca
+1827,Sat,2017-11-25,18:00,Sassuolo,1.7,0–2,1.9,Hellas Verona,8774.0,Stadio Città del Tricolore,Paolo Valeri
+1828,Sat,2017-11-25,18:00,Chievo,1.5,2–1,0.7,SPAL,10000.0,Stadio Marc'Antonio Bentegodi,Ivan Pezzuto
+1829,Sat,2017-11-25,20:45,Cagliari,0.9,1–3,2.1,Inter,15974.0,Stadio Sant'Elia,Luca Pairetto
+1830,Sun,2017-11-26,15:00,Milan,1.0,0–0,1.0,Torino,53923.0,Stadio Giuseppe Meazza,Massimiliano Irrati
+1831,Sun,2017-11-26,15:00,Udinese,0.4,0–1,1.4,Napoli,19743.0,Dacia Arena,Marco Di Bello
+1832,Sun,2017-11-26,15:00,Genoa,1.2,1–1,2.4,Roma,20949.0,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+1833,Sun,2017-11-26,18:00,Lazio,1.1,1–1,1.6,Fiorentina,25000.0,Stadio Olimpico,Davide Massa
+1834,Sun,2017-11-26,20:45,Juventus,2.5,3–0,0.1,Crotone,35585.0,Allianz Stadium,Claudio Gavillucci
+1835,Mon,2017-11-27,20:45,Atalanta,1.0,1–0,0.7,Benevento,16687.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+1837,Fri,2017-12-01,18:30,Roma,4.1,3–1,0.9,SPAL,35609.0,Stadio Olimpico,Rosario Abisso
+1838,Fri,2017-12-01,20:45,Napoli,1.0,0–1,0.6,Juventus,55567.0,Stadio San Paolo,Daniele Orsato
+1839,Sat,2017-12-02,20:45,Torino,0.6,1–1,1.7,Atalanta,14605.0,Stadio Olimpico di Torino,Paolo Tagliavento
+1840,Sun,2017-12-03,12:30,Benevento,1.1,2–2,1.8,Milan,15710.0,Stadio Ciro Vigorito,Maurizio Mariani
+1841,Sun,2017-12-03,15:00,Fiorentina,2.2,3–0,0.7,Sassuolo,23398.0,Stadio Artemio Franchi,Luca Banti
+1842,Sun,2017-12-03,15:00,Bologna,1.3,1–1,1.1,Cagliari,21940.0,Stadio Renato Dall'Ara,Federico La Penna
+1843,Sun,2017-12-03,15:00,Inter,2.6,5–0,0.9,Chievo,53403.0,Stadio Giuseppe Meazza,Giampaolo Calvarese
+1844,Sun,2017-12-03,20:45,Sampdoria,1.1,1–2,2.1,Lazio,18050.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni
+1845,Mon,2017-12-04,19:00,Crotone,0.6,0–3,2.2,Udinese,8564.0,Stadio Ezio Scida,Davide Massa
+1846,Mon,2017-12-04,21:00,Hellas Verona,0.6,0–1,1.1,Genoa,14136.0,Stadio Marc'Antonio Bentegodi,Antonio Damato
+1848,Sat,2017-12-09,18:00,Cagliari,1.4,2–2,1.3,Sampdoria,13424.0,Stadio Sant'Elia,Fabrizio Pasqua
+1849,Sat,2017-12-09,20:45,Juventus,1.0,0–0,0.3,Inter,41418.0,Allianz Stadium,Paolo Valeri
+1850,Sun,2017-12-10,12:30,Chievo,0.9,0–0,2.6,Roma,10000.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca
+1851,Sun,2017-12-10,15:00,Udinese,0.5,2–0,1.7,Benevento,11000.0,Dacia Arena,Gianluca Aureliano
+1852,Sun,2017-12-10,15:00,Napoli,1.5,0–0,0.3,Fiorentina,45000.0,Stadio San Paolo,Michael Fabbri
+1853,Sun,2017-12-10,15:00,SPAL,2.6,2–2,2.1,Hellas Verona,10851.0,Stadio Paolo Mazza,Gianluca Rocchi
+1854,Sun,2017-12-10,18:00,Sassuolo,2.3,2–1,0.6,Crotone,6000.0,Stadio Città del Tricolore,Gianluca Manganiello
+1855,Sun,2017-12-10,20:45,Milan,1.0,2–1,0.8,Bologna,39504.0,Stadio Giuseppe Meazza,Marco Guida
+1856,Mon,2017-12-11,21:00,Lazio,1.8,1–3,1.4,Torino,20000.0,Stadio Olimpico,Piero Giacomelli
+1857,Tue,2017-12-12,19:00,Genoa,1.4,1–2,1.5,Atalanta,18281.0,Stadio Comunale Luigi Ferraris,Daniele Doveri
+1859,Sat,2017-12-16,15:00,Inter,1.5,1–3,2.8,Udinese,52011.0,Stadio Giuseppe Meazza,Maurizio Mariani
+1860,Sat,2017-12-16,18:00,Torino,0.8,1–3,2.3,Napoli,19000.0,Stadio Olimpico di Torino,Paolo Mazzoleni
+1861,Sat,2017-12-16,20:45,Roma,2.7,1–0,0.3,Cagliari,33133.0,Stadio Olimpico,Antonio Damato
+1862,Sun,2017-12-17,12:30,Hellas Verona,1.1,3–0,2.3,Milan,19439.0,Stadio Marc'Antonio Bentegodi,Daniele Orsato
+1863,Sun,2017-12-17,15:00,Crotone,2.2,1–0,0.7,Chievo,8799.0,Stadio Ezio Scida,Luca Pairetto
+1864,Sun,2017-12-17,15:00,Bologna,0.2,0–3,1.0,Juventus,29270.0,Stadio Renato Dall'Ara,Luca Banti
+1865,Sun,2017-12-17,15:00,Sampdoria,0.9,0–1,2.0,Sassuolo,17563.0,Stadio Comunale Luigi Ferraris,Claudio Gavillucci
+1866,Sun,2017-12-17,15:00,Fiorentina,1.4,0–0,0.3,Genoa,21043.0,Stadio Artemio Franchi,Giampaolo Calvarese
+1867,Sun,2017-12-17,18:00,Benevento,0.9,1–2,2.5,SPAL,10312.0,Stadio Ciro Vigorito,Fabrizio Pasqua
+1868,Sun,2017-12-17,20:45,Atalanta,2.6,3–3,1.2,Lazio,16692.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati
+1870,Fri,2017-12-22,18:00,Chievo,1.9,2–3,1.7,Bologna,7000.0,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+1871,Fri,2017-12-22,20:45,Cagliari,0.2,0–1,1.5,Fiorentina,14297.0,Stadio Sant'Elia,Marco Di Bello
+1872,Sat,2017-12-23,12:30,Lazio,3.3,4–0,0.4,Crotone,25000.0,Stadio Olimpico,Giampaolo Calvarese
+1873,Sat,2017-12-23,15:00,Genoa,3.4,1–0,1.2,Benevento,19465.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+1874,Sat,2017-12-23,15:00,SPAL,1.5,2–2,1.5,Torino,12522.0,Stadio Paolo Mazza,Paolo Valeri
+1875,Sat,2017-12-23,15:00,Sassuolo,0.8,1–0,1.9,Inter,19000.0,Stadio Città del Tricolore,Daniele Doveri
+1876,Sat,2017-12-23,15:00,Udinese,2.1,4–0,0.1,Hellas Verona,14000.0,Dacia Arena,Fabio Maresca
+1877,Sat,2017-12-23,15:00,Napoli,2.3,3–2,0.9,Sampdoria,45000.0,Stadio San Paolo,Davide Massa
+1878,Sat,2017-12-23,18:00,Milan,1.0,0–2,1.7,Atalanta,45746.0,Stadio Giuseppe Meazza,Michael Fabbri
+1879,Sat,2017-12-23,20:45,Juventus,2.5,1–0,2.0,Roma,41100.0,Allianz Stadium,Paolo Tagliavento
+1881,Fri,2017-12-29,20:45,Crotone,0.1,0–1,1.3,Napoli,15000.0,Stadio Ezio Scida,Maurizio Mariani
+1882,Sat,2017-12-30,12:30,Fiorentina,1.4,1–1,0.6,Milan,30213.0,Stadio Artemio Franchi,Luca Banti
+1883,Sat,2017-12-30,15:00,Benevento,1.0,1–0,0.7,Chievo,10200.0,Stadio Ciro Vigorito,Francesco Fourneau
+1884,Sat,2017-12-30,15:00,Bologna,1.1,1–2,1.1,Udinese,20954.0,Stadio Renato Dall'Ara,Claudio Gavillucci
+1885,Sat,2017-12-30,15:00,Torino,0.7,0–0,0.1,Genoa,15000.0,Stadio Olimpico di Torino,Massimiliano Irrati
+1886,Sat,2017-12-30,15:00,Atalanta,2.4,1–2,0.7,Cagliari,17755.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+1887,Sat,2017-12-30,15:00,Roma,1.2,1–1,0.6,Sassuolo,37157.0,Stadio Olimpico,Daniele Orsato
+1888,Sat,2017-12-30,15:00,Sampdoria,2.4,2–0,0.4,SPAL,19583.0,Stadio Comunale Luigi Ferraris,Luca Pairetto
+1889,Sat,2017-12-30,18:00,Inter,0.6,0–0,0.7,Lazio,61852.0,Stadio Giuseppe Meazza,Gianluca Rocchi
+1890,Sat,2017-12-30,20:45,Hellas Verona,0.1,1–3,1.1,Juventus,29215.0,Stadio Marc'Antonio Bentegodi,Paolo Mazzoleni
+1892,Fri,2018-01-05,18:00,Chievo,0.6,1–1,0.5,Udinese,7142.0,Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+1893,Fri,2018-01-05,20:45,Fiorentina,2.2,1–1,0.9,Inter,29428.0,Stadio Artemio Franchi,Paolo Valeri
+1894,Sat,2018-01-06,12:30,Torino,2.2,3–0,1.1,Bologna,16042.0,Stadio Olimpico di Torino,Antonio Damato
+1895,Sat,2018-01-06,15:00,Napoli,2.3,2–0,0.1,Hellas Verona,39580.0,Stadio San Paolo,Rosario Abisso
+1896,Sat,2018-01-06,15:00,Benevento,2.2,3–2,1.0,Sampdoria,11363.0,Stadio Ciro Vigorito,Gianluca Manganiello
+1897,Sat,2018-01-06,15:00,SPAL,2.4,2–5,2.2,Lazio,12057.0,Stadio Paolo Mazza,Paolo Tagliavento
+1898,Sat,2018-01-06,15:00,Milan,2.0,1–0,0.8,Crotone,42533.0,Stadio Giuseppe Meazza,Fabio Maresca
+1899,Sat,2018-01-06,15:00,Genoa,0.5,1–0,1.0,Sassuolo,18639.0,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+1900,Sat,2018-01-06,18:00,Roma,1.5,1–2,0.9,Atalanta,32863.0,Stadio Olimpico,Marco Guida
+1901,Sat,2018-01-06,20:45,Cagliari,0.6,0–1,1.9,Juventus,16233.0,Stadio Sant'Elia,Giampaolo Calvarese
+1903,Sun,2018-01-21,12:30,Atalanta,0.5,0–1,1.0,Napoli,19098.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+1904,Sun,2018-01-21,15:00,Lazio,0.8,5–1,0.4,Chievo,22000.0,Stadio Olimpico,Rosario Abisso
+1905,Sun,2018-01-21,15:00,Hellas Verona,0.7,0–3,1.8,Crotone,16075.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi
+1906,Sun,2018-01-21,15:00,Udinese,0.5,1–1,1.1,SPAL,16000.0,Dacia Arena,Daniele Doveri
+1907,Sun,2018-01-21,15:00,Sampdoria,2.1,3–1,1.6,Fiorentina,19083.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+1908,Sun,2018-01-21,15:00,Sassuolo,1.4,1–1,0.9,Torino,7000.0,Stadio Città del Tricolore,Michael Fabbri
+1909,Sun,2018-01-21,15:00,Bologna,1.7,3–0,0.8,Benevento,20515.0,Stadio Renato Dall'Ara,Eugenio Abbattista
+1910,Sun,2018-01-21,18:00,Cagliari,1.1,1–2,2.2,Milan,15235.0,Stadio Sant'Elia,Marco Guida
+1911,Sun,2018-01-21,20:45,Inter,1.6,1–1,0.7,Roma,57066.0,Stadio Giuseppe Meazza,Davide Massa
+1912,Mon,2018-01-22,20:45,Juventus,1.4,1–0,0.3,Genoa,29412.0,Allianz Stadium,Marco Di Bello
+1914,Wed,2018-01-24,18:30,Lazio,1.0,3–0,0.8,Udinese,23000.0,Stadio Olimpico,Luca Banti
+1916,Wed,2018-01-24,20:45,Sampdoria,1.8,1–1,3.1,Roma,19302.0,Stadio Comunale Luigi Ferraris,Daniele Orsato
+1918,Sat,2018-01-27,18:00,Sassuolo,1.1,0–3,2.3,Atalanta,8852.0,Stadio Città del Tricolore,Paolo Valeri
+1919,Sat,2018-01-27,20:45,Chievo,0.0,0–2,1.1,Juventus,23700.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca
+1920,Sun,2018-01-28,12:30,SPAL,1.4,1–1,1.0,Inter,13098.0,Stadio Paolo Mazza,Piero Giacomelli
+1921,Sun,2018-01-28,15:00,Fiorentina,1.9,1–4,1.9,Hellas Verona,22796.0,Stadio Artemio Franchi,Claudio Gavillucci
+1922,Sun,2018-01-28,15:00,Torino,2.0,3–0,0.6,Benevento,16257.0,Stadio Olimpico di Torino,Maurizio Mariani
+1923,Sun,2018-01-28,15:00,Genoa,1.9,0–1,0.3,Udinese,18896.0,Stadio Comunale Luigi Ferraris,Luca Pairetto
+1924,Sun,2018-01-28,15:00,Crotone,1.4,1–1,0.3,Cagliari,8987.0,Stadio Ezio Scida,Paolo Tagliavento
+1925,Sun,2018-01-28,15:00,Napoli,1.5,3–1,1.2,Bologna,37227.0,Stadio San Paolo,Paolo Mazzoleni
+1926,Sun,2018-01-28,18:00,Milan,0.8,2–1,0.7,Lazio,50822.0,Stadio Giuseppe Meazza,Massimiliano Irrati
+1927,Sun,2018-01-28,20:45,Roma,2.5,0–1,1.5,Sampdoria,29468.0,Stadio Olimpico,Luca Banti
+1929,Sat,2018-02-03,18:00,Sampdoria,0.4,1–1,0.8,Torino,19035.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+1930,Sat,2018-02-03,20:45,Inter,0.9,1–1,0.6,Crotone,46807.0,Stadio Giuseppe Meazza,Daniele Orsato
+1931,Sun,2018-02-04,12:30,Hellas Verona,0.3,0–1,2.2,Roma,17495.0,Stadio Marc'Antonio Bentegodi,Michael Fabbri
+1932,Sun,2018-02-04,15:00,Atalanta,2.4,1–0,0.1,Chievo,17292.0,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese
+1933,Sun,2018-02-04,15:00,Cagliari,1.4,2–0,0.6,SPAL,15986.0,Stadio Sant'Elia,Davide Massa
+1934,Sun,2018-02-04,15:00,Udinese,1.0,1–1,0.9,Milan,23758.0,Dacia Arena,Gianluca Manganiello
+1935,Sun,2018-02-04,15:00,Bologna,0.5,1–2,1.0,Fiorentina,19301.0,Stadio Renato Dall'Ara,Daniele Doveri
+1936,Sun,2018-02-04,15:00,Juventus,2.6,7–0,0.3,Sassuolo,40400.0,Allianz Stadium,Piero Giacomelli
+1937,Sun,2018-02-04,20:45,Benevento,1.0,0–2,1.9,Napoli,15026.0,Stadio Ciro Vigorito,Marco Di Bello
+1938,Mon,2018-02-05,20:45,Lazio,0.8,1–2,0.5,Genoa,30000.0,Stadio Olimpico,Fabio Maresca
+1940,Fri,2018-02-09,20:45,Fiorentina,1.0,0–2,0.4,Juventus,32563.0,Stadio Artemio Franchi,Marco Guida
+1941,Sat,2018-02-10,15:00,SPAL,0.4,0–4,2.2,Milan,13000.0,Stadio Paolo Mazza,Maurizio Mariani
+1942,Sat,2018-02-10,18:00,Crotone,1.1,1–1,1.5,Atalanta,8795.0,Stadio Ezio Scida,Davide Massa
+1943,Sat,2018-02-10,20:45,Napoli,1.7,4–1,0.6,Lazio,32940.0,Stadio San Paolo,Luca Banti
+1944,Sun,2018-02-11,12:30,Sassuolo,1.1,0–0,0.2,Cagliari,9149.0,Stadio Città del Tricolore,Paolo Mazzoleni
+1945,Sun,2018-02-11,15:00,Chievo,0.5,0–1,0.8,Genoa,18000.0,Stadio Marc'Antonio Bentegodi,Claudio Gavillucci
+1946,Sun,2018-02-11,15:00,Inter,2.3,2–1,0.6,Bologna,46915.0,Stadio Giuseppe Meazza,Paolo Valeri
+1947,Sun,2018-02-11,15:00,Sampdoria,4.1,2–0,0.6,Hellas Verona,16635.0,Stadio Comunale Luigi Ferraris,Luca Pairetto
+1948,Sun,2018-02-11,15:00,Torino,1.1,2–0,0.8,Udinese,18740.0,Stadio Olimpico di Torino,Rosario Abisso
+1949,Sun,2018-02-11,20:45,Roma,2.4,5–2,0.7,Benevento,31956.0,Stadio Olimpico,Gianluca Manganiello
+1951,Sat,2018-02-17,15:00,Udinese,0.3,0–2,1.5,Roma,18753.0,Dacia Arena,Marco Di Bello
+1952,Sat,2018-02-17,18:00,Chievo,0.6,2–1,0.5,Cagliari,8000.0,Stadio Marc'Antonio Bentegodi,Luigi Nasca
+1953,Sat,2018-02-17,20:45,Genoa,0.6,2–0,0.7,Inter,20629.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+1954,Sun,2018-02-18,12:30,Torino,0.2,0–1,1.4,Juventus,27000.0,Stadio Olimpico di Torino,Daniele Orsato
+1955,Sun,2018-02-18,15:00,Bologna,1.3,2–1,2.9,Sassuolo,16271.0,Stadio Renato Dall'Ara,Paolo Tagliavento
+1956,Sun,2018-02-18,15:00,Benevento,1.0,3–2,2.1,Crotone,10163.0,Stadio Ciro Vigorito,Gianluca Rocchi
+1957,Sun,2018-02-18,15:00,Napoli,1.4,1–0,0.1,SPAL,34270.0,Stadio San Paolo,Claudio Gavillucci
+1958,Sun,2018-02-18,18:00,Atalanta,0.4,1–1,0.8,Fiorentina,17261.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca
+1959,Sun,2018-02-18,20:45,Milan,1.9,1–0,0.6,Sampdoria,46594.0,Stadio Giuseppe Meazza,Daniele Doveri
+1960,Mon,2018-02-19,20:45,Lazio,3.0,2–0,0.3,Hellas Verona,25000.0,Stadio Olimpico,Giampaolo Calvarese
+1962,Sat,2018-02-24,18:00,Bologna,1.7,2–0,1.1,Genoa,30003.0,Stadio Renato Dall'Ara,Antonio Giua
+1963,Sat,2018-02-24,20:45,Inter,0.7,2–0,0.4,Benevento,47157.0,Stadio Giuseppe Meazza,Luca Pairetto
+1964,Sun,2018-02-25,12:30,Crotone,1.7,2–3,1.5,SPAL,8658.0,Stadio Ezio Scida,Daniele Orsato
+1965,Sun,2018-02-25,15:00,Sampdoria,1.4,2–1,1.2,Udinese,17767.0,Stadio Comunale Luigi Ferraris,Antonio Damato
+1966,Sun,2018-02-25,15:00,Fiorentina,1.3,1–0,0.2,Chievo,21225.0,Stadio Artemio Franchi,Rosario Abisso
+1967,Sun,2018-02-25,15:00,Sassuolo,1.1,0–3,1.0,Lazio,8582.0,Stadio Città del Tricolore,Gianluca Manganiello
+1968,Sun,2018-02-25,15:00,Hellas Verona,1.3,2–1,1.1,Torino,13724.0,Stadio Marc'Antonio Bentegodi,Davide Massa
+1969,Sun,2018-02-25,20:45,Roma,0.8,0–2,2.0,Milan,42537.0,Stadio Olimpico,Paolo Mazzoleni
+1970,Mon,2018-02-26,20:45,Cagliari,0.4,0–5,3.0,Napoli,13757.0,Stadio Sant'Elia,Piero Giacomelli
+1972,Sat,2018-03-03,15:00,SPAL,0.6,1–0,1.1,Bologna,11846.0,Stadio Paolo Mazza,Gianluca Rocchi
+1973,Sat,2018-03-03,18:00,Lazio,0.2,0–1,0.5,Juventus,50000.0,Stadio Olimpico,Luca Banti
+1974,Sat,2018-03-03,20:45,Napoli,2.0,2–4,1.2,Roma,39310.0,Stadio San Paolo,Davide Massa
+1976,Fri,2018-03-09,20:45,Roma,1.4,3–0,1.0,Torino,33847.0,Stadio Olimpico,Fabio Maresca
+1977,Sat,2018-03-10,20:45,Hellas Verona,0.5,1–0,0.8,Chievo,22473.0,Stadio Marc'Antonio Bentegodi,Antonio Damato
+1978,Sun,2018-03-11,12:30,Fiorentina,1.7,1–0,0.7,Benevento,34379.0,Stadio Artemio Franchi,Fabrizio Pasqua
+1979,Sun,2018-03-11,15:00,Juventus,1.9,2–0,0.4,Udinese,40300.0,Allianz Stadium,Piero Giacomelli
+1980,Sun,2018-03-11,15:00,Bologna,1.0,0–1,1.7,Atalanta,17917.0,Stadio Renato Dall'Ara,Giampaolo Calvarese
+1981,Sun,2018-03-11,15:00,Sassuolo,2.7,1–1,0.8,SPAL,12129.0,Stadio Città del Tricolore,Daniele Doveri
+1982,Sun,2018-03-11,15:00,Cagliari,1.4,2–2,0.4,Lazio,14241.0,Stadio Sant'Elia,Marco Guida
+1983,Sun,2018-03-11,15:00,Crotone,2.0,4–1,0.6,Sampdoria,8738.0,Stadio Ezio Scida,Paolo Mazzoleni
+1984,Sun,2018-03-11,18:00,Genoa,0.9,0–1,1.1,Milan,20004.0,Stadio Comunale Luigi Ferraris,Michael Fabbri
+1985,Sun,2018-03-11,20:45,Inter,0.2,0–0,0.6,Napoli,59380.0,Stadio Giuseppe Meazza,Daniele Orsato
+1987,Wed,2018-03-14,18:00,Juventus,1.7,2–0,0.6,Atalanta,36753.0,Allianz Stadium,Maurizio Mariani
+1989,Sat,2018-03-17,18:00,Udinese,0.3,1–2,0.8,Sassuolo,14970.0,Dacia Arena,Rosario Abisso
+1990,Sat,2018-03-17,20:45,SPAL,0.1,0–0,1.0,Juventus,13135.0,Stadio Paolo Mazza,Davide Massa
+1991,Sun,2018-03-18,12:30,Sampdoria,0.6,0–5,2.9,Inter,21336.0,Stadio Comunale Luigi Ferraris,Paolo Tagliavento
+1992,Sun,2018-03-18,15:00,Milan,3.2,3–2,1.3,Chievo,49701.0,Stadio Giuseppe Meazza,Maurizio Mariani
+1993,Sun,2018-03-18,15:00,Crotone,1.5,0–2,2.2,Roma,11691.0,Stadio Ezio Scida,Luca Banti
+1994,Sun,2018-03-18,15:00,Benevento,1.1,1–2,1.9,Cagliari,9443.0,Stadio Ciro Vigorito,Gianluca Manganiello
+1995,Sun,2018-03-18,15:00,Torino,0.7,1–2,2.4,Fiorentina,16401.0,Stadio Olimpico di Torino,Claudio Gavillucci
+1996,Sun,2018-03-18,15:00,Hellas Verona,0.5,0–5,3.6,Atalanta,14919.0,Stadio Marc'Antonio Bentegodi,Marco Di Bello
+1997,Sun,2018-03-18,20:45,Lazio,1.4,1–1,1.2,Bologna,23000.0,Stadio Olimpico,Antonio Damato
+1998,Sun,2018-03-18,20:45,Napoli,1.6,1–0,0.7,Genoa,25000.0,Stadio San Paolo,Fabrizio Pasqua
+2000,Sat,2018-03-31,12:30,Bologna,0.3,1–1,1.6,Roma,20778.0,Stadio Renato Dall'Ara,Massimiliano Irrati
+2001,Sat,2018-03-31,15:00,Genoa,2.7,1–1,0.4,SPAL,19853.0,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+2002,Sat,2018-03-31,15:00,Fiorentina,1.3,2–0,0.6,Crotone,22710.0,Stadio Artemio Franchi,Paolo Valeri
+2003,Sat,2018-03-31,15:00,Atalanta,2.2,2–0,0.6,Udinese,17204.0,Stadio Atleti Azzurri d'Italia,Luca Pairetto
+2004,Sat,2018-03-31,15:00,Cagliari,1.5,0–4,2.5,Torino,15959.0,Stadio Sant'Elia,Federico La Penna
+2005,Sat,2018-03-31,15:00,Inter,2.6,3–0,0.3,Hellas Verona,60230.0,Stadio Giuseppe Meazza,Gianluca Rocchi
+2006,Sat,2018-03-31,15:00,Lazio,3.5,6–2,0.5,Benevento,30000.0,Stadio Olimpico,Giampaolo Calvarese
+2007,Sat,2018-03-31,18:00,Chievo,0.4,2–1,2.0,Sampdoria,10000.0,Stadio Marc'Antonio Bentegodi,Daniele Orsato
+2008,Sat,2018-03-31,18:00,Sassuolo,1.3,1–1,2.1,Napoli,16904.0,Stadio Città del Tricolore,Michael Fabbri
+2009,Sat,2018-03-31,20:45,Juventus,0.5,3–1,0.8,Milan,41156.0,Allianz Stadium,Paolo Mazzoleni
+2011,Tue,2018-04-03,18:30,Udinese,1.0,0–2,2.5,Fiorentina,15450.0,Dacia Arena,Luca Banti
+2012,Tue,2018-04-03,18:30,Genoa,0.8,2–1,1.4,Cagliari,18869.0,Stadio Comunale Luigi Ferraris,Fabio Maresca
+2013,Tue,2018-04-03,18:30,Atalanta,1.4,1–2,1.7,Sampdoria,17612.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+2014,Wed,2018-04-04,17:00,Benevento,3.1,3–0,0.2,Hellas Verona,11006.0,Stadio Ciro Vigorito,Daniele Doveri
+2015,Wed,2018-04-04,18:30,Torino,1.4,4–1,1.4,Crotone,15760.0,Stadio Olimpico di Torino,Marco Guida
+2016,Wed,2018-04-04,18:30,Milan,1.0,0–0,2.6,Inter,77512.0,Stadio Giuseppe Meazza,Marco Di Bello
+2017,Wed,2018-04-04,18:30,Chievo,0.5,1–1,0.7,Sassuolo,8000.0,Stadio Marc'Antonio Bentegodi,Paolo Tagliavento
+2019,Sat,2018-04-07,15:00,Benevento,1.8,2–4,2.4,Juventus,16867.0,Stadio Ciro Vigorito,Fabrizio Pasqua
+2020,Sat,2018-04-07,18:00,SPAL,0.6,1–1,1.9,Atalanta,12906.0,Stadio Paolo Mazza,Antonio Damato
+2021,Sat,2018-04-07,18:00,Roma,1.9,0–2,0.7,Fiorentina,41728.0,Stadio Olimpico,Michael Fabbri
+2022,Sat,2018-04-07,20:45,Sampdoria,0.7,0–0,0.3,Genoa,30117.0,Stadio Comunale Luigi Ferraris,Davide Massa
+2023,Sun,2018-04-08,12:30,Torino,1.3,1–0,1.4,Inter,25507.0,Stadio Olimpico di Torino,Paolo Tagliavento
+2024,Sun,2018-04-08,15:00,Napoli,3.5,2–1,0.1,Chievo,46601.0,Stadio San Paolo,Gianluca Manganiello
+2025,Sun,2018-04-08,15:00,Crotone,0.6,1–0,0.7,Bologna,9679.0,Stadio Ezio Scida,Giampaolo Calvarese
+2026,Sun,2018-04-08,15:00,Hellas Verona,1.1,1–0,0.6,Cagliari,13918.0,Stadio Marc'Antonio Bentegodi,Paolo Valeri
+2027,Sun,2018-04-08,18:00,Udinese,0.8,1–2,1.3,Lazio,21676.0,Dacia Arena,Gianluca Rocchi
+2028,Sun,2018-04-08,20:45,Milan,1.8,1–1,0.5,Sassuolo,43140.0,Stadio Giuseppe Meazza,Luca Pairetto
+2030,Sat,2018-04-14,15:00,Cagliari,2.0,2–1,0.7,Udinese,13755.0,Stadio Sant'Elia,Piero Giacomelli
+2031,Sat,2018-04-14,18:00,Chievo,0.4,0–0,0.8,Torino,9000.0,Stadio Marc'Antonio Bentegodi,Marco Di Bello
+2032,Sat,2018-04-14,18:00,Genoa,2.0,1–0,0.9,Crotone,18988.0,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+2033,Sat,2018-04-14,20:45,Atalanta,1.4,0–0,0.8,Inter,20076.0,Stadio Atleti Azzurri d'Italia,Daniele Doveri
+2034,Sun,2018-04-15,12:30,Fiorentina,2.6,0–0,0.3,SPAL,29651.0,Stadio Artemio Franchi,Daniele Orsato
+2035,Sun,2018-04-15,15:00,Milan,0.6,0–0,1.3,Napoli,65786.0,Stadio Giuseppe Meazza,Luca Banti
+2036,Sun,2018-04-15,15:00,Sassuolo,1.6,2–2,0.9,Benevento,8880.0,Stadio Città del Tricolore,Claudio Gavillucci
+2037,Sun,2018-04-15,15:00,Bologna,1.1,2–0,0.3,Hellas Verona,19172.0,Stadio Renato Dall'Ara,Rosario Abisso
+2038,Sun,2018-04-15,18:00,Juventus,2.0,3–0,0.9,Sampdoria,40121.0,Allianz Stadium,Maurizio Mariani
+2039,Sun,2018-04-15,20:45,Lazio,0.7,0–0,0.7,Roma,55000.0,Stadio Olimpico,Paolo Mazzoleni
+2041,Tue,2018-04-17,20:45,Inter,2.8,4–0,0.0,Cagliari,47467.0,Stadio Giuseppe Meazza,Fabrizio Pasqua
+2042,Wed,2018-04-18,18:00,Benevento,1.1,0–3,4.0,Atalanta,10013.0,Stadio Ciro Vigorito,Davide Ghersini
+2043,Wed,2018-04-18,20:45,Sampdoria,1.1,1–0,0.4,Bologna,17563.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+2044,Wed,2018-04-18,20:45,Hellas Verona,0.4,0–1,1.7,Sassuolo,13996.0,Stadio Marc'Antonio Bentegodi,Marco Guida
+2045,Wed,2018-04-18,20:45,Torino,2.0,1–1,0.6,Milan,24264.0,Stadio Olimpico di Torino,Fabio Maresca
+2046,Wed,2018-04-18,20:45,SPAL,0.6,0–0,0.5,Chievo,12436.0,Stadio Paolo Mazza,Davide Massa
+2047,Wed,2018-04-18,20:45,Napoli,1.6,4–2,2.1,Udinese,44118.0,Stadio San Paolo,Giampaolo Calvarese
+2048,Wed,2018-04-18,20:45,Fiorentina,1.6,3–4,1.7,Lazio,24008.0,Stadio Artemio Franchi,Antonio Damato
+2049,Wed,2018-04-18,20:45,Crotone,0.8,1–1,1.0,Juventus,15021.0,Stadio Ezio Scida,Michael Fabbri
+2050,Wed,2018-04-18,20:45,Roma,1.4,2–1,0.7,Genoa,30095.0,Stadio Olimpico,Luca Pairetto
+2052,Sat,2018-04-21,15:00,SPAL,0.3,0–3,1.8,Roma,12355.0,Stadio Paolo Mazza,Paolo Tagliavento
+2053,Sat,2018-04-21,18:00,Sassuolo,0.8,1–0,0.3,Fiorentina,10709.0,Stadio Città del Tricolore,Massimiliano Irrati
+2054,Sat,2018-04-21,20:45,Milan,1.6,0–1,0.5,Benevento,47655.0,Stadio Giuseppe Meazza,Maurizio Mariani
+2055,Sun,2018-04-22,12:30,Cagliari,1.2,0–0,0.4,Bologna,15024.0,Stadio Sant'Elia,Daniele Doveri
+2056,Sun,2018-04-22,15:00,Atalanta,2.1,2–1,0.6,Torino,18856.0,Stadio Atleti Azzurri d'Italia,Gianluca Aureliano
+2057,Sun,2018-04-22,15:00,Udinese,1.1,1–2,0.6,Crotone,21746.0,Dacia Arena,Marco Di Bello
+2058,Sun,2018-04-22,15:00,Lazio,2.4,4–0,0.4,Sampdoria,40000.0,Stadio Olimpico,Daniele Orsato
+2059,Sun,2018-04-22,15:00,Chievo,1.1,1–2,1.9,Inter,7142.0,Stadio Marc'Antonio Bentegodi,Paolo Valeri
+2060,Sun,2018-04-22,20:45,Juventus,0.2,0–1,0.8,Napoli,40114.0,Allianz Stadium,Gianluca Rocchi
+2061,Mon,2018-04-23,20:45,Genoa,2.3,3–1,1.7,Hellas Verona,18839.0,Stadio Comunale Luigi Ferraris,Claudio Gavillucci
+2063,Sat,2018-04-28,18:00,Roma,1.7,4–1,1.3,Chievo,38694.0,Stadio Olimpico,Giampaolo Calvarese
+2064,Sat,2018-04-28,20:45,Inter,0.3,2–3,1.4,Juventus,78328.0,Stadio Giuseppe Meazza,Daniele Orsato
+2065,Sun,2018-04-29,12:30,Crotone,1.9,4–1,1.5,Sassuolo,13600.0,Stadio Ezio Scida,Antonio Damato
+2066,Sun,2018-04-29,15:00,Sampdoria,3.5,4–1,1.2,Cagliari,20189.0,Stadio Comunale Luigi Ferraris,Rosario Abisso
+2067,Sun,2018-04-29,15:00,Bologna,1.0,1–2,1.4,Milan,24263.0,Stadio Renato Dall'Ara,Piero Giacomelli
+2068,Sun,2018-04-29,15:00,Atalanta,1.6,3–1,0.7,Genoa,18543.0,Stadio Atleti Azzurri d'Italia,Michael Fabbri
+2069,Sun,2018-04-29,15:00,Benevento,1.9,3–3,2.3,Udinese,10363.0,Stadio Ciro Vigorito,Fabio Maresca
+2070,Sun,2018-04-29,15:00,Hellas Verona,1.1,1–3,1.2,SPAL,19233.0,Stadio Marc'Antonio Bentegodi,Luca Banti
+2071,Sun,2018-04-29,18:00,Fiorentina,2.8,3–0,0.2,Napoli,26206.0,Stadio Artemio Franchi,Paolo Mazzoleni
+2072,Sun,2018-04-29,20:45,Torino,0.4,0–1,2.5,Lazio,17060.0,Stadio Olimpico di Torino,Massimiliano Irrati
+2074,Sat,2018-05-05,18:00,Milan,1.4,4–1,0.3,Hellas Verona,49644.0,Stadio Giuseppe Meazza,Fabrizio Pasqua
+2075,Sat,2018-05-05,20:45,Juventus,2.2,3–1,1.2,Bologna,40714.0,Allianz Stadium,Massimiliano Irrati
+2076,Sun,2018-05-06,12:30,Udinese,0.9,0–4,1.9,Inter,22956.0,Dacia Arena,Paolo Mazzoleni
+2077,Sun,2018-05-06,15:00,Napoli,1.9,2–2,0.7,Torino,47057.0,Stadio San Paolo,Daniele Doveri
+2078,Sun,2018-05-06,15:00,Lazio,1.7,1–1,2.7,Atalanta,46337.0,Stadio Olimpico,Luca Banti
+2079,Sun,2018-05-06,15:00,Genoa,2.0,2–3,1.9,Fiorentina,20893.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello
+2080,Sun,2018-05-06,15:00,Chievo,0.6,2–1,0.9,Crotone,17258.0,Stadio Marc'Antonio Bentegodi,Davide Massa
+2081,Sun,2018-05-06,15:00,SPAL,1.9,2–0,0.5,Benevento,11900.0,Stadio Paolo Mazza,Marco Guida
+2082,Sun,2018-05-06,18:00,Sassuolo,1.0,1–0,0.0,Sampdoria,10483.0,Stadio Città del Tricolore,Federico La Penna
+2083,Sun,2018-05-06,20:45,Cagliari,1.0,0–1,0.6,Roma,15157.0,Stadio Sant'Elia,Marco Di Bello
+2085,Sat,2018-05-12,18:00,Benevento,1.4,1–0,1.5,Genoa,14138.0,Stadio Ciro Vigorito,Daniele Chiffi
+2086,Sat,2018-05-12,20:45,Inter,2.2,1–2,1.1,Sassuolo,66876.0,Stadio Giuseppe Meazza,Rosario Abisso
+2087,Sun,2018-05-13,15:00,Bologna,1.2,1–2,1.8,Chievo,22581.0,Stadio Renato Dall'Ara,Luca Pairetto
+2088,Sun,2018-05-13,15:00,Fiorentina,0.5,0–1,2.1,Cagliari,34690.0,Stadio Artemio Franchi,Paolo Valeri
+2089,Sun,2018-05-13,15:00,Torino,1.6,2–1,0.6,SPAL,15000.0,Stadio Olimpico di Torino,Maurizio Mariani
+2090,Sun,2018-05-13,15:00,Crotone,0.6,2–2,2.3,Lazio,14983.0,Stadio Ezio Scida,Paolo Mazzoleni
+2091,Sun,2018-05-13,15:00,Hellas Verona,0.7,0–1,1.4,Udinese,14013.0,Stadio Marc'Antonio Bentegodi,Giampaolo Calvarese
+2092,Sun,2018-05-13,18:00,Atalanta,2.1,1–1,0.3,Milan,19883.0,Stadio Atleti Azzurri d'Italia,Marco Guida
+2093,Sun,2018-05-13,20:45,Roma,0.8,0–0,0.3,Juventus,53091.0,Stadio Olimpico,Paolo Tagliavento
+2094,Sun,2018-05-13,20:45,Sampdoria,0.4,0–2,1.3,Napoli,19250.0,Stadio Comunale Luigi Ferraris,Claudio Gavillucci
+2096,Sat,2018-05-19,15:00,Juventus,2.8,2–1,0.6,Hellas Verona,40380.0,Allianz Stadium,Riccardo Pinzani
+2097,Sun,2018-05-20,15:00,Genoa,1.6,1–2,1.5,Torino,21034.0,Stadio Comunale Luigi Ferraris,Lorenzo Illuzzi
+2098,Sun,2018-05-20,18:00,SPAL,2.1,3–1,0.6,Sampdoria,12753.0,Stadio Paolo Mazza,Marco Di Bello
+2099,Sun,2018-05-20,18:00,Napoli,1.3,2–1,0.3,Crotone,51382.0,Stadio San Paolo,Luca Banti
+2100,Sun,2018-05-20,18:00,Chievo,0.7,1–0,0.5,Benevento,25142.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua
+2101,Sun,2018-05-20,18:00,Cagliari,0.4,1–0,1.3,Atalanta,16233.0,Stadio Sant'Elia,Davide Massa
+2102,Sun,2018-05-20,18:00,Milan,2.4,5–1,0.9,Fiorentina,56968.0,Stadio Giuseppe Meazza,Michael Fabbri
+2103,Sun,2018-05-20,18:00,Udinese,1.4,1–0,0.8,Bologna,24015.0,Dacia Arena,Claudio Gavillucci
+2104,Sun,2018-05-20,20:45,Sassuolo,0.9,0–1,1.2,Roma,13129.0,Stadio Città del Tricolore,Eugenio Abbattista
+2105,Sun,2018-05-20,20:45,Lazio,1.3,2–3,2.4,Inter,68000.0,Stadio Olimpico,Gianluca Rocchi
